@@ -1,76 +1,35 @@
 name: Daily Memory Update
 
 on:
-  schedule:
-    # 每天 UTC 时间 00:00 运行（可根据需要调整）
-    - cron: '0 0 * * *'
-  # 允许手动触发
+  push:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   update-memory:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
       - name: Run scripts
-        id: run-scripts
         run: |
-          # 运行 scripts 文件夹中的所有 Python 脚本
-          SCRIPT_OUTPUT=""
-          for script in scripts/*.py; do
-            if [ -f "$script" ]; then
-              echo "Running $script..."
-              SCRIPT_OUTPUT+="$(python "$script")"
-              SCRIPT_OUTPUT+=$'\n'
-            fi
-          done
-          echo "script_output<<EOF" >> $GITHUB_OUTPUT
-          echo "$SCRIPT_OUTPUT" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-      
-      - name: Update memory.md
-        run: |
-          # 获取当前时间
-          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
-          
-          # 如果 memory.md 不存在，创建它
-          if [ ! -f "memory.md" ]; then
-            echo "# Memory Log" > memory.md
-            echo "" >> memory.md
-          fi
-          
-          # 在文件开头插入最新的运行结果
-          (
-            echo "## Update: $TIMESTAMP"
-            echo ""
-            echo "\`\`\`"
-            cat <<'SCRIPT_OUTPUT'
-          ${{ steps.run-scripts.outputs.script_output }}
-          SCRIPT_OUTPUT
-            echo "\`\`\`"
-            echo ""
-            cat memory.md
-          ) > memory.md.tmp && mv memory.md.tmp memory.md
-      
-      - name: Commit and push changes
+          python scripts/hot_trending.py >> memory.md
+
+      - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
           git add memory.md
-          
-          # 检查是否有变化
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else 
-            git commit -m "chore: update memory.md at $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-            git push
-          fi
+          git commit -m "Auto-update trending info" || exit 0
+          git push
