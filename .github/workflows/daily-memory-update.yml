@@ -70,7 +70,7 @@ jobs:
           # 检查是否有变化
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
+          else 
             git commit -m "chore: update memory.md at $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push
           fi
