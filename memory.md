@@ -443,3 +443,70 @@
    💻 Jupyter Notebook | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-11 03:31:40
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 12 個倉庫:
+
+#1 bytedance /UI-TARS-desktop
+   🔗 https://github.com/bytedance/UI-TARS-desktop
+   📝 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and...
+   💻 TypeScript | ⭐ Star
+
+#2 anthropics /financial-services
+   🔗 https://github.com/anthropics/financial-services
+   📝 N/A
+   💻 Python | ⭐ Star
+
+#3 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 Shell | ⭐ Star
+
+#4 CloakHQ /CloakBrowser
+   🔗 https://github.com/CloakHQ/CloakBrowser
+   📝 Stealth Chromium that passes every bot detection test. Drop-in Playwright replac...
+   💻 Python | ⭐ Star
+
+#5 HKUDS /AI-Trader
+   🔗 https://github.com/HKUDS/AI-Trader
+   📝 "AI-Trader: 100% Fully-Automated Agent-Native Trading"
+   💻 Python | ⭐ Star
+
+#6 jundot /omlx
+   🔗 https://github.com/jundot/omlx
+   📝 LLM inference server with continuous batching & SSD caching for Apple Silicon — ...
+   💻 Python | ⭐ Star
+
+#7 datawhalechina /easy-vibe
+   🔗 https://github.com/datawhalechina/easy-vibe
+   📝 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste...
+   💻 JavaScript | ⭐ Star
+
+#8 playcanvas /supersplat
+   🔗 https://github.com/playcanvas/supersplat
+   📝 3D Gaussian Splat Editor
+   💻 TypeScript | ⭐ Star
+
+#9 lsdefine /GenericAgent
+   🔗 https://github.com/lsdefine/GenericAgent
+   📝 Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system...
+   💻 Python | ⭐ Star
+
+#10 decolua /9router
+   🔗 https://github.com/decolua/9router
+   📝 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An...
+   💻 JavaScript | ⭐ Star
+
+#11 affaan-m /everything-claude-code
+   🔗 https://github.com/affaan-m/everything-claude-code
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#12 datawhalechina /hello-agents
+   🔗 https://github.com/datawhalechina/hello-agents
+   📝 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
