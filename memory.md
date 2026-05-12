@@ -510,3 +510,75 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-12 02:56:18
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 bytedance /UI-TARS-desktop
+   🔗 https://github.com/bytedance/UI-TARS-desktop
+   📝 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and...
+   💻 TypeScript | ⭐ Star
+
+#2 CloakHQ /CloakBrowser
+   🔗 https://github.com/CloakHQ/CloakBrowser
+   📝 Stealth Chromium that passes every bot detection test. Drop-in Playwright replac...
+   💻 Python | ⭐ Star
+
+#3 yikart /AiToEarn
+   🔗 https://github.com/yikart/AiToEarn
+   📝 Let's use AI to Earn!
+   💻 TypeScript | ⭐ Star
+
+#4 playcanvas /supersplat
+   🔗 https://github.com/playcanvas/supersplat
+   📝 3D Gaussian Splat Editor
+   💻 TypeScript | ⭐ Star
+
+#5 datawhalechina /easy-vibe
+   🔗 https://github.com/datawhalechina/easy-vibe
+   📝 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste...
+   💻 JavaScript | ⭐ Star
+
+#6 decolua /9router
+   🔗 https://github.com/decolua/9router
+   📝 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An...
+   💻 JavaScript | ⭐ Star
+
+#7 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#8 millionco /react-doctor
+   🔗 https://github.com/millionco/react-doctor
+   📝 Your agent writes bad React. This catches it
+   💻 TypeScript | ⭐ Star
+
+#9 Lordog /dive-into-llms
+   🔗 https://github.com/Lordog/dive-into-llms
+   📝 《动手学大模型Dive into LLMs》系列编程实践教程
+   💻 Jupyter Notebook | ⭐ Star
+
+#10 AUTOMATIC1111 /stable-diffusion-webui
+   🔗 https://github.com/AUTOMATIC1111/stable-diffusion-webui
+   📝 Stable Diffusion web UI
+   💻 Python | ⭐ Star
+
+#11 rasbt /LLMs-from-scratch
+   🔗 https://github.com/rasbt/LLMs-from-scratch
+   📝 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+   💻 Jupyter Notebook | ⭐ Star
+
+#12 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#13 rohitg00 /agentmemory
+   🔗 https://github.com/rohitg00/agentmemory
+   📝 #1 Persistent memory for AI coding agents based on real-world benchmarks
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
