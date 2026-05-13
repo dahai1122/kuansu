@@ -582,3 +582,65 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-13 03:26:20
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 11 個倉庫:
+
+#1 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#2 rohitg00 /agentmemory
+   🔗 https://github.com/rohitg00/agentmemory
+   📝 #1 Persistent memory for AI coding agents based on real-world benchmarks
+   💻 TypeScript | ⭐ Star
+
+#3 CloakHQ /CloakBrowser
+   🔗 https://github.com/CloakHQ/CloakBrowser
+   📝 Stealth Chromium that passes every bot detection test. Drop-in Playwright replac...
+   💻 Python | ⭐ Star
+
+#4 apernet /hysteria
+   🔗 https://github.com/apernet/hysteria
+   📝 Hysteria is a powerful, lightning fast and censorship resistant proxy.
+   💻 Go | ⭐ Star
+
+#5 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#6 anonfaded /FadCam
+   🔗 https://github.com/anonfaded/FadCam
+   📝 Open-source, ad-free Android multimedia recorder with background video recording...
+   💻 Java | ⭐ Star
+
+#7 millionco /react-doctor
+   🔗 https://github.com/millionco/react-doctor
+   📝 Your agent writes bad React. This catches it
+   💻 TypeScript | ⭐ Star
+
+#8 rasbt /LLMs-from-scratch
+   🔗 https://github.com/rasbt/LLMs-from-scratch
+   📝 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+   💻 Jupyter Notebook | ⭐ Star
+
+#9 datawhalechina /hello-agents
+   🔗 https://github.com/datawhalechina/hello-agents
+   📝 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+   💻 Python | ⭐ Star
+
+#10 yikart /AiToEarn
+   🔗 https://github.com/yikart/AiToEarn
+   📝 Let's use AI to Earn!
+   💻 TypeScript | ⭐ Star
+
+#11 HKUDS /AI-Trader
+   🔗 https://github.com/HKUDS/AI-Trader
+   📝 "AI-Trader: 100% Fully-Automated Agent-Native Trading"
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
