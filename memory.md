@@ -746,3 +746,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-15 03:30:29
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#2 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#3 rohitg00 /agentmemory
+   🔗 https://github.com/rohitg00/agentmemory
+   📝 #1 Persistent memory for AI coding agents based on real-world benchmarks
+   💻 TypeScript | ⭐ Star
+
+#4 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#5 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 A set of ready to use Agent Skills for research, science, engineering, analysis,...
+   💻 Python | ⭐ Star
+
+#6 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#7 roboflow /supervision
+   🔗 https://github.com/roboflow/supervision
+   📝 We write your reusable computer vision tools. 💜
+   💻 Python | ⭐ Star
+
+#8 influxdata /telegraf
+   🔗 https://github.com/influxdata/telegraf
+   📝 Agent for collecting, processing, aggregating, and writing metrics, logs, and ot...
+   💻 Go | ⭐ Star
+
+#9 supertone-inc /supertonic
+   🔗 https://github.com/supertone-inc/supertonic
+   📝 Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+   💻 Swift | ⭐ Star
+
+#10 Genymobile /scrcpy
+   🔗 https://github.com/Genymobile/scrcpy
+   📝 Display and control your Android device
+   💻 C | ⭐ Star
+
+#11 NVIDIA-AI-Blueprints /video-search-and-summarization
+   🔗 https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization
+   📝 Suite of reference architectures for building GPU-accelerated vision agents and ...
+   💻 Python | ⭐ Star
+
+#12 CloakHQ /CloakBrowser
+   🔗 https://github.com/CloakHQ/CloakBrowser
+   📝 Stealth Chromium that passes every bot detection test. Drop-in Playwright replac...
+   💻 Python | ⭐ Star
+
+#13 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#14 github /spec-kit
+   🔗 https://github.com/github/spec-kit
+   📝 💫 Toolkit to help you get started with Spec-Driven Development
+   💻 Python | ⭐ Star
+
+#15 garrytan /gstack
+   🔗 https://github.com/garrytan/gstack
+   📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
