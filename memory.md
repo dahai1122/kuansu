@@ -828,3 +828,70 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-16 02:53:19
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 12 個倉庫:
+
+#1 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#2 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#3 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 A set of ready to use Agent Skills for research, science, engineering, analysis,...
+   💻 Python | ⭐ Star
+
+#4 supertone-inc /supertonic
+   🔗 https://github.com/supertone-inc/supertonic
+   📝 Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+   💻 Swift | ⭐ Star
+
+#5 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#6 influxdata /telegraf
+   🔗 https://github.com/influxdata/telegraf
+   📝 Agent for collecting, processing, aggregating, and writing metrics, logs, and ot...
+   💻 Go | ⭐ Star
+
+#7 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#8 czlonkowski /n8n-mcp
+   🔗 https://github.com/czlonkowski/n8n-mcp
+   📝 A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow...
+   💻 TypeScript | ⭐ Star
+
+#9 NVIDIA-AI-Blueprints /video-search-and-summarization
+   🔗 https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization
+   📝 Suite of reference architectures for building GPU-accelerated vision agents and ...
+   💻 Python | ⭐ Star
+
+#10 oven-sh /bun
+   🔗 https://github.com/oven-sh/bun
+   📝 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – ...
+   💻 Rust | ⭐ Star
+
+#11 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#12 joeseesun /qiaomu-anything-to-notebooklm
+   🔗 https://github.com/joeseesun/qiaomu-anything-to-notebooklm
+   📝 Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat art...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
