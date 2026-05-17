@@ -895,3 +895,50 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-17 03:26:52
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 8 個倉庫:
+
+#1 oven-sh /bun
+   🔗 https://github.com/oven-sh/bun
+   📝 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – ...
+   💻 Rust | ⭐ Star
+
+#2 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 A set of ready to use Agent Skills for research, science, engineering, analysis,...
+   💻 Python | ⭐ Star
+
+#3 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#4 Anil-matcha /Open-Generative-AI
+   🔗 https://github.com/Anil-matcha/Open-Generative-AI
+   📝 Open-source alternative to AI video platforms — Free AI image & video generation...
+   💻 JavaScript | ⭐ Star
+
+#5 supertone-inc /supertonic
+   🔗 https://github.com/supertone-inc/supertonic
+   📝 Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+   💻 Swift | ⭐ Star
+
+#6 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#7 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#8 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool call...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
