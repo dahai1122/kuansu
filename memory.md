@@ -942,3 +942,100 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-18 03:40:11
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 18 個倉庫:
+
+#1 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#2 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#3 calcom /cal.diy
+   🔗 https://github.com/calcom/cal.diy
+   📝 Scheduling infrastructure for absolutely everyone.
+   💻 TypeScript | ⭐ Star
+
+#4 oven-sh /bun
+   🔗 https://github.com/oven-sh/bun
+   📝 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – ...
+   💻 Rust | ⭐ Star
+
+#5 Anil-matcha /Open-Generative-AI
+   🔗 https://github.com/Anil-matcha/Open-Generative-AI
+   📝 Open-source alternative to AI video platforms — Free AI image & video generation...
+   💻 JavaScript | ⭐ Star
+
+#6 BigBodyCobain /Shadowbroker
+   🔗 https://github.com/BigBodyCobain/Shadowbroker
+   📝 Open-source intelligence for the global theater. Track everything from the corpo...
+   💻 Python | ⭐ Star
+
+#7 tech-leads-club /agent-skills
+   🔗 https://github.com/tech-leads-club/agent-skills
+   📝 The secure, validated skill registry for professional AI coding agents. Extend A...
+   💻 TypeScript | ⭐ Star
+
+#8 NirDiamant /agents-towards-production
+   🔗 https://github.com/NirDiamant/agents-towards-production
+   📝 End-to-end, code-first tutorials for building production-grade GenAI agents. Fro...
+   💻 Jupyter Notebook | ⭐ Star
+
+#9 dograh-hq /dograh
+   🔗 https://github.com/dograh-hq/dograh
+   📝 Open Source Voice Agent Platform
+   💻 Python | ⭐ Star
+
+#10 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 A set of ready to use Agent Skills for research, science, engineering, analysis,...
+   💻 Python | ⭐ Star
+
+#11 Light-Heart-Labs /DreamServer
+   🔗 https://github.com/Light-Heart-Labs/DreamServer
+   📝 Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflo...
+   💻 Python | ⭐ Star
+
+#12 KeygraphHQ /shannon
+   🔗 https://github.com/KeygraphHQ/shannon
+   📝 Shannon Lite is an autonomous, white-box AI pentester for web applications and A...
+   💻 TypeScript | ⭐ Star
+
+#13 TryGhost /Ghost
+   🔗 https://github.com/TryGhost/Ghost
+   📝 Independent technology for modern publishing, memberships, subscriptions and new...
+   💻 JavaScript | ⭐ Star
+
+#14 medusajs /medusa
+   🔗 https://github.com/medusajs/medusa
+   📝 The world's most flexible commerce platform.
+   💻 TypeScript | ⭐ Star
+
+#15 knadh /listmonk
+   🔗 https://github.com/knadh/listmonk
+   📝 High performance, self-hosted, newsletter and mailing list manager with a modern...
+   💻 Go | ⭐ Star
+
+#16 plausible /analytics
+   🔗 https://github.com/plausible/analytics
+   📝 Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt...
+   💻 Elixir | ⭐ Star
+
+#17 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — ...
+   💻 TypeScript | ⭐ Star
+
+#18 microsoft /ai-agents-for-beginners
+   🔗 https://github.com/microsoft/ai-agents-for-beginners
+   📝 12 Lessons to Get Started Building AI Agents
+   💻 Jupyter Notebook | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
