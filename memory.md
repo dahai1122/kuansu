@@ -1039,3 +1039,85 @@
    💻 Jupyter Notebook | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-19 03:33:31
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#2 Imbad0202 /academic-research-skills
+   🔗 https://github.com/Imbad0202/academic-research-skills
+   📝 Academic Research Skills for Claude Code: research → write → review → revise → f...
+   💻 Python | ⭐ Star
+
+#3 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#4 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 A set of ready to use Agent Skills for research, science, engineering, analysis,...
+   💻 Python | ⭐ Star
+
+#5 supertone-inc /supertonic
+   🔗 https://github.com/supertone-inc/supertonic
+   📝 Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+   💻 Swift | ⭐ Star
+
+#6 ggml-org /llama.cpp
+   🔗 https://github.com/ggml-org/llama.cpp
+   📝 LLM inference in C/C++
+   💻 C++ | ⭐ Star
+
+#7 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#8 CloakHQ /CloakBrowser
+   🔗 https://github.com/CloakHQ/CloakBrowser
+   📝 Stealth Chromium that passes every bot detection test. Drop-in Playwright replac...
+   💻 Python | ⭐ Star
+
+#9 tech-leads-club /agent-skills
+   🔗 https://github.com/tech-leads-club/agent-skills
+   📝 The secure, validated skill registry for professional AI coding agents. Extend A...
+   💻 TypeScript | ⭐ Star
+
+#10 BigBodyCobain /Shadowbroker
+   🔗 https://github.com/BigBodyCobain/Shadowbroker
+   📝 Open-source intelligence for the global theater. Track everything from the corpo...
+   💻 Python | ⭐ Star
+
+#11 humanlayer /12-factor-agents
+   🔗 https://github.com/humanlayer/12-factor-agents
+   📝 What are the principles we can use to build LLM-powered software that is actuall...
+   💻 TypeScript | ⭐ Star
+
+#12 NVlabs /Sana
+   🔗 https://github.com/NVlabs/Sana
+   📝 SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme...
+   💻 Python | ⭐ Star
+
+#13 microsoft /ai-agents-for-beginners
+   🔗 https://github.com/microsoft/ai-agents-for-beginners
+   📝 12 Lessons to Get Started Building AI Agents
+   💻 Jupyter Notebook | ⭐ Star
+
+#14 ZhuLinsen /daily_stock_analysis
+   🔗 https://github.com/ZhuLinsen/daily_stock_analysis
+   📝 LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stoc...
+   💻 Python | ⭐ Star
+
+#15 plausible /analytics
+   🔗 https://github.com/plausible/analytics
+   📝 Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt...
+   💻 Elixir | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
