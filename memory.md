@@ -1121,3 +1121,100 @@
    💻 Elixir | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-20 03:34:23
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 18 個倉庫:
+
+#1 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#2 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#3 Imbad0202 /academic-research-skills
+   🔗 https://github.com/Imbad0202/academic-research-skills
+   📝 Academic Research Skills for Claude Code: research → write → review → revise → f...
+   💻 Python | ⭐ Star
+
+#4 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#5 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#6 rohitg00 /agentmemory
+   🔗 https://github.com/rohitg00/agentmemory
+   📝 #1 Persistent memory for AI coding agents based on real-world benchmarks
+   💻 TypeScript | ⭐ Star
+
+#7 CloakHQ /CloakBrowser
+   🔗 https://github.com/CloakHQ/CloakBrowser
+   📝 Stealth Chromium that passes every bot detection test. Drop-in Playwright replac...
+   💻 Python | ⭐ Star
+
+#8 rtk-ai /rtk
+   🔗 https://github.com/rtk-ai/rtk
+   📝 CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S...
+   💻 Rust | ⭐ Star
+
+#9 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#10 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — ...
+   💻 TypeScript | ⭐ Star
+
+#11 multica-ai /andrej-karpathy-skills
+   🔗 https://github.com/multica-ai/andrej-karpathy-skills
+   📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...
+   💻 N/A | ⭐ Star
+
+#12 humanlayer /12-factor-agents
+   🔗 https://github.com/humanlayer/12-factor-agents
+   📝 What are the principles we can use to build LLM-powered software that is actuall...
+   💻 TypeScript | ⭐ Star
+
+#13 Diolinux /PhotoGIMP
+   🔗 https://github.com/Diolinux/PhotoGIMP
+   📝 A Patch for GIMP 3+ for Photoshop Users
+   💻 CSS | ⭐ Star
+
+#14 Alishahryar1 /free-claude-code
+   🔗 https://github.com/Alishahryar1/free-claude-code
+   📝 Use claude-code for free in the terminal, VSCode extension or discord like OpenC...
+   💻 Python | ⭐ Star
+
+#15 pascalorg /editor
+   🔗 https://github.com/pascalorg/editor
+   📝 Create and share 3D architectural projects.
+   💻 TypeScript | ⭐ Star
+
+#16 frappe /erpnext
+   🔗 https://github.com/frappe/erpnext
+   📝 Free and Open Source Enterprise Resource Planning (ERP)
+   💻 Python | ⭐ Star
+
+#17 microsoft /ai-agents-for-beginners
+   🔗 https://github.com/microsoft/ai-agents-for-beginners
+   📝 12 Lessons to Get Started Building AI Agents
+   💻 Jupyter Notebook | ⭐ Star
+
+#18 HKUDS /ViMax
+   🔗 https://github.com/HKUDS/ViMax
+   📝 "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Ge...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
