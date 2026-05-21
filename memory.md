@@ -1218,3 +1218,95 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-21 03:40:45
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — ...
+   💻 TypeScript | ⭐ Star
+
+#2 Imbad0202 /academic-research-skills
+   🔗 https://github.com/Imbad0202/academic-research-skills
+   📝 Academic Research Skills for Claude Code: research → write → review → revise → f...
+   💻 Python | ⭐ Star
+
+#3 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. Private, Simple and extremely powerful.
+   💻 Rust | ⭐ Star
+
+#4 multica-ai /andrej-karpathy-skills
+   🔗 https://github.com/multica-ai/andrej-karpathy-skills
+   📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...
+   💻 N/A | ⭐ Star
+
+#5 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#6 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#7 can1357 /oh-my-pi
+   🔗 https://github.com/can1357/oh-my-pi
+   📝 ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness...
+   💻 TypeScript | ⭐ Star
+
+#8 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#9 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#10 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#11 rmyndharis /OpenWA
+   🔗 https://github.com/rmyndharis/OpenWA
+   📝 Free, Open Source, Self-Hosted WhatsApp API Gateway
+   💻 TypeScript | ⭐ Star
+
+#12 truelockmc /streambert
+   🔗 https://github.com/truelockmc/streambert
+   📝 A cross-platform Electron Desktop App to stream and download any Movie, TV Serie...
+   💻 JavaScript | ⭐ Star
+
+#13 opentoonz /opentoonz
+   🔗 https://github.com/opentoonz/opentoonz
+   📝 OpenToonz - An open-source full-featured 2D animation creation software
+   💻 C++ | ⭐ Star
+
+#14 zakirullin /files.md
+   🔗 https://github.com/zakirullin/files.md
+   📝 🌱 Private, quiet space for thinking. A simple app for your .md files.
+   💻 Go | ⭐ Star
+
+#15 rohitg00 /agentmemory
+   🔗 https://github.com/rohitg00/agentmemory
+   📝 #1 Persistent memory for AI coding agents based on real-world benchmarks
+   💻 TypeScript | ⭐ Star
+
+#16 ggml-org /llama.cpp
+   🔗 https://github.com/ggml-org/llama.cpp
+   📝 LLM inference in C/C++
+   💻 C++ | ⭐ Star
+
+#17 HKUDS /ViMax
+   🔗 https://github.com/HKUDS/ViMax
+   📝 "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Ge...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
