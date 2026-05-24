@@ -1489,3 +1489,90 @@
    💻 Jupyter Notebook | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-24 03:35:54
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 Lum1104 /Understand-Anything
+   🔗 https://github.com/Lum1104/Understand-Anything
+   📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowl...
+   💻 TypeScript | ⭐ Star
+
+#2 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#3 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H...
+   💻 TypeScript | ⭐ Star
+
+#4 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#5 Fincept-Corporation /FinceptTerminal
+   🔗 https://github.com/Fincept-Corporation/FinceptTerminal
+   📝 FinceptTerminal is a modern finance application offering advanced market analyti...
+   💻 Python | ⭐ Star
+
+#6 multica-ai /andrej-karpathy-skills
+   🔗 https://github.com/multica-ai/andrej-karpathy-skills
+   📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...
+   💻 N/A | ⭐ Star
+
+#7 dotnet /skills
+   🔗 https://github.com/dotnet/skills
+   📝 Repository for skills to assist AI coding agents with .NET and C#
+   💻 C# | ⭐ Star
+
+#8 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#9 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+#10 presenton /presenton
+   🔗 https://github.com/presenton/presenton
+   📝 Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Al...
+   💻 TypeScript | ⭐ Star
+
+#11 multica-ai /multica
+   🔗 https://github.com/multica-ai/multica
+   📝 The open-source managed agents platform. Turn coding agents into real teammates ...
+   💻 TypeScript | ⭐ Star
+
+#12 trimstray /the-book-of-secret-knowledge
+   🔗 https://github.com/trimstray/the-book-of-secret-knowledge
+   📝 A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,...
+   💻 N/A | ⭐ Star
+
+#13 odoo /odoo
+   🔗 https://github.com/odoo/odoo
+   📝 Odoo. Open Source Apps To Grow Your Business.
+   💻 Python | ⭐ Star
+
+#14 NVlabs /LongLive
+   🔗 https://github.com/NVlabs/LongLive
+   📝 LongLive 2.0: Infra - Long Video Gen
+   💻 Python | ⭐ Star
+
+#15 yt-dlp /yt-dlp
+   🔗 https://github.com/yt-dlp/yt-dlp
+   📝 A feature-rich command-line audio/video downloader
+   💻 Python | ⭐ Star
+
+#16 janestreet /magic-trace
+   🔗 https://github.com/janestreet/magic-trace
+   📝 magic-trace collects and displays high-resolution traces of what a process is do...
+   💻 OCaml | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
