@@ -1576,3 +1576,90 @@
    💻 OCaml | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-25 03:50:05
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 Lum1104 /Understand-Anything
+   🔗 https://github.com/Lum1104/Understand-Anything
+   📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowl...
+   💻 TypeScript | ⭐ Star
+
+#2 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#3 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#4 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#5 multica-ai /andrej-karpathy-skills
+   🔗 https://github.com/multica-ai/andrej-karpathy-skills
+   📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...
+   💻 N/A | ⭐ Star
+
+#6 earendil-works /pi
+   🔗 https://github.com/earendil-works/pi
+   📝 AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla...
+   💻 TypeScript | ⭐ Star
+
+#7 Alishahryar1 /free-claude-code
+   🔗 https://github.com/Alishahryar1/free-claude-code
+   📝 Use claude-code for free in the terminal, VSCode extension or discord like OpenC...
+   💻 Python | ⭐ Star
+
+#8 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H...
+   💻 TypeScript | ⭐ Star
+
+#9 multica-ai /multica
+   🔗 https://github.com/multica-ai/multica
+   📝 The open-source managed agents platform. Turn coding agents into real teammates ...
+   💻 TypeScript | ⭐ Star
+
+#10 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#11 manaflow-ai /cmux
+   🔗 https://github.com/manaflow-ai/cmux
+   📝 Ghostty-based macOS terminal with vertical tabs and notifications for AI coding ...
+   💻 Swift | ⭐ Star
+
+#12 666ghj /MiroFish
+   🔗 https://github.com/666ghj/MiroFish
+   📝 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能...
+   💻 Python | ⭐ Star
+
+#13 codecrafters-io /build-your-own-x
+   🔗 https://github.com/codecrafters-io/build-your-own-x
+   📝 Master programming by recreating your favorite technologies from scratch.
+   💻 Markdown | ⭐ Star
+
+#14 dotnet /skills
+   🔗 https://github.com/dotnet/skills
+   📝 Repository for skills to assist AI coding agents with .NET and C#
+   💻 C# | ⭐ Star
+
+#15 blakeblackshear /frigate
+   🔗 https://github.com/blakeblackshear/frigate
+   📝 NVR with realtime local object detection for IP cameras
+   💻 TypeScript | ⭐ Star
+
+#16 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
