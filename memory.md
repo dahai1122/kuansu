@@ -1663,3 +1663,95 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-26 03:32:39
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 Lum1104 /Understand-Anything
+   🔗 https://github.com/Lum1104/Understand-Anything
+   📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowl...
+   💻 TypeScript | ⭐ Star
+
+#2 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#3 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#4 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#5 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+#6 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H...
+   💻 TypeScript | ⭐ Star
+
+#7 manaflow-ai /cmux
+   🔗 https://github.com/manaflow-ai/cmux
+   📝 Ghostty-based macOS terminal with vertical tabs and notifications for AI coding ...
+   💻 Swift | ⭐ Star
+
+#8 multica-ai /andrej-karpathy-skills
+   🔗 https://github.com/multica-ai/andrej-karpathy-skills
+   📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...
+   💻 N/A | ⭐ Star
+
+#9 Fincept-Corporation /FinceptTerminal
+   🔗 https://github.com/Fincept-Corporation/FinceptTerminal
+   📝 FinceptTerminal is a modern finance application offering advanced market analyti...
+   💻 Python | ⭐ Star
+
+#10 paperless-ngx /paperless-ngx
+   🔗 https://github.com/paperless-ngx/paperless-ngx
+   📝 A community-supported supercharged document management system: scan, index and a...
+   💻 Python | ⭐ Star
+
+#11 anthropics /claude-cookbooks
+   🔗 https://github.com/anthropics/claude-cookbooks
+   📝 A collection of notebooks/recipes showcasing some fun and effective ways of usin...
+   💻 Jupyter Notebook | ⭐ Star
+
+#12 Leonxlnx /taste-skill
+   🔗 https://github.com/Leonxlnx/taste-skill
+   📝 Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen...
+   💻 Shell | ⭐ Star
+
+#13 moeru-ai /airi
+   🔗 https://github.com/moeru-ai/airi
+   📝 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l...
+   💻 TypeScript | ⭐ Star
+
+#14 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#15 Axorax /awesome-free-apps
+   🔗 https://github.com/Axorax/awesome-free-apps
+   📝 Curated list of the best free apps for PC and mobile
+   💻 JavaScript | ⭐ Star
+
+#16 hardikpandya /stop-slop
+   🔗 https://github.com/hardikpandya/stop-slop
+   📝 A skill file for removing AI tells from prose
+   💻 N/A | ⭐ Star
+
+#17 garrytan /gstack
+   🔗 https://github.com/garrytan/gstack
+   📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
