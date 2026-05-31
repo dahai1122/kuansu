@@ -2103,3 +2103,105 @@
    💻 Markdown | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-05-31 03:51:39
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 microsoft /markitdown
+   🔗 https://github.com/microsoft/markitdown
+   📝 Python tool for converting files and office documents to Markdown.
+   💻 Python | ⭐ Star
+
+#2 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+   💻 Python | ⭐ Star
+
+#3 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 Python | ⭐ Star
+
+#4 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#5 revfactory /harness
+   🔗 https://github.com/revfactory/harness
+   📝 A meta-skill that designs domain-specific agent teams, defines specialized agent...
+   💻 HTML | ⭐ Star
+
+#6 EveryInc /compound-engineering-plugin
+   🔗 https://github.com/EveryInc/compound-engineering-plugin
+   📝 Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+   💻 TypeScript | ⭐ Star
+
+#7 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#8 OpenBMB /VoxCPM
+   🔗 https://github.com/OpenBMB/VoxCPM
+   📝 VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D...
+   💻 Python | ⭐ Star
+
+#9 galilai-group /stable-worldmodel
+   🔗 https://github.com/galilai-group/stable-worldmodel
+   📝 A platform for reproducible world model research and evaluation
+   💻 Python | ⭐ Star
+
+#10 Crosstalk-Solutions /project-nomad
+   🔗 https://github.com/Crosstalk-Solutions/project-nomad
+   📝 Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr...
+   💻 TypeScript | ⭐ Star
+
+#11 run-llama /liteparse
+   🔗 https://github.com/run-llama/liteparse
+   📝 A fast, helpful, and open-source document parser
+   💻 Rust | ⭐ Star
+
+#12 chen08209 /FlClash
+   🔗 https://github.com/chen08209/FlClash
+   📝 A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so...
+   💻 Dart | ⭐ Star
+
+#13 FareedKhan-dev /train-llm-from-scratch
+   🔗 https://github.com/FareedKhan-dev/train-llm-from-scratch
+   📝 A straightforward method for training your LLM, from downloading data to generat...
+   💻 Jupyter Notebook | ⭐ Star
+
+#14 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#15 DataTalksClub /data-engineering-zoomcamp
+   🔗 https://github.com/DataTalksClub/data-engineering-zoomcamp
+   📝 Data Engineering Zoomcamp is a free 9-week course on building production-ready d...
+   💻 Jupyter Notebook | ⭐ Star
+
+#16 OpenMOSS /MOSS-TTS
+   🔗 https://github.com/OpenMOSS/MOSS-TTS
+   📝 MOSS‑TTS Family is an open‑source speech and sound generation model family from ...
+   💻 Python | ⭐ Star
+
+#17 dreammis /social-auto-upload
+   🔗 https://github.com/dreammis/social-auto-upload
+   📝 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+   💻 Python | ⭐ Star
+
+#18 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#19 codecrafters-io /build-your-own-x
+   🔗 https://github.com/codecrafters-io/build-your-own-x
+   📝 Master programming by recreating your favorite technologies from scratch.
+   💻 Markdown | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
