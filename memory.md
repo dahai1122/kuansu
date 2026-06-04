@@ -2441,3 +2441,80 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-04 04:00:14
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 chopratejas /headroom
+   🔗 https://github.com/chopratejas/headroom
+   📝 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60...
+   💻 Python | ⭐ Star
+
+#2 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#3 aquasecurity /trivy
+   🔗 https://github.com/aquasecurity/trivy
+   📝 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes...
+   💻 Go | ⭐ Star
+
+#4 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#5 microsoft /markitdown
+   🔗 https://github.com/microsoft/markitdown
+   📝 Python tool for converting files and office documents to Markdown.
+   💻 Python | ⭐ Star
+
+#6 nesquena /hermes-webui
+   🔗 https://github.com/nesquena/hermes-webui
+   📝 Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+   💻 Python | ⭐ Star
+
+#7 D4Vinci /Scrapling
+   🔗 https://github.com/D4Vinci/Scrapling
+   📝 🕷️ An adaptive Web Scraping framework that handles everything from a single requ...
+   💻 Python | ⭐ Star
+
+#8 opendataloader-project /opendataloader-pdf
+   🔗 https://github.com/opendataloader-project/opendataloader-pdf
+   📝 PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+   💻 Java | ⭐ Star
+
+#9 odoo /odoo
+   🔗 https://github.com/odoo/odoo
+   📝 Odoo. Open Source Apps To Grow Your Business.
+   💻 Python | ⭐ Star
+
+#10 Open-LLM-VTuber /Open-LLM-VTuber
+   🔗 https://github.com/Open-LLM-VTuber/Open-LLM-VTuber
+   📝 Talk to any LLM with hands-free voice interaction, voice interruption, and Live2...
+   💻 Python | ⭐ Star
+
+#11 jwasham /coding-interview-university
+   🔗 https://github.com/jwasham/coding-interview-university
+   📝 A complete computer science study plan to become a software engineer.
+   💻 N/A | ⭐ Star
+
+#12 lyogavin /airllm
+   🔗 https://github.com/lyogavin/airllm
+   📝 AirLLM 70B inference with single 4GB GPU
+   💻 Jupyter Notebook | ⭐ Star
+
+#13 supermemoryai /supermemory
+   🔗 https://github.com/supermemoryai/supermemory
+   📝 Memory engine and app that is extremely fast, scalable. The Memory API for the A...
+   💻 TypeScript | ⭐ Star
+
+#14 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
