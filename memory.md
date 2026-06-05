@@ -2518,3 +2518,80 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-05 03:43:44
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 chopratejas /headroom
+   🔗 https://github.com/chopratejas/headroom
+   📝 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60...
+   💻 Python | ⭐ Star
+
+#2 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#3 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#4 PaddlePaddle /PaddleOCR
+   🔗 https://github.com/PaddlePaddle/PaddleOCR
+   📝 Turn any PDF or image document into structured data for your AI. A powerful, lig...
+   💻 Python | ⭐ Star
+
+#5 github /spec-kit
+   🔗 https://github.com/github/spec-kit
+   📝 💫 Toolkit to help you get started with Spec-Driven Development
+   💻 Python | ⭐ Star
+
+#6 NVIDIA /cosmos
+   🔗 https://github.com/NVIDIA/cosmos
+   📝 NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab...
+   💻 Jupyter Notebook | ⭐ Star
+
+#7 lfnovo /open-notebook
+   🔗 https://github.com/lfnovo/open-notebook
+   📝 An Open Source implementation of Notebook LM with more flexibility and features
+   💻 TypeScript | ⭐ Star
+
+#8 Open-LLM-VTuber /Open-LLM-VTuber
+   🔗 https://github.com/Open-LLM-VTuber/Open-LLM-VTuber
+   📝 Talk to any LLM with hands-free voice interaction, voice interruption, and Live2...
+   💻 Python | ⭐ Star
+
+#9 jwasham /coding-interview-university
+   🔗 https://github.com/jwasham/coding-interview-university
+   📝 A complete computer science study plan to become a software engineer.
+   💻 N/A | ⭐ Star
+
+#10 github /copilot-sdk
+   🔗 https://github.com/github/copilot-sdk
+   📝 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   💻 Java | ⭐ Star
+
+#11 aquasecurity /trivy
+   🔗 https://github.com/aquasecurity/trivy
+   📝 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes...
+   💻 Go | ⭐ Star
+
+#12 openclaw /openclaw-windows-node
+   🔗 https://github.com/openclaw/openclaw-windows-node
+   📝 Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an...
+   💻 C# | ⭐ Star
+
+#13 reconurge /flowsint
+   🔗 https://github.com/reconurge/flowsint
+   📝 A modern platform for visual, flexible, and extensible graph-based investigation...
+   💻 TypeScript | ⭐ Star
+
+#14 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
