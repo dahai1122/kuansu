@@ -2687,3 +2687,100 @@
    💻 Java | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-07 03:56:08
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 18 個倉庫:
+
+#1 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#2 CopilotKit /CopilotKit
+   🔗 https://github.com/CopilotKit/CopilotKit
+   📝 The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an...
+   💻 TypeScript | ⭐ Star
+
+#3 MemPalace /mempalace
+   🔗 https://github.com/MemPalace/mempalace
+   📝 The best-benchmarked open-source AI memory system. And it's free.
+   💻 Python | ⭐ Star
+
+#4 danielmiessler /Personal_AI_Infrastructure
+   🔗 https://github.com/danielmiessler/Personal_AI_Infrastructure
+   📝 Agentic AI Infrastructure for magnifying HUMAN capabilities.
+   💻 TypeScript | ⭐ Star
+
+#5 openai /plugins
+   🔗 https://github.com/openai/plugins
+   📝 OpenAI Plugins
+   💻 JavaScript | ⭐ Star
+
+#6 Panniantong /Agent-Reach
+   🔗 https://github.com/Panniantong/Agent-Reach
+   📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...
+   💻 Python | ⭐ Star
+
+#7 sveltejs /svelte
+   🔗 https://github.com/sveltejs/svelte
+   📝 web development for the rest of us
+   💻 JavaScript | ⭐ Star
+
+#8 nginx /nginx
+   🔗 https://github.com/nginx/nginx
+   📝 The official NGINX Open Source repository.
+   💻 C | ⭐ Star
+
+#9 aquasecurity /trivy
+   🔗 https://github.com/aquasecurity/trivy
+   📝 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes...
+   💻 Go | ⭐ Star
+
+#10 golang /go
+   🔗 https://github.com/golang/go
+   📝 The Go programming language
+   💻 Go | ⭐ Star
+
+#11 lfnovo /open-notebook
+   🔗 https://github.com/lfnovo/open-notebook
+   📝 An Open Source implementation of Notebook LM with more flexibility and features
+   💻 TypeScript | ⭐ Star
+
+#12 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#13 santifer /career-ops
+   🔗 https://github.com/santifer/career-ops
+   📝 AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,...
+   💻 JavaScript | ⭐ Star
+
+#14 openai /whisper
+   🔗 https://github.com/openai/whisper
+   📝 Robust Speech Recognition via Large-Scale Weak Supervision
+   💻 Python | ⭐ Star
+
+#15 vitejs /vite
+   🔗 https://github.com/vitejs/vite
+   📝 Next generation frontend tooling. It's fast!
+   💻 TypeScript | ⭐ Star
+
+#16 microsoft /mxc
+   🔗 https://github.com/microsoft/mxc
+   📝 Policy-driven, layered isolation and containment
+   💻 Rust | ⭐ Star
+
+#17 PaddlePaddle /PaddleOCR
+   🔗 https://github.com/PaddlePaddle/PaddleOCR
+   📝 Turn any PDF or image document into structured data for your AI. A powerful, lig...
+   💻 Python | ⭐ Star
+
+#18 microsoft /VibeVoice
+   🔗 https://github.com/microsoft/VibeVoice
+   📝 Open-Source Frontier Voice AI
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
