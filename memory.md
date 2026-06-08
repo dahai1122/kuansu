@@ -2784,3 +2784,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-08 04:00:08
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#2 opencv /opencv
+   🔗 https://github.com/opencv/opencv
+   📝 Open Source Computer Vision Library
+   💻 C++ | ⭐ Star
+
+#3 Leonxlnx /taste-skill
+   🔗 https://github.com/Leonxlnx/taste-skill
+   📝 Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen...
+   💻 Shell | ⭐ Star
+
+#4 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#5 lfnovo /open-notebook
+   🔗 https://github.com/lfnovo/open-notebook
+   📝 An Open Source implementation of Notebook LM with more flexibility and features
+   💻 TypeScript | ⭐ Star
+
+#6 yikart /AiToEarn
+   🔗 https://github.com/yikart/AiToEarn
+   📝 Let's use AI to Earn!
+   💻 TypeScript | ⭐ Star
+
+#7 aaif-goose /goose
+   🔗 https://github.com/aaif-goose/goose
+   📝 an open source, extensible AI agent that goes beyond code suggestions - install,...
+   💻 Rust | ⭐ Star
+
+#8 Crosstalk-Solutions /project-nomad
+   🔗 https://github.com/Crosstalk-Solutions/project-nomad
+   📝 Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr...
+   💻 TypeScript | ⭐ Star
+
+#9 ggml-org /llama.cpp
+   🔗 https://github.com/ggml-org/llama.cpp
+   📝 LLM inference in C/C++
+   💻 C++ | ⭐ Star
+
+#10 RyanCodrai /turbovec
+   🔗 https://github.com/RyanCodrai/turbovec
+   📝 A vector index built on TurboQuant, written in Rust with Python bindings
+   💻 Python | ⭐ Star
+
+#11 TapXWorld /ChinaTextbook
+   🔗 https://github.com/TapXWorld/ChinaTextbook
+   📝 所有小初高、大学PDF教材。
+   💻 Roff | ⭐ Star
+
+#12 openai /plugins
+   🔗 https://github.com/openai/plugins
+   📝 OpenAI Plugins
+   💻 JavaScript | ⭐ Star
+
+#13 refactoringhq /tolaria
+   🔗 https://github.com/refactoringhq/tolaria
+   📝 Desktop app to manage markdown knowledge bases
+   💻 TypeScript | ⭐ Star
+
+#14 HunxByts /GhostTrack
+   🔗 https://github.com/HunxByts/GhostTrack
+   📝 Useful tool to track location or mobile number
+   💻 Python | ⭐ Star
+
+#15 microsoft /pg_durable
+   🔗 https://github.com/microsoft/pg_durable
+   📝 PostgreSQL in-database durable execution
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
