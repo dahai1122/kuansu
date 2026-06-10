@@ -2953,3 +2953,90 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-10 03:41:23
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#2 RyanCodrai /turbovec
+   🔗 https://github.com/RyanCodrai/turbovec
+   📝 A vector index built on TurboQuant, written in Rust with Python bindings
+   💻 Python | ⭐ Star
+
+#3 roboflow /supervision
+   🔗 https://github.com/roboflow/supervision
+   📝 We write your reusable computer vision tools. 💜
+   💻 Python | ⭐ Star
+
+#4 opencv /opencv
+   🔗 https://github.com/opencv/opencv
+   📝 Open Source Computer Vision Library
+   💻 C++ | ⭐ Star
+
+#5 refactoringhq /tolaria
+   🔗 https://github.com/refactoringhq/tolaria
+   📝 Desktop app to manage markdown knowledge bases
+   💻 TypeScript | ⭐ Star
+
+#6 aaif-goose /goose
+   🔗 https://github.com/aaif-goose/goose
+   📝 an open source, extensible AI agent that goes beyond code suggestions - install,...
+   💻 Rust | ⭐ Star
+
+#7 Andyyyy64 /whichllm
+   🔗 https://github.com/Andyyyy64/whichllm
+   📝 Find the local LLM that actually runs and performs best on your hardware. Ranked...
+   💻 Python | ⭐ Star
+
+#8 TapXWorld /ChinaTextbook
+   🔗 https://github.com/TapXWorld/ChinaTextbook
+   📝 所有小初高、大学PDF教材。
+   💻 Roff | ⭐ Star
+
+#9 x1xhlol /system-prompts-and-models-of-ai-tools
+   🔗 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+   📝 FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni...
+   💻 N/A | ⭐ Star
+
+#10 yikart /AiToEarn
+   🔗 https://github.com/yikart/AiToEarn
+   📝 Let's use AI to Earn!
+   💻 TypeScript | ⭐ Star
+
+#11 phuryn /pm-skills
+   🔗 https://github.com/phuryn/pm-skills
+   📝 PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove...
+   💻 N/A | ⭐ Star
+
+#12 santifer /career-ops
+   🔗 https://github.com/santifer/career-ops
+   📝 AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,...
+   💻 JavaScript | ⭐ Star
+
+#13 openai /plugins
+   🔗 https://github.com/openai/plugins
+   📝 OpenAI Plugins
+   💻 JavaScript | ⭐ Star
+
+#14 maziyarpanahi /openmed
+   🔗 https://github.com/maziyarpanahi/openmed
+   📝 open-source healthcare ai
+   💻 Python | ⭐ Star
+
+#15 francescopace /espectre
+   🔗 https://github.com/francescopace/espectre
+   📝 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), wi...
+   💻 Python | ⭐ Star
+
+#16 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 Shell | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
