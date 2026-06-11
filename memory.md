@@ -3040,3 +3040,95 @@
    💻 Shell | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-11 03:58:12
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 Shell | ⭐ Star
+
+#2 phuryn /pm-skills
+   🔗 https://github.com/phuryn/pm-skills
+   📝 PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove...
+   💻 N/A | ⭐ Star
+
+#3 refactoringhq /tolaria
+   🔗 https://github.com/refactoringhq/tolaria
+   📝 Desktop app to manage markdown knowledge bases
+   💻 TypeScript | ⭐ Star
+
+#4 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#5 soxoj /maigret
+   🔗 https://github.com/soxoj/maigret
+   📝 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+   💻 Python | ⭐ Star
+
+#6 x1xhlol /system-prompts-and-models-of-ai-tools
+   🔗 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+   📝 FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni...
+   💻 N/A | ⭐ Star
+
+#7 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#8 masterking32 /MasterDnsVPN
+   🔗 https://github.com/masterking32/MasterDnsVPN
+   📝 Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli...
+   💻 Go | ⭐ Star
+
+#9 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+   💻 Python | ⭐ Star
+
+#10 maziyarpanahi /openmed
+   🔗 https://github.com/maziyarpanahi/openmed
+   📝 open-source healthcare ai
+   💻 Python | ⭐ Star
+
+#11 luongnv89 /claude-howto
+   🔗 https://github.com/luongnv89/claude-howto
+   📝 A visual, example-driven guide to Claude Code — from basic concepts to advanced ...
+   💻 Python | ⭐ Star
+
+#12 activeloopai /hivemind
+   🔗 https://github.com/activeloopai/hivemind
+   📝 One brain for all your agents
+   💻 TypeScript | ⭐ Star
+
+#13 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#14 roboflow /supervision
+   🔗 https://github.com/roboflow/supervision
+   📝 We write your reusable computer vision tools. 💜
+   💻 Python | ⭐ Star
+
+#15 google /skills
+   🔗 https://github.com/google/skills
+   📝 Agent Skills for Google products and technologies
+   💻 Python | ⭐ Star
+
+#16 FareedKhan-dev /train-llm-from-scratch
+   🔗 https://github.com/FareedKhan-dev/train-llm-from-scratch
+   📝 A straightforward method for training your LLM, from downloading data to generat...
+   💻 Python | ⭐ Star
+
+#17 apple /container
+   🔗 https://github.com/apple/container
+   📝 A tool for creating and running Linux containers using lightweight virtual machi...
+   💻 Swift | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
