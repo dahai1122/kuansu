@@ -3132,3 +3132,105 @@
    💻 Swift | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-12 03:57:40
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 apple /container
+   🔗 https://github.com/apple/container
+   📝 A tool for creating and running Linux containers using lightweight virtual machi...
+   💻 Swift | ⭐ Star
+
+#2 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 Shell | ⭐ Star
+
+#3 maziyarpanahi /openmed
+   🔗 https://github.com/maziyarpanahi/openmed
+   📝 open-source healthcare ai
+   💻 Python | ⭐ Star
+
+#4 phuryn /pm-skills
+   🔗 https://github.com/phuryn/pm-skills
+   📝 PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove...
+   💻 N/A | ⭐ Star
+
+#5 NVIDIA /SkillSpector
+   🔗 https://github.com/NVIDIA/SkillSpector
+   📝 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns...
+   💻 Python | ⭐ Star
+
+#6 soxoj /maigret
+   🔗 https://github.com/soxoj/maigret
+   📝 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+   💻 Python | ⭐ Star
+
+#7 x1xhlol /system-prompts-and-models-of-ai-tools
+   🔗 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+   📝 FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni...
+   💻 N/A | ⭐ Star
+
+#8 refactoringhq /tolaria
+   🔗 https://github.com/refactoringhq/tolaria
+   📝 Desktop app to manage markdown knowledge bases
+   💻 TypeScript | ⭐ Star
+
+#9 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#10 restic /restic
+   🔗 https://github.com/restic/restic
+   📝 Fast, secure, efficient backup program
+   💻 Go | ⭐ Star
+
+#11 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#12 masterking32 /MasterDnsVPN
+   🔗 https://github.com/masterking32/MasterDnsVPN
+   📝 Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli...
+   💻 Go | ⭐ Star
+
+#13 chatwoot /chatwoot
+   🔗 https://github.com/chatwoot/chatwoot
+   📝 Open-source live-chat, email support, omni-channel desk. An alternative to Inter...
+   💻 Ruby | ⭐ Star
+
+#14 kenn-io /agentsview
+   🔗 https://github.com/kenn-io/agentsview
+   📝 Local-first session intelligence and analytics for coding agents, supporting Cla...
+   💻 Go | ⭐ Star
+
+#15 alchaincyf /zhangxuefeng-skill
+   🔗 https://github.com/alchaincyf/zhangxuefeng-skill
+   📝 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
+   💻 N/A | ⭐ Star
+
+#16 TapXWorld /ChinaTextbook
+   🔗 https://github.com/TapXWorld/ChinaTextbook
+   📝 所有小初高、大学PDF教材。
+   💻 Roff | ⭐ Star
+
+#17 hexo-ai /sia
+   🔗 https://github.com/hexo-ai/sia
+   📝 SIA is a Self Improving AI framework to autonomously improve the performance of ...
+   💻 Python | ⭐ Star
+
+#18 mattermost /mattermost
+   🔗 https://github.com/mattermost/mattermost
+   📝 Mattermost is an open source platform for secure collaboration across the entire...
+   💻 TypeScript | ⭐ Star
+
+#19 bannedbook /fanqiang
+   🔗 https://github.com/bannedbook/fanqiang
+   📝 翻墙-科学上网
+   💻 Kotlin | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
