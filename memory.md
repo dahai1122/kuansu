@@ -3234,3 +3234,75 @@
    💻 Kotlin | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-13 03:42:10
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 Shell | ⭐ Star
+
+#2 music-assistant /server
+   🔗 https://github.com/music-assistant/server
+   📝 Music Assistant is a free, opensource Media library manager that connects to you...
+   💻 Python | ⭐ Star
+
+#3 mattermost /mattermost
+   🔗 https://github.com/mattermost/mattermost
+   📝 Mattermost is an open source platform for secure collaboration across the entire...
+   💻 TypeScript | ⭐ Star
+
+#4 apple /container
+   🔗 https://github.com/apple/container
+   📝 A tool for creating and running Linux containers using lightweight virtual machi...
+   💻 Swift | ⭐ Star
+
+#5 iptv-org /iptv
+   🔗 https://github.com/iptv-org/iptv
+   📝 Collection of publicly available IPTV channels from all over the world
+   💻 TypeScript | ⭐ Star
+
+#6 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#7 refactoringhq /tolaria
+   🔗 https://github.com/refactoringhq/tolaria
+   📝 Desktop app to manage markdown knowledge bases
+   💻 TypeScript | ⭐ Star
+
+#8 maziyarpanahi /openmed
+   🔗 https://github.com/maziyarpanahi/openmed
+   📝 open-source healthcare ai
+   💻 Python | ⭐ Star
+
+#9 LMCache /LMCache
+   🔗 https://github.com/LMCache/LMCache
+   📝 LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+   💻 Python | ⭐ Star
+
+#10 phuryn /pm-skills
+   🔗 https://github.com/phuryn/pm-skills
+   📝 PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove...
+   💻 N/A | ⭐ Star
+
+#11 masterking32 /MasterDnsVPN
+   🔗 https://github.com/masterking32/MasterDnsVPN
+   📝 Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli...
+   💻 Go | ⭐ Star
+
+#12 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#13 microsoft /PowerToys
+   🔗 https://github.com/microsoft/PowerToys
+   📝 Microsoft PowerToys is a collection of utilities that supercharge productivity a...
+   💻 C | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
