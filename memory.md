@@ -3306,3 +3306,80 @@
    💻 C | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-14 04:03:50
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 iptv-org /iptv
+   🔗 https://github.com/iptv-org/iptv
+   📝 Collection of publicly available IPTV channels from all over the world
+   💻 TypeScript | ⭐ Star
+
+#2 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 Shell | ⭐ Star
+
+#3 chatwoot /chatwoot
+   🔗 https://github.com/chatwoot/chatwoot
+   📝 Open-source live-chat, email support, omni-channel desk. An alternative to Inter...
+   💻 Ruby | ⭐ Star
+
+#4 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#5 apple /container
+   🔗 https://github.com/apple/container
+   📝 A tool for creating and running Linux containers using lightweight virtual machi...
+   💻 Swift | ⭐ Star
+
+#6 music-assistant /server
+   🔗 https://github.com/music-assistant/server
+   📝 Music Assistant is a free, opensource Media library manager that connects to you...
+   💻 Python | ⭐ Star
+
+#7 kenn-io /agentsview
+   🔗 https://github.com/kenn-io/agentsview
+   📝 Local-first session intelligence and analytics for coding agents, supporting Cla...
+   💻 Go | ⭐ Star
+
+#8 LMCache /LMCache
+   🔗 https://github.com/LMCache/LMCache
+   📝 LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+   💻 Python | ⭐ Star
+
+#9 microsoft /PowerToys
+   🔗 https://github.com/microsoft/PowerToys
+   📝 Microsoft PowerToys is a collection of utilities that supercharge productivity a...
+   💻 C | ⭐ Star
+
+#10 andrewyng /aisuite
+   🔗 https://github.com/andrewyng/aisuite
+   📝 Simple, unified interface to multiple Generative AI providers
+   💻 Python | ⭐ Star
+
+#11 NVIDIA /SkillSpector
+   🔗 https://github.com/NVIDIA/SkillSpector
+   📝 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns...
+   💻 Python | ⭐ Star
+
+#12 bannedbook /fanqiang
+   🔗 https://github.com/bannedbook/fanqiang
+   📝 翻墙-科学上网
+   💻 Kotlin | ⭐ Star
+
+#13 swc-project /swc
+   🔗 https://github.com/swc-project/swc
+   📝 Rust-based platform for the Web
+   💻 Rust | ⭐ Star
+
+#14 x1xhlol /system-prompts-and-models-of-ai-tools
+   🔗 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+   📝 FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni...
+   💻 N/A | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
