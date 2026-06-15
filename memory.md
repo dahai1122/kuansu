@@ -3383,3 +3383,85 @@
    💻 N/A | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-15 04:16:32
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 iptv-org /iptv
+   🔗 https://github.com/iptv-org/iptv
+   📝 Collection of publicly available IPTV channels from all over the world
+   💻 TypeScript | ⭐ Star
+
+#2 freeCodeCamp /freeCodeCamp
+   🔗 https://github.com/freeCodeCamp/freeCodeCamp
+   📝 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,...
+   💻 TypeScript | ⭐ Star
+
+#3 pytest-dev /pytest
+   🔗 https://github.com/pytest-dev/pytest
+   📝 The pytest framework makes it easy to write small tests, yet scales to support c...
+   💻 Python | ⭐ Star
+
+#4 swc-project /swc
+   🔗 https://github.com/swc-project/swc
+   📝 Rust-based platform for the Web
+   💻 Rust | ⭐ Star
+
+#5 chatwoot /chatwoot
+   🔗 https://github.com/chatwoot/chatwoot
+   📝 Open-source live-chat, email support, omni-channel desk. An alternative to Inter...
+   💻 Ruby | ⭐ Star
+
+#6 NVIDIA /SkillSpector
+   🔗 https://github.com/NVIDIA/SkillSpector
+   📝 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns...
+   💻 Python | ⭐ Star
+
+#7 meshery /meshery
+   🔗 https://github.com/meshery/meshery
+   📝 Meshery, the cloud native manager
+   💻 TypeScript | ⭐ Star
+
+#8 cypress-io /cypress
+   🔗 https://github.com/cypress-io/cypress
+   📝 Fast, easy and reliable testing for anything that runs in a browser.
+   💻 TypeScript | ⭐ Star
+
+#9 GorvGoyl /Clone-Wars
+   🔗 https://github.com/GorvGoyl/Clone-Wars
+   📝 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix...
+   💻 N/A | ⭐ Star
+
+#10 Introduction-to-Autonomous-Robots /Introduction-to-Autonomous-Robots
+   🔗 https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots
+   📝 Introduction to Autonomous Robots
+   💻 TeX | ⭐ Star
+
+#11 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#12 music-assistant /server
+   🔗 https://github.com/music-assistant/server
+   📝 Music Assistant is a free, opensource Media library manager that connects to you...
+   💻 Python | ⭐ Star
+
+#13 Free-TV /IPTV
+   🔗 https://github.com/Free-TV/IPTV
+   📝 M3U Playlist for free TV channels
+   💻 Python | ⭐ Star
+
+#14 puppeteer /puppeteer
+   🔗 https://github.com/puppeteer/puppeteer
+   📝 JavaScript API for Chrome and Firefox
+   💻 TypeScript | ⭐ Star
+
+#15 andrewyng /aisuite
+   🔗 https://github.com/andrewyng/aisuite
+   📝 Simple, unified interface to multiple Generative AI providers
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
