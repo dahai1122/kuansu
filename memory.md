@@ -3465,3 +3465,100 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-16 04:06:08
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 18 個倉庫:
+
+#1 iptv-org /iptv
+   🔗 https://github.com/iptv-org/iptv
+   📝 Collection of publicly available IPTV channels from all over the world
+   💻 TypeScript | ⭐ Star
+
+#2 teslamate-org /teslamate
+   🔗 https://github.com/teslamate-org/teslamate
+   📝 A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
+   💻 Elixir | ⭐ Star
+
+#3 Panniantong /Agent-Reach
+   🔗 https://github.com/Panniantong/Agent-Reach
+   📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...
+   💻 Python | ⭐ Star
+
+#4 meshery /meshery
+   🔗 https://github.com/meshery/meshery
+   📝 Meshery, the cloud native manager
+   💻 TypeScript | ⭐ Star
+
+#5 chatwoot /chatwoot
+   🔗 https://github.com/chatwoot/chatwoot
+   📝 Open-source live-chat, email support, omni-channel desk. An alternative to Inter...
+   💻 Ruby | ⭐ Star
+
+#6 krahets /hello-algo
+   🔗 https://github.com/krahets/hello-algo
+   📝 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, ...
+   💻 Java | ⭐ Star
+
+#7 freeCodeCamp /freeCodeCamp
+   🔗 https://github.com/freeCodeCamp/freeCodeCamp
+   📝 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,...
+   💻 TypeScript | ⭐ Star
+
+#8 trycua /cua
+   🔗 https://github.com/trycua/cua
+   📝 Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma...
+   💻 HTML | ⭐ Star
+
+#9 jwasham /coding-interview-university
+   🔗 https://github.com/jwasham/coding-interview-university
+   📝 A complete computer science study plan to become a software engineer.
+   💻 N/A | ⭐ Star
+
+#10 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#11 music-assistant /server
+   🔗 https://github.com/music-assistant/server
+   📝 Music Assistant is a free, opensource Media library manager that connects to you...
+   💻 Python | ⭐ Star
+
+#12 Free-TV /IPTV
+   🔗 https://github.com/Free-TV/IPTV
+   📝 M3U Playlist for free TV channels
+   💻 Python | ⭐ Star
+
+#13 Introduction-to-Autonomous-Robots /Introduction-to-Autonomous-Robots
+   🔗 https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots
+   📝 Introduction to Autonomous Robots
+   💻 TeX | ⭐ Star
+
+#14 Raphire /Win11Debloat
+   🔗 https://github.com/Raphire/Win11Debloat
+   📝 A simple, lightweight PowerShell script that allows you to remove pre-installed ...
+   💻 PowerShell | ⭐ Star
+
+#15 mikeroyal /Self-Hosting-Guide
+   🔗 https://github.com/mikeroyal/Self-Hosting-Guide
+   📝 Self-Hosting Guide. Learn all about locally hosting (on premises & private web s...
+   💻 Dockerfile | ⭐ Star
+
+#16 itsfatduck /optimizerDuck
+   🔗 https://github.com/itsfatduck/optimizerDuck
+   📝 Free, open-source Windows optimization tool for performance, privacy, and simpli...
+   💻 C# | ⭐ Star
+
+#17 NVIDIA /SkillSpector
+   🔗 https://github.com/NVIDIA/SkillSpector
+   📝 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns...
+   💻 Python | ⭐ Star
+
+#18 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
