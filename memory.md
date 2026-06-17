@@ -3562,3 +3562,75 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-17 04:06:56
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 freeCodeCamp /freeCodeCamp
+   🔗 https://github.com/freeCodeCamp/freeCodeCamp
+   📝 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,...
+   💻 TypeScript | ⭐ Star
+
+#2 swc-project /swc
+   🔗 https://github.com/swc-project/swc
+   📝 Rust-based platform for the Web
+   💻 Rust | ⭐ Star
+
+#3 teslamate-org /teslamate
+   🔗 https://github.com/teslamate-org/teslamate
+   📝 A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
+   💻 Elixir | ⭐ Star
+
+#4 iptv-org /iptv
+   🔗 https://github.com/iptv-org/iptv
+   📝 Collection of publicly available IPTV channels from all over the world
+   💻 TypeScript | ⭐ Star
+
+#5 puppeteer /puppeteer
+   🔗 https://github.com/puppeteer/puppeteer
+   📝 JavaScript API for Chrome and Firefox
+   💻 TypeScript | ⭐ Star
+
+#6 meshery /meshery
+   🔗 https://github.com/meshery/meshery
+   📝 Meshery, the cloud native manager
+   💻 TypeScript | ⭐ Star
+
+#7 cypress-io /cypress
+   🔗 https://github.com/cypress-io/cypress
+   📝 Fast, easy and reliable testing for anything that runs in a browser.
+   💻 TypeScript | ⭐ Star
+
+#8 music-assistant /server
+   🔗 https://github.com/music-assistant/server
+   📝 Music Assistant is a free, opensource Media library manager that connects to you...
+   💻 Python | ⭐ Star
+
+#9 Universal-Debloater-Alliance /universal-android-debloater-next-generation
+   🔗 https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+   📝 Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic...
+   💻 Rust | ⭐ Star
+
+#10 OpenBMB /VoxCPM
+   🔗 https://github.com/OpenBMB/VoxCPM
+   📝 VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D...
+   💻 Python | ⭐ Star
+
+#11 alibaba /zvec
+   🔗 https://github.com/alibaba/zvec
+   📝 A lightweight, lightning-fast, in-process vector database
+   💻 C++ | ⭐ Star
+
+#12 rmyndharis /OpenWA
+   🔗 https://github.com/rmyndharis/OpenWA
+   📝 Free, Open Source, Self-Hosted WhatsApp API Gateway
+   💻 TypeScript | ⭐ Star
+
+#13 n0-computer /iroh
+   🔗 https://github.com/n0-computer/iroh
+   📝 IP addresses break, dial keys instead. Modular networking stack in Rust.
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
