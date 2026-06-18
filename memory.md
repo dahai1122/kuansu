@@ -3634,3 +3634,110 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-18 03:57:54
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 20 個倉庫:
+
+#1 DeusData /codebase-memory-mcp
+   🔗 https://github.com/DeusData/codebase-memory-mcp
+   📝 High-performance code intelligence MCP server. Indexes codebases into a persiste...
+   💻 C | ⭐ Star
+
+#2 n0-computer /iroh
+   🔗 https://github.com/n0-computer/iroh
+   📝 IP addresses break, dial keys instead. Modular networking stack in Rust.
+   💻 Rust | ⭐ Star
+
+#3 Panniantong /Agent-Reach
+   🔗 https://github.com/Panniantong/Agent-Reach
+   📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...
+   💻 Python | ⭐ Star
+
+#4 meshery /meshery
+   🔗 https://github.com/meshery/meshery
+   📝 Meshery, the cloud native manager
+   💻 TypeScript | ⭐ Star
+
+#5 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#6 google-research /timesfm
+   🔗 https://github.com/google-research/timesfm
+   📝 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo...
+   💻 Python | ⭐ Star
+
+#7 RocketChat /Rocket.Chat
+   🔗 https://github.com/RocketChat/Rocket.Chat
+   📝 The Secure CommsOS™ for mission-critical operations
+   💻 TypeScript | ⭐ Star
+
+#8 continuedev /continue
+   🔗 https://github.com/continuedev/continue
+   📝 open-source coding agent
+   💻 TypeScript | ⭐ Star
+
+#9 penpot /penpot
+   🔗 https://github.com/penpot/penpot
+   📝 Penpot: The open-source design tool for design and code collaboration
+   💻 Clojure | ⭐ Star
+
+#10 krahets /hello-algo
+   🔗 https://github.com/krahets/hello-algo
+   📝 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, ...
+   💻 Java | ⭐ Star
+
+#11 Universal-Debloater-Alliance /universal-android-debloater-next-generation
+   🔗 https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+   📝 Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic...
+   💻 Rust | ⭐ Star
+
+#12 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#13 yairm210 /Unciv
+   🔗 https://github.com/yairm210/Unciv
+   📝 Open-source Android/Desktop remake of Civ V
+   💻 Kotlin | ⭐ Star
+
+#14 freeCodeCamp /freeCodeCamp
+   🔗 https://github.com/freeCodeCamp/freeCodeCamp
+   📝 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,...
+   💻 TypeScript | ⭐ Star
+
+#15 bytedance /UI-TARS-desktop
+   🔗 https://github.com/bytedance/UI-TARS-desktop
+   📝 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and...
+   💻 TypeScript | ⭐ Star
+
+#16 nautechsystems /nautilus_trader
+   🔗 https://github.com/nautechsystems/nautilus_trader
+   📝 Production-grade Rust-native trading engine with deterministic event-driven arch...
+   💻 Rust | ⭐ Star
+
+#17 chatwoot /chatwoot
+   🔗 https://github.com/chatwoot/chatwoot
+   📝 Open-source live-chat, email support, omni-channel desk. An alternative to Inter...
+   💻 Ruby | ⭐ Star
+
+#18 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 pipelines, 52 too...
+   💻 Python | ⭐ Star
+
+#19 alexzhang13 /rlm
+   🔗 https://github.com/alexzhang13/rlm
+   📝 General plug-and-play inference library for Recursive Language Models (RLMs), su...
+   💻 Python | ⭐ Star
+
+#20 makeplane /plane
+   🔗 https://github.com/makeplane/plane
+   📝 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
