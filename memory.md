@@ -3833,3 +3833,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-20 03:39:16
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 DeusData /codebase-memory-mcp
+   🔗 https://github.com/DeusData/codebase-memory-mcp
+   📝 High-performance code intelligence MCP server. Indexes codebases into a persiste...
+   💻 C | ⭐ Star
+
+#2 google-research /timesfm
+   🔗 https://github.com/google-research/timesfm
+   📝 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo...
+   💻 Python | ⭐ Star
+
+#3 palmier-io /palmier-pro
+   🔗 https://github.com/palmier-io/palmier-pro
+   📝 macOS video editor built for AI
+   💻 Swift | ⭐ Star
+
+#4 koala73 /worldmonitor
+   🔗 https://github.com/koala73/worldmonitor
+   📝 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic...
+   💻 TypeScript | ⭐ Star
+
+#5 aishwaryanr /awesome-generative-ai-guide
+   🔗 https://github.com/aishwaryanr/awesome-generative-ai-guide
+   📝 A one stop repository for generative AI research updates, interview resources, n...
+   💻 HTML | ⭐ Star
+
+#6 BuilderIO /agent-native
+   🔗 https://github.com/BuilderIO/agent-native
+   📝 A framework for building agent-native applications.
+   💻 TypeScript | ⭐ Star
+
+#7 chopratejas /headroom
+   🔗 https://github.com/chopratejas/headroom
+   📝 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60...
+   💻 Python | ⭐ Star
+
+#8 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 pipelines, 52 too...
+   💻 Python | ⭐ Star
+
+#9 zai-org /GLM-5
+   🔗 https://github.com/zai-org/GLM-5
+   📝 GLM-5: From Vibe Coding to Agentic Engineering
+   💻 N/A | ⭐ Star
+
+#10 withastro /flue
+   🔗 https://github.com/withastro/flue
+   📝 The sandbox agent framework.
+   💻 TypeScript | ⭐ Star
+
+#11 n0-computer /iroh
+   🔗 https://github.com/n0-computer/iroh
+   📝 IP addresses break, dial keys instead. Modular networking stack in Rust.
+   💻 Rust | ⭐ Star
+
+#12 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#13 penpot /penpot
+   🔗 https://github.com/penpot/penpot
+   📝 Penpot: The open-source design tool for design and code collaboration
+   💻 Clojure | ⭐ Star
+
+#14 Kong /insomnia
+   🔗 https://github.com/Kong/insomnia
+   📝 The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an...
+   💻 TypeScript | ⭐ Star
+
+#15 Lightricks /LTX-2
+   🔗 https://github.com/Lightricks/LTX-2
+   📝 Official Python inference and LoRA trainer package for the LTX-2 audio–video gen...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
