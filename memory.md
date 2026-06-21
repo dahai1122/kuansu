@@ -3915,3 +3915,95 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-21 04:12:01
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 palmier-io /palmier-pro
+   🔗 https://github.com/palmier-io/palmier-pro
+   📝 macOS video editor built for AI
+   💻 Swift | ⭐ Star
+
+#2 penpot /penpot
+   🔗 https://github.com/penpot/penpot
+   📝 Penpot: The open-source design tool for design and code collaboration
+   💻 Clojure | ⭐ Star
+
+#3 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 pipelines, 52 too...
+   💻 Python | ⭐ Star
+
+#4 tursodatabase /turso
+   🔗 https://github.com/tursodatabase/turso
+   📝 Turso is an in-process SQL database, compatible with SQLite.
+   💻 Rust | ⭐ Star
+
+#5 DeusData /codebase-memory-mcp
+   🔗 https://github.com/DeusData/codebase-memory-mcp
+   📝 High-performance code intelligence MCP server. Indexes codebases into a persiste...
+   💻 C | ⭐ Star
+
+#6 google-research /timesfm
+   🔗 https://github.com/google-research/timesfm
+   📝 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo...
+   💻 Python | ⭐ Star
+
+#7 twentyhq /twenty
+   🔗 https://github.com/twentyhq/twenty
+   📝 The open alternative to Salesforce, designed for AI.
+   💻 TypeScript | ⭐ Star
+
+#8 Kong /insomnia
+   🔗 https://github.com/Kong/insomnia
+   📝 The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an...
+   💻 TypeScript | ⭐ Star
+
+#9 tw93 /Pake
+   🔗 https://github.com/tw93/Pake
+   📝 🤱🏻 Turn any webpage into a desktop app with one command.
+   💻 Rust | ⭐ Star
+
+#10 chopratejas /headroom
+   🔗 https://github.com/chopratejas/headroom
+   📝 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60...
+   💻 Python | ⭐ Star
+
+#11 jamiepine /voicebox
+   🔗 https://github.com/jamiepine/voicebox
+   📝 The open-source AI voice studio. Clone, dictate, create.
+   💻 TypeScript | ⭐ Star
+
+#12 Kilo-Org /kilocode
+   🔗 https://github.com/Kilo-Org/kilocode
+   📝 Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate fa...
+   💻 TypeScript | ⭐ Star
+
+#13 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#14 withastro /flue
+   🔗 https://github.com/withastro/flue
+   📝 The sandbox agent framework.
+   💻 TypeScript | ⭐ Star
+
+#15 owainlewis /awesome-artificial-intelligence
+   🔗 https://github.com/owainlewis/awesome-artificial-intelligence
+   📝 A curated list of Artificial Intelligence (AI) courses, books, video lectures an...
+   💻 N/A | ⭐ Star
+
+#16 pppscn /SmsForwarder
+   🔗 https://github.com/pppscn/SmsForwarder
+   📝 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企...
+   💻 Kotlin | ⭐ Star
+
+#17 1jehuang /jcode
+   🔗 https://github.com/1jehuang/jcode
+   📝 Coding Agent Harness
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
