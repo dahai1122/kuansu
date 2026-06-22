@@ -4007,3 +4007,90 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-22 04:13:26
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 palmier-io /palmier-pro
+   🔗 https://github.com/palmier-io/palmier-pro
+   📝 macOS video editor built for AI
+   💻 Swift | ⭐ Star
+
+#2 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 pipelines, 52 too...
+   💻 Python | ⭐ Star
+
+#3 chopratejas /headroom
+   🔗 https://github.com/chopratejas/headroom
+   📝 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60...
+   💻 Python | ⭐ Star
+
+#4 tursodatabase /turso
+   🔗 https://github.com/tursodatabase/turso
+   📝 Turso is an in-process SQL database, compatible with SQLite.
+   💻 Rust | ⭐ Star
+
+#5 penpot /penpot
+   🔗 https://github.com/penpot/penpot
+   📝 Penpot: The open-source design tool for design and code collaboration
+   💻 Clojure | ⭐ Star
+
+#6 ZhuLinsen /daily_stock_analysis
+   🔗 https://github.com/ZhuLinsen/daily_stock_analysis
+   📝 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock...
+   💻 Python | ⭐ Star
+
+#7 koala73 /worldmonitor
+   🔗 https://github.com/koala73/worldmonitor
+   📝 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic...
+   💻 TypeScript | ⭐ Star
+
+#8 bytedance /deer-flow
+   🔗 https://github.com/bytedance/deer-flow
+   📝 An open-source long-horizon SuperAgent harness that researches, codes, and creat...
+   💻 Python | ⭐ Star
+
+#9 DeusData /codebase-memory-mcp
+   🔗 https://github.com/DeusData/codebase-memory-mcp
+   📝 High-performance code intelligence MCP server. Indexes codebases into a persiste...
+   💻 C | ⭐ Star
+
+#10 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+#11 mikumifa /biliTickerBuy
+   🔗 https://github.com/mikumifa/biliTickerBuy
+   📝 b站会员购购票辅助工具
+   💻 Python | ⭐ Star
+
+#12 smicallef /spiderfoot
+   🔗 https://github.com/smicallef/spiderfoot
+   📝 SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa...
+   💻 Python | ⭐ Star
+
+#13 topoteretes /cognee
+   🔗 https://github.com/topoteretes/cognee
+   📝 Cognee is the open-source AI memory platform for agents. Give your AI agents per...
+   💻 Python | ⭐ Star
+
+#14 byoungd /English-level-up-tips
+   🔗 https://github.com/byoungd/English-level-up-tips
+   📝 An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英...
+   💻 N/A | ⭐ Star
+
+#15 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...
+   💻 JavaScript | ⭐ Star
+
+#16 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
