@@ -4181,3 +4181,90 @@
    💻 Shell | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-24 03:34:12
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 pipelines, 52 too...
+   💻 Python | ⭐ Star
+
+#2 ZhuLinsen /daily_stock_analysis
+   🔗 https://github.com/ZhuLinsen/daily_stock_analysis
+   📝 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock...
+   💻 Python | ⭐ Star
+
+#3 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+#4 garrytan /gstack
+   🔗 https://github.com/garrytan/gstack
+   📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...
+   💻 TypeScript | ⭐ Star
+
+#5 bytedance /deer-flow
+   🔗 https://github.com/bytedance/deer-flow
+   📝 An open-source long-horizon SuperAgent harness that researches, codes, and creat...
+   💻 Python | ⭐ Star
+
+#6 koala73 /worldmonitor
+   🔗 https://github.com/koala73/worldmonitor
+   📝 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic...
+   💻 TypeScript | ⭐ Star
+
+#7 palmier-io /palmier-pro
+   🔗 https://github.com/palmier-io/palmier-pro
+   📝 macOS video editor built for AI
+   💻 Swift | ⭐ Star
+
+#8 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#9 shanraisshan /claude-code-best-practice
+   🔗 https://github.com/shanraisshan/claude-code-best-practice
+   📝 from vibe coding to agentic engineering - practice makes claude perfect
+   💻 HTML | ⭐ Star
+
+#10 revfactory /harness
+   🔗 https://github.com/revfactory/harness
+   📝 A meta-skill that designs domain-specific agent teams, defines specialized agent...
+   💻 HTML | ⭐ Star
+
+#11 jamiepine /voicebox
+   🔗 https://github.com/jamiepine/voicebox
+   📝 The open-source AI voice studio. Clone, dictate, create.
+   💻 TypeScript | ⭐ Star
+
+#12 JCodesMore /ai-website-cloner-template
+   🔗 https://github.com/JCodesMore/ai-website-cloner-template
+   📝 Clone any website with one command using AI coding agents
+   💻 TypeScript | ⭐ Star
+
+#13 byoungd /English-level-up-tips
+   🔗 https://github.com/byoungd/English-level-up-tips
+   📝 An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人...
+   💻 N/A | ⭐ Star
+
+#14 DeusData /codebase-memory-mcp
+   🔗 https://github.com/DeusData/codebase-memory-mcp
+   📝 High-performance code intelligence MCP server. Indexes codebases into a persiste...
+   💻 C | ⭐ Star
+
+#15 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#16 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
