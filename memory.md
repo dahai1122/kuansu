@@ -4268,3 +4268,75 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-25 03:32:39
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 pipelines, 52 too...
+   💻 Python | ⭐ Star
+
+#2 ZhuLinsen /daily_stock_analysis
+   🔗 https://github.com/ZhuLinsen/daily_stock_analysis
+   📝 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock...
+   💻 Python | ⭐ Star
+
+#3 apple /container
+   🔗 https://github.com/apple/container
+   📝 A tool for creating and running Linux containers using lightweight virtual machi...
+   💻 Swift | ⭐ Star
+
+#4 interviewstreet /hiring-agent
+   🔗 https://github.com/interviewstreet/hiring-agent
+   📝 AI agent to evaluate and score resumes.
+   💻 Python | ⭐ Star
+
+#5 JCodesMore /ai-website-cloner-template
+   🔗 https://github.com/JCodesMore/ai-website-cloner-template
+   📝 Clone any website with one command using AI coding agents
+   💻 TypeScript | ⭐ Star
+
+#6 revfactory /harness
+   🔗 https://github.com/revfactory/harness
+   📝 A meta-skill that designs domain-specific agent teams, defines specialized agent...
+   💻 HTML | ⭐ Star
+
+#7 flutter /flutter
+   🔗 https://github.com/flutter/flutter
+   📝 Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+   💻 Dart | ⭐ Star
+
+#8 andreknieriem /headunit-revived
+   🔗 https://github.com/andreknieriem/headunit-revived
+   📝 Headunit App for displaying Android Auto
+   💻 Kotlin | ⭐ Star
+
+#9 stablyai /orca
+   🔗 https://github.com/stablyai/orca
+   📝 Orca is the ADE for working with a fleet of parallel agents. Run any coding agen...
+   💻 TypeScript | ⭐ Star
+
+#10 google-labs-code /design.md
+   🔗 https://github.com/google-labs-code/design.md
+   📝 A format specification for describing a visual identity to coding agents. DESIGN...
+   💻 TypeScript | ⭐ Star
+
+#11 Flowseal /zapret-discord-youtube
+   🔗 https://github.com/Flowseal/zapret-discord-youtube
+   📝 N/A
+   💻 Batchfile | ⭐ Star
+
+#12 kunchenguid /no-mistakes
+   🔗 https://github.com/kunchenguid/no-mistakes
+   📝 git push no-mistakes
+   💻 Go | ⭐ Star
+
+#13 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
