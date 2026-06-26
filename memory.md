@@ -4340,3 +4340,90 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-26 03:40:04
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 google-labs-code /design.md
+   🔗 https://github.com/google-labs-code/design.md
+   📝 A format specification for describing a visual identity to coding agents. DESIGN...
+   💻 TypeScript | ⭐ Star
+
+#2 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 pipelines, 52 too...
+   💻 Python | ⭐ Star
+
+#3 xbtlin /ai-berkshire
+   🔗 https://github.com/xbtlin/ai-berkshire
+   📝 AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be...
+   💻 Python | ⭐ Star
+
+#4 mauriceboe /TREK
+   🔗 https://github.com/mauriceboe/TREK
+   📝 A self-hosted travel/trip planner with real-time collaboration, interactive maps...
+   💻 TypeScript | ⭐ Star
+
+#5 apple /container
+   🔗 https://github.com/apple/container
+   📝 A tool for creating and running Linux containers using lightweight virtual machi...
+   💻 Swift | ⭐ Star
+
+#6 JCodesMore /ai-website-cloner-template
+   🔗 https://github.com/JCodesMore/ai-website-cloner-template
+   📝 Clone any website with one command using AI coding agents
+   💻 TypeScript | ⭐ Star
+
+#7 every-app /open-seo
+   🔗 https://github.com/every-app/open-seo
+   📝 Open source alternative to Semrush and Ahrefs
+   💻 TypeScript | ⭐ Star
+
+#8 garrytan /gstack
+   🔗 https://github.com/garrytan/gstack
+   📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...
+   💻 TypeScript | ⭐ Star
+
+#9 aws /agent-toolkit-for-aws
+   🔗 https://github.com/aws/agent-toolkit-for-aws
+   📝 Official, AWS-supported MCP servers, skills, and plugins to help AI agents build...
+   💻 Python | ⭐ Star
+
+#10 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+#11 alibaba /page-agent
+   🔗 https://github.com/alibaba/page-agent
+   📝 JavaScript in-page GUI agent. Control web interfaces with natural language.
+   💻 TypeScript | ⭐ Star
+
+#12 IceWhaleTech /CasaOS
+   🔗 https://github.com/IceWhaleTech/CasaOS
+   📝 CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+   💻 Go | ⭐ Star
+
+#13 opendatalab /MinerU
+   🔗 https://github.com/opendatalab/MinerU
+   📝 Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J...
+   💻 Python | ⭐ Star
+
+#14 Free-TV /IPTV
+   🔗 https://github.com/Free-TV/IPTV
+   📝 M3U Playlist for free TV channels
+   💻 Python | ⭐ Star
+
+#15 shanraisshan /claude-code-best-practice
+   🔗 https://github.com/shanraisshan/claude-code-best-practice
+   📝 from vibe coding to agentic engineering - practice makes claude perfect
+   💻 HTML | ⭐ Star
+
+#16 NanmiCoder /MediaCrawler
+   🔗 https://github.com/NanmiCoder/MediaCrawler
+   📝 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
