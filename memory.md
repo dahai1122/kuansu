@@ -4427,3 +4427,95 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-27 03:26:29
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 simplex-chat /simplex-chat
+   🔗 https://github.com/simplex-chat/simplex-chat
+   📝 SimpleX - the first messaging network operating without user identifiers of any ...
+   💻 Haskell | ⭐ Star
+
+#2 google-labs-code /design.md
+   🔗 https://github.com/google-labs-code/design.md
+   📝 A format specification for describing a visual identity to coding agents. DESIGN...
+   💻 TypeScript | ⭐ Star
+
+#3 commaai /openpilot
+   🔗 https://github.com/commaai/openpilot
+   📝 openpilot is an operating system for robotics. Currently, it upgrades the driver...
+   💻 Python | ⭐ Star
+
+#4 kunchenguid /no-mistakes
+   🔗 https://github.com/kunchenguid/no-mistakes
+   📝 git push no-mistakes
+   💻 Go | ⭐ Star
+
+#5 grafana /grafana
+   🔗 https://github.com/grafana/grafana
+   📝 The open and composable observability and data visualization platform. Visualize...
+   💻 TypeScript | ⭐ Star
+
+#6 ripienaar /free-for-dev
+   🔗 https://github.com/ripienaar/free-for-dev
+   📝 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo...
+   💻 HTML | ⭐ Star
+
+#7 opendatalab /MinerU
+   🔗 https://github.com/opendatalab/MinerU
+   📝 Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J...
+   💻 Python | ⭐ Star
+
+#8 alchaincyf /zhangxuefeng-skill
+   🔗 https://github.com/alchaincyf/zhangxuefeng-skill
+   📝 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
+   💻 N/A | ⭐ Star
+
+#9 mauriceboe /TREK
+   🔗 https://github.com/mauriceboe/TREK
+   📝 A self-hosted travel/trip planner with real-time collaboration, interactive maps...
+   💻 TypeScript | ⭐ Star
+
+#10 xbtlin /ai-berkshire
+   🔗 https://github.com/xbtlin/ai-berkshire
+   📝 AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be...
+   💻 Python | ⭐ Star
+
+#11 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 pipelines, 52 too...
+   💻 Python | ⭐ Star
+
+#12 aws /agent-toolkit-for-aws
+   🔗 https://github.com/aws/agent-toolkit-for-aws
+   📝 Official, AWS-supported MCP servers, skills, and plugins to help AI agents build...
+   💻 Python | ⭐ Star
+
+#13 NanmiCoder /MediaCrawler
+   🔗 https://github.com/NanmiCoder/MediaCrawler
+   📝 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬...
+   💻 Python | ⭐ Star
+
+#14 garrytan /gstack
+   🔗 https://github.com/garrytan/gstack
+   📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...
+   💻 TypeScript | ⭐ Star
+
+#15 IceWhaleTech /CasaOS
+   🔗 https://github.com/IceWhaleTech/CasaOS
+   📝 CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+   💻 Go | ⭐ Star
+
+#16 JCodesMore /ai-website-cloner-template
+   🔗 https://github.com/JCodesMore/ai-website-cloner-template
+   📝 Clone any website with one command using AI coding agents
+   💻 TypeScript | ⭐ Star
+
+#17 Panniantong /Agent-Reach
+   🔗 https://github.com/Panniantong/Agent-Reach
+   📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
