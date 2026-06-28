@@ -4519,3 +4519,110 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-28 03:49:30
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 20 個倉庫:
+
+#1 simplex-chat /simplex-chat
+   🔗 https://github.com/simplex-chat/simplex-chat
+   📝 SimpleX - the first messaging network operating without user identifiers of any ...
+   💻 Haskell | ⭐ Star
+
+#2 xbtlin /ai-berkshire
+   🔗 https://github.com/xbtlin/ai-berkshire
+   📝 AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A...
+   💻 Python | ⭐ Star
+
+#3 commaai /openpilot
+   🔗 https://github.com/commaai/openpilot
+   📝 openpilot is an operating system for robotics. Currently, it upgrades the driver...
+   💻 Python | ⭐ Star
+
+#4 IceWhaleTech /CasaOS
+   🔗 https://github.com/IceWhaleTech/CasaOS
+   📝 CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+   💻 Go | ⭐ Star
+
+#5 ripienaar /free-for-dev
+   🔗 https://github.com/ripienaar/free-for-dev
+   📝 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo...
+   💻 HTML | ⭐ Star
+
+#6 google-labs-code /design.md
+   🔗 https://github.com/google-labs-code/design.md
+   📝 A format specification for describing a visual identity to coding agents. DESIGN...
+   💻 TypeScript | ⭐ Star
+
+#7 microsoft /PowerToys
+   🔗 https://github.com/microsoft/PowerToys
+   📝 Microsoft PowerToys is a collection of utilities that supercharge productivity a...
+   💻 C | ⭐ Star
+
+#8 hugohe3 /ppt-master
+   🔗 https://github.com/hugohe3/ppt-master
+   📝 AI generates a real, editable PowerPoint from any document — native shapes & ani...
+   💻 Python | ⭐ Star
+
+#9 JCodesMore /ai-website-cloner-template
+   🔗 https://github.com/JCodesMore/ai-website-cloner-template
+   📝 Clone any website with one command using AI coding agents
+   💻 TypeScript | ⭐ Star
+
+#10 garrytan /gstack
+   🔗 https://github.com/garrytan/gstack
+   📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...
+   💻 TypeScript | ⭐ Star
+
+#11 NanmiCoder /MediaCrawler
+   🔗 https://github.com/NanmiCoder/MediaCrawler
+   📝 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬...
+   💻 Python | ⭐ Star
+
+#12 Anil-matcha /Open-Generative-AI
+   🔗 https://github.com/Anil-matcha/Open-Generative-AI
+   📝 Unrestricted Open-source alternative to AI video platforms — Free AI image & vid...
+   💻 JavaScript | ⭐ Star
+
+#13 topoteretes /cognee
+   🔗 https://github.com/topoteretes/cognee
+   📝 Cognee is the open-source AI memory platform for agents. Give your AI agents per...
+   💻 Python | ⭐ Star
+
+#14 dbt-labs /dbt-core
+   🔗 https://github.com/dbt-labs/dbt-core
+   📝 dbt enables data analysts and engineers to transform their data using the same p...
+   💻 Rust | ⭐ Star
+
+#15 luongnv89 /claude-howto
+   🔗 https://github.com/luongnv89/claude-howto
+   📝 A visual, example-driven guide to Claude Code — from basic concepts to advanced ...
+   💻 Python | ⭐ Star
+
+#16 anomalyco /opencode
+   🔗 https://github.com/anomalyco/opencode
+   📝 The open source coding agent.
+   💻 TypeScript | ⭐ Star
+
+#17 Fission-AI /OpenSpec
+   🔗 https://github.com/Fission-AI/OpenSpec
+   📝 Spec-driven development (SDD) for AI coding assistants.
+   💻 TypeScript | ⭐ Star
+
+#18 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#19 keycloak /keycloak
+   🔗 https://github.com/keycloak/keycloak
+   📝 Open Source Identity and Access Management For Modern Applications and Services
+   💻 Java | ⭐ Star
+
+#20 every-app /open-seo
+   🔗 https://github.com/every-app/open-seo
+   📝 Open source alternative to Semrush and Ahrefs
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
