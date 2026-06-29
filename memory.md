@@ -4626,3 +4626,75 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-29 03:54:23
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 simplex-chat /simplex-chat
+   🔗 https://github.com/simplex-chat/simplex-chat
+   📝 SimpleX - the first messaging network operating without user identifiers of any ...
+   💻 Haskell | ⭐ Star
+
+#2 ripienaar /free-for-dev
+   🔗 https://github.com/ripienaar/free-for-dev
+   📝 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo...
+   💻 HTML | ⭐ Star
+
+#3 commaai /openpilot
+   🔗 https://github.com/commaai/openpilot
+   📝 openpilot is an operating system for robotics. Currently, it upgrades the driver...
+   💻 Python | ⭐ Star
+
+#4 xbtlin /ai-berkshire
+   🔗 https://github.com/xbtlin/ai-berkshire
+   📝 AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A...
+   💻 Python | ⭐ Star
+
+#5 Robbyant /lingbot-map
+   🔗 https://github.com/Robbyant/lingbot-map
+   📝 A feed-forward 3D foundation model for reconstructing scenes from streaming data
+   💻 Python | ⭐ Star
+
+#6 DeusData /codebase-memory-mcp
+   🔗 https://github.com/DeusData/codebase-memory-mcp
+   📝 High-performance code intelligence MCP server. Indexes codebases into a persiste...
+   💻 C | ⭐ Star
+
+#7 cupy /cupy
+   🔗 https://github.com/cupy/cupy
+   📝 NumPy & SciPy for GPU
+   💻 Python | ⭐ Star
+
+#8 altic-dev /FluidVoice
+   🔗 https://github.com/altic-dev/FluidVoice
+   📝 FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. On...
+   💻 Swift | ⭐ Star
+
+#9 opendatalab /MinerU
+   🔗 https://github.com/opendatalab/MinerU
+   📝 Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J...
+   💻 Python | ⭐ Star
+
+#10 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#11 ByteByteGoHq /system-design-101
+   🔗 https://github.com/ByteByteGoHq/system-design-101
+   📝 Explain complex systems using visuals and simple terms. Help you prepare for sys...
+   💻 N/A | ⭐ Star
+
+#12 usestrix /strix
+   🔗 https://github.com/usestrix/strix
+   📝 Open-source AI hackers to find and fix your app’s vulnerabilities.
+   💻 Python | ⭐ Star
+
+#13 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
