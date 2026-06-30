@@ -4698,3 +4698,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-06-30 03:38:14
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 simplex-chat /simplex-chat
+   🔗 https://github.com/simplex-chat/simplex-chat
+   📝 SimpleX - the first messaging network operating without user identifiers of any ...
+   💻 Haskell | ⭐ Star
+
+#2 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#3 cupy /cupy
+   🔗 https://github.com/cupy/cupy
+   📝 NumPy & SciPy for GPU
+   💻 Python | ⭐ Star
+
+#4 altic-dev /FluidVoice
+   🔗 https://github.com/altic-dev/FluidVoice
+   📝 FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. On...
+   💻 Swift | ⭐ Star
+
+#5 soxoj /maigret
+   🔗 https://github.com/soxoj/maigret
+   📝 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+   💻 Python | ⭐ Star
+
+#6 commaai /openpilot
+   🔗 https://github.com/commaai/openpilot
+   📝 openpilot is an operating system for robotics. Currently, it upgrades the driver...
+   💻 Python | ⭐ Star
+
+#7 ripienaar /free-for-dev
+   🔗 https://github.com/ripienaar/free-for-dev
+   📝 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo...
+   💻 HTML | ⭐ Star
+
+#8 logto-io /logto
+   🔗 https://github.com/logto-io/logto
+   📝 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built ...
+   💻 TypeScript | ⭐ Star
+
+#9 xbtlin /ai-berkshire
+   🔗 https://github.com/xbtlin/ai-berkshire
+   📝 AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A...
+   💻 Python | ⭐ Star
+
+#10 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+#11 Unclecheng-li /VulnClaw
+   🔗 https://github.com/Unclecheng-li/VulnClaw
+   📝 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 →...
+   💻 Python | ⭐ Star
+
+#12 0xNyk /council-of-high-intelligence
+   🔗 https://github.com/0xNyk/council-of-high-intelligence
+   📝 18 AI personas deliberate your hardest decisions across multiple LLM providers. ...
+   💻 Shell | ⭐ Star
+
+#13 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#14 refactoringhq /tolaria
+   🔗 https://github.com/refactoringhq/tolaria
+   📝 Desktop app to manage markdown knowledge bases
+   💻 TypeScript | ⭐ Star
+
+#15 veracrypt /VeraCrypt
+   🔗 https://github.com/veracrypt/VeraCrypt
+   📝 Disk encryption with strong security based on TrueCrypt
+   💻 C | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
