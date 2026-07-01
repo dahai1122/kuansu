@@ -4780,3 +4780,105 @@
    💻 C | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-01 03:52:48
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 hasaneyldrm /exercises-dataset
+   🔗 https://github.com/hasaneyldrm/exercises-dataset
+   📝 A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate...
+   💻 HTML | ⭐ Star
+
+#2 usestrix /strix
+   🔗 https://github.com/usestrix/strix
+   📝 Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti...
+   💻 Python | ⭐ Star
+
+#3 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#4 altic-dev /FluidVoice
+   🔗 https://github.com/altic-dev/FluidVoice
+   📝 Fastest and only macOS Dictation app with on-device STT and custom trained AI en...
+   💻 Swift | ⭐ Star
+
+#5 diegosouzapw /OmniRoute
+   🔗 https://github.com/diegosouzapw/OmniRoute
+   📝 Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con...
+   💻 TypeScript | ⭐ Star
+
+#6 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+#7 xbtlin /ai-berkshire
+   🔗 https://github.com/xbtlin/ai-berkshire
+   📝 AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A...
+   💻 Python | ⭐ Star
+
+#8 Mebus /cupp
+   🔗 https://github.com/Mebus/cupp
+   📝 Common User Passwords Profiler (CUPP)
+   💻 Python | ⭐ Star
+
+#9 ripienaar /free-for-dev
+   🔗 https://github.com/ripienaar/free-for-dev
+   📝 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo...
+   💻 HTML | ⭐ Star
+
+#10 google /agents-cli
+   🔗 https://github.com/google/agents-cli
+   📝 The CLI and skills that turn any coding assistant into an expert at creating, ev...
+   💻 Python | ⭐ Star
+
+#11 roboflow /supervision
+   🔗 https://github.com/roboflow/supervision
+   📝 We write your reusable computer vision tools. 💜
+   💻 Python | ⭐ Star
+
+#12 ogulcancelik /herdr
+   🔗 https://github.com/ogulcancelik/herdr
+   📝 agent multiplexer that lives in your terminal.
+   💻 Rust | ⭐ Star
+
+#13 simplex-chat /simplex-chat
+   🔗 https://github.com/simplex-chat/simplex-chat
+   📝 SimpleX - the first messaging network operating without user identifiers of any ...
+   💻 Haskell | ⭐ Star
+
+#14 CoreBunch /Instatic
+   🔗 https://github.com/CoreBunch/Instatic
+   📝 Instatic is a modern self-hosted visual CMS - get it running in 1 minute
+   💻 TypeScript | ⭐ Star
+
+#15 microsoft /AI-For-Beginners
+   🔗 https://github.com/microsoft/AI-For-Beginners
+   📝 12 Weeks, 24 Lessons, AI for All!
+   💻 Jupyter Notebook | ⭐ Star
+
+#16 facebook /astryx
+   🔗 https://github.com/facebook/astryx
+   📝 An open source design system that's fully customizable and agent ready
+   💻 TypeScript | ⭐ Star
+
+#17 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#18 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#19 Robbyant /lingbot-map
+   🔗 https://github.com/Robbyant/lingbot-map
+   📝 A feed-forward 3D foundation model for reconstructing scenes from streaming data
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
