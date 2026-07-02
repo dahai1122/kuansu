@@ -4882,3 +4882,110 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-02 03:33:50
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 20 個倉庫:
+
+#1 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#2 usestrix /strix
+   🔗 https://github.com/usestrix/strix
+   📝 Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti...
+   💻 Python | ⭐ Star
+
+#3 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#4 hasaneyldrm /exercises-dataset
+   🔗 https://github.com/hasaneyldrm/exercises-dataset
+   📝 A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate...
+   💻 HTML | ⭐ Star
+
+#5 facebook /astryx
+   🔗 https://github.com/facebook/astryx
+   📝 An open source design system that's fully customizable and agent ready
+   💻 TypeScript | ⭐ Star
+
+#6 diegosouzapw /OmniRoute
+   🔗 https://github.com/diegosouzapw/OmniRoute
+   📝 Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con...
+   💻 TypeScript | ⭐ Star
+
+#7 allenai /olmocr
+   🔗 https://github.com/allenai/olmocr
+   📝 Toolkit for linearizing PDFs for LLM datasets/training
+   💻 Python | ⭐ Star
+
+#8 logto-io /logto
+   🔗 https://github.com/logto-io/logto
+   📝 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built ...
+   💻 TypeScript | ⭐ Star
+
+#9 togatoga /karukan
+   🔗 https://github.com/togatoga/karukan
+   📝 Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engi...
+   💻 Rust | ⭐ Star
+
+#10 Mebus /cupp
+   🔗 https://github.com/Mebus/cupp
+   📝 Common User Passwords Profiler (CUPP)
+   💻 Python | ⭐ Star
+
+#11 Unclecheng-li /VulnClaw
+   🔗 https://github.com/Unclecheng-li/VulnClaw
+   📝 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 →...
+   💻 Python | ⭐ Star
+
+#12 microsoft /AI-For-Beginners
+   🔗 https://github.com/microsoft/AI-For-Beginners
+   📝 12 Weeks, 24 Lessons, AI for All!
+   💻 Jupyter Notebook | ⭐ Star
+
+#13 refactoringhq /tolaria
+   🔗 https://github.com/refactoringhq/tolaria
+   📝 Desktop app to manage markdown knowledge bases
+   💻 TypeScript | ⭐ Star
+
+#14 ogulcancelik /herdr
+   🔗 https://github.com/ogulcancelik/herdr
+   📝 agent multiplexer that lives in your terminal.
+   💻 Rust | ⭐ Star
+
+#15 0xNyk /council-of-high-intelligence
+   🔗 https://github.com/0xNyk/council-of-high-intelligence
+   📝 18 AI personas deliberate your hardest decisions across multiple LLM providers. ...
+   💻 Shell | ⭐ Star
+
+#16 altic-dev /FluidVoice
+   🔗 https://github.com/altic-dev/FluidVoice
+   📝 Fastest and only macOS Dictation app with on-device STT and custom trained AI en...
+   💻 Swift | ⭐ Star
+
+#17 CoreBunch /Instatic
+   🔗 https://github.com/CoreBunch/Instatic
+   📝 Instatic is a modern self-hosted visual CMS - get it running in 1 minute
+   💻 TypeScript | ⭐ Star
+
+#18 TencentCloud /CubeSandbox
+   🔗 https://github.com/TencentCloud/CubeSandbox
+   📝 Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+   💻 Rust | ⭐ Star
+
+#19 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+#20 yikart /AiToEarn
+   🔗 https://github.com/yikart/AiToEarn
+   📝 Let's use AI to Earn!
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
