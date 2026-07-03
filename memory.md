@@ -4989,3 +4989,95 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-03 02:56:37
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 usestrix /strix
+   🔗 https://github.com/usestrix/strix
+   📝 Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti...
+   💻 Python | ⭐ Star
+
+#2 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...
+   💻 JavaScript | ⭐ Star
+
+#3 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#4 hasaneyldrm /exercises-dataset
+   🔗 https://github.com/hasaneyldrm/exercises-dataset
+   📝 A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate...
+   💻 HTML | ⭐ Star
+
+#5 santifer /career-ops
+   🔗 https://github.com/santifer/career-ops
+   📝 AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,...
+   💻 JavaScript | ⭐ Star
+
+#6 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#7 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#8 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+#9 actions /checkout
+   🔗 https://github.com/actions/checkout
+   📝 Action for checking out a repo
+   💻 TypeScript | ⭐ Star
+
+#10 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#11 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#12 agentskills /agentskills
+   🔗 https://github.com/agentskills/agentskills
+   📝 Specification and documentation for Agent Skills
+   💻 Python | ⭐ Star
+
+#13 openai /codex-plugin-cc
+   🔗 https://github.com/openai/codex-plugin-cc
+   📝 Use Codex from Claude Code to review code or delegate tasks.
+   💻 JavaScript | ⭐ Star
+
+#14 langflow-ai /langflow
+   🔗 https://github.com/langflow-ai/langflow
+   📝 Langflow is a powerful tool for building and deploying AI-powered agents and wor...
+   💻 Python | ⭐ Star
+
+#15 pytorch /pytorch
+   🔗 https://github.com/pytorch/pytorch
+   📝 Tensors and Dynamic neural networks in Python with strong GPU acceleration
+   💻 Python | ⭐ Star
+
+#16 harvard-edge /cs249r_book
+   🔗 https://github.com/harvard-edge/cs249r_book
+   📝 Machine Learning Systems
+   💻 Python | ⭐ Star
+
+#17 ryanmcdermott /clean-code-javascript
+   🔗 https://github.com/ryanmcdermott/clean-code-javascript
+   📝 Clean Code concepts adapted for JavaScript
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
