@@ -5081,3 +5081,105 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-04 02:52:54
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 usestrix /strix
+   🔗 https://github.com/usestrix/strix
+   📝 Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti...
+   💻 Python | ⭐ Star
+
+#2 openai /codex-plugin-cc
+   🔗 https://github.com/openai/codex-plugin-cc
+   📝 Use Codex from Claude Code to review code or delegate tasks.
+   💻 JavaScript | ⭐ Star
+
+#3 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...
+   💻 JavaScript | ⭐ Star
+
+#4 elastic /elasticsearch
+   🔗 https://github.com/elastic/elasticsearch
+   📝 Free and Open Source, Distributed, RESTful Search Engine
+   💻 Java | ⭐ Star
+
+#5 actions /checkout
+   🔗 https://github.com/actions/checkout
+   📝 Action for checking out a repo
+   💻 TypeScript | ⭐ Star
+
+#6 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#7 ansible /ansible
+   🔗 https://github.com/ansible/ansible
+   📝 Ansible is a radically simple IT automation platform that makes your application...
+   💻 Python | ⭐ Star
+
+#8 facebook /astryx
+   🔗 https://github.com/facebook/astryx
+   📝 An open source design system that's fully customizable and agent ready
+   💻 TypeScript | ⭐ Star
+
+#9 rommapp /romm
+   🔗 https://github.com/rommapp/romm
+   📝 A beautiful, powerful, self-hosted rom manager and player.
+   💻 Python | ⭐ Star
+
+#10 harvard-edge /cs249r_book
+   🔗 https://github.com/harvard-edge/cs249r_book
+   📝 Machine Learning Systems
+   💻 Python | ⭐ Star
+
+#11 pytorch /pytorch
+   🔗 https://github.com/pytorch/pytorch
+   📝 Tensors and Dynamic neural networks in Python with strong GPU acceleration
+   💻 Python | ⭐ Star
+
+#12 apache /maven
+   🔗 https://github.com/apache/maven
+   📝 Apache Maven core
+   💻 Java | ⭐ Star
+
+#13 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 Python | ⭐ Star
+
+#14 ogulcancelik /herdr
+   🔗 https://github.com/ogulcancelik/herdr
+   📝 agent multiplexer that lives in your terminal.
+   💻 Rust | ⭐ Star
+
+#15 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#16 agentskills /agentskills
+   🔗 https://github.com/agentskills/agentskills
+   📝 Specification and documentation for Agent Skills
+   💻 Python | ⭐ Star
+
+#17 supabase /supabase
+   🔗 https://github.com/supabase/supabase
+   📝 The Postgres development platform. Supabase gives you a dedicated Postgres datab...
+   💻 TypeScript | ⭐ Star
+
+#18 TencentCloud /CubeSandbox
+   🔗 https://github.com/TencentCloud/CubeSandbox
+   📝 Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+   💻 Rust | ⭐ Star
+
+#19 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
