@@ -5183,3 +5183,100 @@
    💻 Shell | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-05 03:22:42
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 18 個倉庫:
+
+#1 openai /codex-plugin-cc
+   🔗 https://github.com/openai/codex-plugin-cc
+   📝 Use Codex from Claude Code to review code or delegate tasks.
+   💻 JavaScript | ⭐ Star
+
+#2 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...
+   💻 JavaScript | ⭐ Star
+
+#3 alibaba /page-agent
+   🔗 https://github.com/alibaba/page-agent
+   📝 JavaScript in-page GUI agent. Control web interfaces with natural language.
+   💻 TypeScript | ⭐ Star
+
+#4 usestrix /strix
+   🔗 https://github.com/usestrix/strix
+   📝 Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti...
+   💻 Python | ⭐ Star
+
+#5 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#6 Zackriya-Solutions /meetily
+   🔗 https://github.com/Zackriya-Solutions/meetily
+   📝 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr...
+   💻 Rust | ⭐ Star
+
+#7 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...
+   💻 JavaScript | ⭐ Star
+
+#8 harvard-edge /cs249r_book
+   🔗 https://github.com/harvard-edge/cs249r_book
+   📝 Machine Learning Systems
+   💻 Python | ⭐ Star
+
+#9 rommapp /romm
+   🔗 https://github.com/rommapp/romm
+   📝 A beautiful, powerful, self-hosted rom manager and player.
+   💻 Python | ⭐ Star
+
+#10 ogulcancelik /herdr
+   🔗 https://github.com/ogulcancelik/herdr
+   📝 agent multiplexer that lives in your terminal.
+   💻 Rust | ⭐ Star
+
+#11 dotnet /skills
+   🔗 https://github.com/dotnet/skills
+   📝 Repository for skills to assist AI coding agents with .NET and C#
+   💻 C# | ⭐ Star
+
+#12 agentskills /agentskills
+   🔗 https://github.com/agentskills/agentskills
+   📝 Specification and documentation for Agent Skills
+   💻 Python | ⭐ Star
+
+#13 immich-app /immich
+   🔗 https://github.com/immich-app/immich
+   📝 High performance self-hosted photo and video management solution.
+   💻 TypeScript | ⭐ Star
+
+#14 chthollyphile /folia-major
+   🔗 https://github.com/chthollyphile/folia-major
+   📝 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
+   💻 TypeScript | ⭐ Star
+
+#15 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#16 CoplayDev /unity-mcp
+   🔗 https://github.com/CoplayDev/unity-mcp
+   📝 Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you...
+   💻 C# | ⭐ Star
+
+#17 alirezarezvani /claude-skills
+   🔗 https://github.com/alirezarezvani/claude-skills
+   📝 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands...
+   💻 Python | ⭐ Star
+
+#18 crynta /terax-ai
+   🔗 https://github.com/crynta/terax-ai
+   📝 Lightweight (7MB) Terminal-first AI-native dev workspace
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
