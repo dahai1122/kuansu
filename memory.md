@@ -5280,3 +5280,120 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-06 03:30:48
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 22 個倉庫:
+
+#1 Zackriya-Solutions /meetily
+   🔗 https://github.com/Zackriya-Solutions/meetily
+   📝 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr...
+   💻 Rust | ⭐ Star
+
+#2 openai /codex-plugin-cc
+   🔗 https://github.com/openai/codex-plugin-cc
+   📝 Use Codex from Claude Code to review code or delegate tasks.
+   💻 JavaScript | ⭐ Star
+
+#3 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...
+   💻 JavaScript | ⭐ Star
+
+#4 Leonxlnx /taste-skill
+   🔗 https://github.com/Leonxlnx/taste-skill
+   📝 Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen...
+   💻 JavaScript | ⭐ Star
+
+#5 alirezarezvani /claude-skills
+   🔗 https://github.com/alirezarezvani/claude-skills
+   📝 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands...
+   💻 Python | ⭐ Star
+
+#6 rommapp /romm
+   🔗 https://github.com/rommapp/romm
+   📝 A beautiful, powerful, self-hosted rom manager and player.
+   💻 Python | ⭐ Star
+
+#7 ogulcancelik /herdr
+   🔗 https://github.com/ogulcancelik/herdr
+   📝 agent multiplexer that lives in your terminal.
+   💻 Rust | ⭐ Star
+
+#8 alibaba /page-agent
+   🔗 https://github.com/alibaba/page-agent
+   📝 JavaScript in-page GUI agent. Control web interfaces with natural language.
+   💻 TypeScript | ⭐ Star
+
+#9 harvard-edge /cs249r_book
+   🔗 https://github.com/harvard-edge/cs249r_book
+   📝 Machine Learning Systems
+   💻 Python | ⭐ Star
+
+#10 usestrix /strix
+   🔗 https://github.com/usestrix/strix
+   📝 Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti...
+   💻 Python | ⭐ Star
+
+#11 hesreallyhim /awesome-claude-code
+   🔗 https://github.com/hesreallyhim/awesome-claude-code
+   📝 A hand-picked collection of the finest of resources for the most awesome of agen...
+   💻 Python | ⭐ Star
+
+#12 coreyhaines31 /marketingskills
+   🔗 https://github.com/coreyhaines31/marketingskills
+   📝 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics...
+   💻 JavaScript | ⭐ Star
+
+#13 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...
+   💻 JavaScript | ⭐ Star
+
+#14 CoplayDev /unity-mcp
+   🔗 https://github.com/CoplayDev/unity-mcp
+   📝 Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you...
+   💻 C# | ⭐ Star
+
+#15 facebook /astryx
+   🔗 https://github.com/facebook/astryx
+   📝 An open source design system that's fully customizable and agent ready
+   💻 TypeScript | ⭐ Star
+
+#16 immich-app /immich
+   🔗 https://github.com/immich-app/immich
+   📝 High performance self-hosted photo and video management solution.
+   💻 TypeScript | ⭐ Star
+
+#17 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#18 gastownhall /gastown
+   🔗 https://github.com/gastownhall/gastown
+   📝 Gas Town - multi-agent workspace manager
+   💻 Go | ⭐ Star
+
+#19 dotnet /skills
+   🔗 https://github.com/dotnet/skills
+   📝 Repository for skills to assist AI coding agents with .NET and C#
+   💻 C# | ⭐ Star
+
+#20 OthmanAdi /planning-with-files
+   🔗 https://github.com/OthmanAdi/planning-with-files
+   📝 Persistent file-based planning for AI coding agents and long-running agentic tas...
+   💻 Python | ⭐ Star
+
+#21 steipete /CodexBar
+   🔗 https://github.com/steipete/CodexBar
+   📝 Show usage stats for OpenAI Codex and Claude Code, without having to login.
+   💻 Swift | ⭐ Star
+
+#22 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
