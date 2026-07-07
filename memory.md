@@ -5397,3 +5397,90 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-07 03:20:57
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...
+   💻 JavaScript | ⭐ Star
+
+#2 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#3 Zackriya-Solutions /meetily
+   🔗 https://github.com/Zackriya-Solutions/meetily
+   📝 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr...
+   💻 Rust | ⭐ Star
+
+#4 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#5 Leonxlnx /taste-skill
+   🔗 https://github.com/Leonxlnx/taste-skill
+   📝 Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen...
+   💻 JavaScript | ⭐ Star
+
+#6 alirezarezvani /claude-skills
+   🔗 https://github.com/alirezarezvani/claude-skills
+   📝 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands...
+   💻 Python | ⭐ Star
+
+#7 openai /codex-plugin-cc
+   🔗 https://github.com/openai/codex-plugin-cc
+   📝 Use Codex from Claude Code to review code or delegate tasks.
+   💻 JavaScript | ⭐ Star
+
+#8 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#9 ogulcancelik /herdr
+   🔗 https://github.com/ogulcancelik/herdr
+   📝 agent multiplexer that lives in your terminal.
+   💻 Rust | ⭐ Star
+
+#10 bradautomates /claude-video
+   🔗 https://github.com/bradautomates/claude-video
+   📝 Give Claude the ability to watch any video. /watch downloads, extracts frames, t...
+   💻 Python | ⭐ Star
+
+#11 karakeep-app /karakeep
+   🔗 https://github.com/karakeep-app/karakeep
+   📝 A self-hostable bookmark-everything app (links, notes and images) with AI-based ...
+   💻 TypeScript | ⭐ Star
+
+#12 firecrawl /firecrawl
+   🔗 https://github.com/firecrawl/firecrawl
+   📝 The API to search, scrape, and interact with the web at scale. 🔥
+   💻 TypeScript | ⭐ Star
+
+#13 steipete /CodexBar
+   🔗 https://github.com/steipete/CodexBar
+   📝 Show usage stats for OpenAI Codex and Claude Code, without having to login.
+   💻 Swift | ⭐ Star
+
+#14 alibaba /zvec
+   🔗 https://github.com/alibaba/zvec
+   📝 A lightweight, lightning-fast, in-process vector database
+   💻 C++ | ⭐ Star
+
+#15 sindresorhus /awesome
+   🔗 https://github.com/sindresorhus/awesome
+   📝 😎 Awesome lists about all kinds of interesting topics
+   💻 N/A | ⭐ Star
+
+#16 gastownhall /gastown
+   🔗 https://github.com/gastownhall/gastown
+   📝 Gas Town - multi-agent workspace manager
+   💻 Go | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
