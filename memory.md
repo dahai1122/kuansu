@@ -5484,3 +5484,75 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-08 02:38:44
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 MadsLorentzen /ai-job-search
+   🔗 https://github.com/MadsLorentzen/ai-job-search
+   📝 AI-powered job application framework built on Claude Code. Fork it, fill in your...
+   💻 TypeScript | ⭐ Star
+
+#2 Zackriya-Solutions /meetily
+   🔗 https://github.com/Zackriya-Solutions/meetily
+   📝 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr...
+   💻 Rust | ⭐ Star
+
+#3 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#4 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#5 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...
+   💻 JavaScript | ⭐ Star
+
+#6 TencentCloud /CubeSandbox
+   🔗 https://github.com/TencentCloud/CubeSandbox
+   📝 Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+   💻 Rust | ⭐ Star
+
+#7 AhmadIbrahiim /Website-downloader
+   🔗 https://github.com/AhmadIbrahiim/Website-downloader
+   📝 💡 Download the complete source code of any website (including all assets). [ Jav...
+   💻 HTML | ⭐ Star
+
+#8 steipete /CodexBar
+   🔗 https://github.com/steipete/CodexBar
+   📝 Show usage stats for OpenAI Codex and Claude Code, without having to login.
+   💻 Swift | ⭐ Star
+
+#9 dotnet /skills
+   🔗 https://github.com/dotnet/skills
+   📝 Repository for skills to assist AI coding agents with .NET and C#
+   💻 C# | ⭐ Star
+
+#10 iOfficeAI /OfficeCLI
+   🔗 https://github.com/iOfficeAI/OfficeCLI
+   📝 OfficeCLI is the first and best Office suite purpose-built for AI agents to read...
+   💻 C# | ⭐ Star
+
+#11 bradautomates /claude-video
+   🔗 https://github.com/bradautomates/claude-video
+   📝 Give Claude the ability to watch any video. /watch downloads, extracts frames, t...
+   💻 Python | ⭐ Star
+
+#12 kyutai-labs /pocket-tts
+   🔗 https://github.com/kyutai-labs/pocket-tts
+   📝 A TTS that fits in your CPU (and pocket)
+   💻 Python | ⭐ Star
+
+#13 hesreallyhim /awesome-claude-code
+   🔗 https://github.com/hesreallyhim/awesome-claude-code
+   📝 A hand-picked collection of the finest of resources for the most awesome of agen...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
