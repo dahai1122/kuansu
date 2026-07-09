@@ -5556,3 +5556,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-09 02:57:33
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#2 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#3 TencentCloud /TencentDB-Agent-Memory
+   🔗 https://github.com/TencentCloud/TencentDB-Agent-Memory
+   📝 TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a...
+   💻 TypeScript | ⭐ Star
+
+#4 prisma /prisma
+   🔗 https://github.com/prisma/prisma
+   📝 Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S...
+   💻 TypeScript | ⭐ Star
+
+#5 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#6 argoproj /argo-cd
+   🔗 https://github.com/argoproj/argo-cd
+   📝 Declarative Continuous Deployment for Kubernetes
+   💻 Go | ⭐ Star
+
+#7 iOfficeAI /OfficeCLI
+   🔗 https://github.com/iOfficeAI/OfficeCLI
+   📝 OfficeCLI is the first and best Office suite purpose-built for AI agents to read...
+   💻 C# | ⭐ Star
+
+#8 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...
+   💻 JavaScript | ⭐ Star
+
+#9 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#10 alibaba /zvec
+   🔗 https://github.com/alibaba/zvec
+   📝 A lightweight, lightning-fast, in-process vector database
+   💻 C++ | ⭐ Star
+
+#11 Diolinux /PhotoGIMP
+   🔗 https://github.com/Diolinux/PhotoGIMP
+   📝 A Patch for GIMP 3+ for Photoshop Users
+   💻 CSS | ⭐ Star
+
+#12 wonderwhy-er /DesktopCommanderMCP
+   🔗 https://github.com/wonderwhy-er/DesktopCommanderMCP
+   📝 This is MCP server for Claude that gives it terminal control, file system search...
+   💻 TypeScript | ⭐ Star
+
+#13 huxingyi /autoremesher
+   🔗 https://github.com/huxingyi/autoremesher
+   📝 Automatic quad remeshing tool
+   💻 C++ | ⭐ Star
+
+#14 bradautomates /claude-video
+   🔗 https://github.com/bradautomates/claude-video
+   📝 Give Claude the ability to watch any video. /watch downloads, extracts frames, t...
+   💻 Python | ⭐ Star
+
+#15 TencentCloud /CubeSandbox
+   🔗 https://github.com/TencentCloud/CubeSandbox
+   📝 Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
