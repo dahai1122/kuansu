@@ -5638,3 +5638,85 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-10 03:17:05
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 MadsLorentzen /ai-job-search
+   🔗 https://github.com/MadsLorentzen/ai-job-search
+   📝 AI-powered job application framework built on Claude Code. Fork it, fill in your...
+   💻 TypeScript | ⭐ Star
+
+#2 SmartlyDressedGames /U3-SDK
+   🔗 https://github.com/SmartlyDressedGames/U3-SDK
+   📝 Source code for Unturned, a free open-world zombie survival sandbox game.
+   💻 C# | ⭐ Star
+
+#3 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#4 VoltAgent /awesome-design-md
+   🔗 https://github.com/VoltAgent/awesome-design-md
+   📝 A collection of DESIGN.md files analysis by popular brand design systems. Drop o...
+   💻 N/A | ⭐ Star
+
+#5 iOfficeAI /OfficeCLI
+   🔗 https://github.com/iOfficeAI/OfficeCLI
+   📝 OfficeCLI is the first and best Office suite purpose-built for AI agents to read...
+   💻 C# | ⭐ Star
+
+#6 wonderwhy-er /DesktopCommanderMCP
+   🔗 https://github.com/wonderwhy-er/DesktopCommanderMCP
+   📝 This is MCP server for Claude that gives it terminal control, file system search...
+   💻 TypeScript | ⭐ Star
+
+#7 anthropics /claude-cookbooks
+   🔗 https://github.com/anthropics/claude-cookbooks
+   📝 A collection of notebooks/recipes showcasing some fun and effective ways of usin...
+   💻 Jupyter Notebook | ⭐ Star
+
+#8 vxcontrol /pentagi
+   🔗 https://github.com/vxcontrol/pentagi
+   📝 Fully autonomous AI Agents system capable of performing complex penetration test...
+   💻 Go | ⭐ Star
+
+#9 unclecode /crawl4ai
+   🔗 https://github.com/unclecode/crawl4ai
+   📝 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join ...
+   💻 Python | ⭐ Star
+
+#10 imthenachoman /How-To-Secure-A-Linux-Server
+   🔗 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+   📝 An evolving how-to guide for securing a Linux server.
+   💻 N/A | ⭐ Star
+
+#11 huxingyi /autoremesher
+   🔗 https://github.com/huxingyi/autoremesher
+   📝 Automatic quad remeshing tool
+   💻 C++ | ⭐ Star
+
+#12 bradautomates /claude-video
+   🔗 https://github.com/bradautomates/claude-video
+   📝 Give Claude the ability to watch any video. /watch downloads, extracts frames, t...
+   💻 Python | ⭐ Star
+
+#13 prisma /prisma
+   🔗 https://github.com/prisma/prisma
+   📝 Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S...
+   💻 TypeScript | ⭐ Star
+
+#14 kyutai-labs /pocket-tts
+   🔗 https://github.com/kyutai-labs/pocket-tts
+   📝 A TTS that fits in your CPU (and pocket)
+   💻 Python | ⭐ Star
+
+#15 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
