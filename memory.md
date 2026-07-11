@@ -5720,3 +5720,105 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-11 02:35:58
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 wonderwhy-er /DesktopCommanderMCP
+   🔗 https://github.com/wonderwhy-er/DesktopCommanderMCP
+   📝 This is MCP server for Claude that gives it terminal control, file system search...
+   💻 TypeScript | ⭐ Star
+
+#2 oven-sh /bun
+   🔗 https://github.com/oven-sh/bun
+   📝 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – ...
+   💻 Rust | ⭐ Star
+
+#3 abseil /abseil-cpp
+   🔗 https://github.com/abseil/abseil-cpp
+   📝 Abseil Common Libraries (C++)
+   💻 C++ | ⭐ Star
+
+#4 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#5 jbeder /yaml-cpp
+   🔗 https://github.com/jbeder/yaml-cpp
+   📝 A YAML parser and emitter in C++
+   💻 C++ | ⭐ Star
+
+#6 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#7 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#8 microsoft /TypeScript
+   🔗 https://github.com/microsoft/TypeScript
+   📝 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+   💻 TypeScript | ⭐ Star
+
+#9 catchorg /Catch2
+   🔗 https://github.com/catchorg/Catch2
+   📝 A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, ...
+   💻 C++ | ⭐ Star
+
+#10 chriskohlhoff /asio
+   🔗 https://github.com/chriskohlhoff/asio
+   📝 Asio C++ Library
+   💻 C++ | ⭐ Star
+
+#11 TencentCloud /TencentDB-Agent-Memory
+   🔗 https://github.com/TencentCloud/TencentDB-Agent-Memory
+   📝 TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a...
+   💻 TypeScript | ⭐ Star
+
+#12 davila7 /claude-code-templates
+   🔗 https://github.com/davila7/claude-code-templates
+   📝 CLI tool for configuring and monitoring Claude Code
+   💻 Python | ⭐ Star
+
+#13 zeux /meshoptimizer
+   🔗 https://github.com/zeux/meshoptimizer
+   📝 Mesh optimization library that makes meshes smaller and faster to render
+   💻 C++ | ⭐ Star
+
+#14 tailscale /tailscale
+   🔗 https://github.com/tailscale/tailscale
+   📝 The easiest, most secure way to use WireGuard and 2FA.
+   💻 Go | ⭐ Star
+
+#15 google-labs-code /stitch-skills
+   🔗 https://github.com/google-labs-code/stitch-skills
+   📝 A library of Agent Skills designed to work with the Stitch MCP server. Each skil...
+   💻 TypeScript | ⭐ Star
+
+#16 iOfficeAI /OfficeCLI
+   🔗 https://github.com/iOfficeAI/OfficeCLI
+   📝 OfficeCLI is the first and best Office suite purpose-built for AI agents to read...
+   💻 C# | ⭐ Star
+
+#17 hashicorp /terraform
+   🔗 https://github.com/hashicorp/terraform
+   📝 Terraform enables you to safely and predictably create, change, and improve infr...
+   💻 Go | ⭐ Star
+
+#18 grpc /grpc
+   🔗 https://github.com/grpc/grpc
+   📝 C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+   💻 C++ | ⭐ Star
+
+#19 vercel /next.js
+   🔗 https://github.com/vercel/next.js
+   📝 The React Framework
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
