@@ -5822,3 +5822,130 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-12 02:43:31
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 24 個倉庫:
+
+#1 catchorg /Catch2
+   🔗 https://github.com/catchorg/Catch2
+   📝 A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, ...
+   💻 C++ | ⭐ Star
+
+#2 abseil /abseil-cpp
+   🔗 https://github.com/abseil/abseil-cpp
+   📝 Abseil Common Libraries (C++)
+   💻 C++ | ⭐ Star
+
+#3 davila7 /claude-code-templates
+   🔗 https://github.com/davila7/claude-code-templates
+   📝 CLI tool for configuring and monitoring Claude Code
+   💻 Python | ⭐ Star
+
+#4 google-labs-code /stitch-skills
+   🔗 https://github.com/google-labs-code/stitch-skills
+   📝 A library of Agent Skills designed to work with the Stitch MCP server. Each skil...
+   💻 TypeScript | ⭐ Star
+
+#5 hashicorp /terraform
+   🔗 https://github.com/hashicorp/terraform
+   📝 Terraform enables you to safely and predictably create, change, and improve infr...
+   💻 Go | ⭐ Star
+
+#6 zeux /meshoptimizer
+   🔗 https://github.com/zeux/meshoptimizer
+   📝 Mesh optimization library that makes meshes smaller and faster to render
+   💻 C++ | ⭐ Star
+
+#7 openai /plugins
+   🔗 https://github.com/openai/plugins
+   📝 OpenAI Plugins
+   💻 JavaScript | ⭐ Star
+
+#8 wonderwhy-er /DesktopCommanderMCP
+   🔗 https://github.com/wonderwhy-er/DesktopCommanderMCP
+   📝 This is MCP server for Claude that gives it terminal control, file system search...
+   💻 TypeScript | ⭐ Star
+
+#9 chriskohlhoff /asio
+   🔗 https://github.com/chriskohlhoff/asio
+   📝 Asio C++ Library
+   💻 C++ | ⭐ Star
+
+#10 oven-sh /bun
+   🔗 https://github.com/oven-sh/bun
+   📝 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – ...
+   💻 Rust | ⭐ Star
+
+#11 actions /checkout
+   🔗 https://github.com/actions/checkout
+   📝 Action for checking out a repo
+   💻 TypeScript | ⭐ Star
+
+#12 home-assistant /core
+   🔗 https://github.com/home-assistant/core
+   📝 🏡 Open source home automation that puts local control and privacy first.
+   💻 Python | ⭐ Star
+
+#13 microsoft /PowerToys
+   🔗 https://github.com/microsoft/PowerToys
+   📝 Microsoft PowerToys is a collection of utilities that supercharge productivity a...
+   💻 C | ⭐ Star
+
+#14 cypress-io /cypress
+   🔗 https://github.com/cypress-io/cypress
+   📝 Fast, easy and reliable testing for anything that runs in a browser.
+   💻 TypeScript | ⭐ Star
+
+#15 vercel /next.js
+   🔗 https://github.com/vercel/next.js
+   📝 The React Framework
+   💻 JavaScript | ⭐ Star
+
+#16 DayuanJiang /next-ai-draw-io
+   🔗 https://github.com/DayuanJiang/next-ai-draw-io
+   📝 A next.js web application that integrates AI capabilities with draw.io diagrams....
+   💻 TypeScript | ⭐ Star
+
+#17 malisper /pgrust
+   🔗 https://github.com/malisper/pgrust
+   📝 Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+   💻 Rust | ⭐ Star
+
+#18 dotnet /aspnetcore
+   🔗 https://github.com/dotnet/aspnetcore
+   📝 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based ...
+   💻 C# | ⭐ Star
+
+#19 prisma /prisma
+   🔗 https://github.com/prisma/prisma
+   📝 Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S...
+   💻 TypeScript | ⭐ Star
+
+#20 anthropics /claude-cookbooks
+   🔗 https://github.com/anthropics/claude-cookbooks
+   📝 A collection of notebooks/recipes showcasing some fun and effective ways of usin...
+   💻 Jupyter Notebook | ⭐ Star
+
+#21 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#22 nasa /fprime
+   🔗 https://github.com/nasa/fprime
+   📝 F´ - A flight software and embedded systems framework
+   💻 C++ | ⭐ Star
+
+#23 ansible /ansible
+   🔗 https://github.com/ansible/ansible
+   📝 Ansible is a radically simple IT automation platform that makes your application...
+   💻 Python | ⭐ Star
+
+#24 nuxt /nuxt
+   🔗 https://github.com/nuxt/nuxt
+   📝 the full-stack Vue framework
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
