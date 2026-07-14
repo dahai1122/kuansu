@@ -6041,3 +6041,60 @@
    💻 CSS | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-14 02:27:31
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 10 個倉庫:
+
+#1 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+#2 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#3 moeru-ai /airi
+   🔗 https://github.com/moeru-ai/airi
+   📝 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l...
+   💻 TypeScript | ⭐ Star
+
+#4 Shubhamsaboo /awesome-llm-apps
+   🔗 https://github.com/Shubhamsaboo/awesome-llm-apps
+   📝 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+   💻 Python | ⭐ Star
+
+#5 Nutlope /hallmark
+   🔗 https://github.com/Nutlope/hallmark
+   📝 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+   💻 CSS | ⭐ Star
+
+#6 Raphire /Win11Debloat
+   🔗 https://github.com/Raphire/Win11Debloat
+   📝 A simple, lightweight PowerShell script that allows you to remove pre-installed ...
+   💻 PowerShell | ⭐ Star
+
+#7 Graphify-Labs /graphify
+   🔗 https://github.com/Graphify-Labs/graphify
+   📝 AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and...
+   💻 Python | ⭐ Star
+
+#8 hasaneyldrm /exercises-dataset
+   🔗 https://github.com/hasaneyldrm/exercises-dataset
+   📝 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou...
+   💻 HTML | ⭐ Star
+
+#9 github /spec-kit
+   🔗 https://github.com/github/spec-kit
+   📝 💫 Toolkit to help you get started with Spec-Driven Development
+   💻 Python | ⭐ Star
+
+#10 coreyhaines31 /marketingskills
+   🔗 https://github.com/coreyhaines31/marketingskills
+   📝 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
