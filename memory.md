@@ -6098,3 +6098,85 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-15 02:25:15
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 Shubhamsaboo /awesome-llm-apps
+   🔗 https://github.com/Shubhamsaboo/awesome-llm-apps
+   📝 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+   💻 Python | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#3 Dicklesworthstone /destructive_command_guard
+   🔗 https://github.com/Dicklesworthstone/destructive_command_guard
+   📝 The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm...
+   💻 Rust | ⭐ Star
+
+#4 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+#5 virattt /ai-hedge-fund
+   🔗 https://github.com/virattt/ai-hedge-fund
+   📝 An AI Hedge Fund Team
+   💻 Python | ⭐ Star
+
+#6 Nutlope /hallmark
+   🔗 https://github.com/Nutlope/hallmark
+   📝 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+   💻 CSS | ⭐ Star
+
+#7 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#8 Raphire /Win11Debloat
+   🔗 https://github.com/Raphire/Win11Debloat
+   📝 A simple, lightweight PowerShell script that allows you to remove pre-installed ...
+   💻 PowerShell | ⭐ Star
+
+#9 hasaneyldrm /exercises-dataset
+   🔗 https://github.com/hasaneyldrm/exercises-dataset
+   📝 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou...
+   💻 HTML | ⭐ Star
+
+#10 penpot /penpot
+   🔗 https://github.com/penpot/penpot
+   📝 Penpot: The open-source design platform for Product teams that need scalable col...
+   💻 Clojure | ⭐ Star
+
+#11 AIEraDev /Clypra
+   🔗 https://github.com/AIEraDev/Clypra
+   📝 A modern video editor built with Tauri, React, and TypeScript. Focus on building...
+   💻 TypeScript | ⭐ Star
+
+#12 par274 /sharpemu
+   🔗 https://github.com/par274/sharpemu
+   📝 An experimental PlayStation 5 emulator project.
+   💻 C# | ⭐ Star
+
+#13 chenyme /grok2api
+   🔗 https://github.com/chenyme/grok2api
+   📝 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
+   💻 Go | ⭐ Star
+
+#14 Graphify-Labs /graphify
+   🔗 https://github.com/Graphify-Labs/graphify
+   📝 AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and...
+   💻 Python | ⭐ Star
+
+#15 HenryNdubuaku /maths-cs-ai-compendium
+   🔗 https://github.com/HenryNdubuaku/maths-cs-ai-compendium
+   📝 Become a cracked AI/ML Research Engineer
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
