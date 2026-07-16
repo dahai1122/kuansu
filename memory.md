@@ -6180,3 +6180,75 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-16 02:33:17
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+#2 Nutlope /hallmark
+   🔗 https://github.com/Nutlope/hallmark
+   📝 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+   💻 CSS | ⭐ Star
+
+#3 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#4 moeru-ai /airi
+   🔗 https://github.com/moeru-ai/airi
+   📝 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l...
+   💻 TypeScript | ⭐ Star
+
+#5 Dicklesworthstone /destructive_command_guard
+   🔗 https://github.com/Dicklesworthstone/destructive_command_guard
+   📝 The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm...
+   💻 Rust | ⭐ Star
+
+#6 HKUDS /Vibe-Trading
+   🔗 https://github.com/HKUDS/Vibe-Trading
+   📝 "Vibe-Trading: Your Personal Trading Agent"
+   💻 Python | ⭐ Star
+
+#7 openinterpreter /openinterpreter
+   🔗 https://github.com/openinterpreter/openinterpreter
+   📝 A coding agent for low-cost models
+   💻 Rust | ⭐ Star
+
+#8 HKUDS /DeepTutor
+   🔗 https://github.com/HKUDS/DeepTutor
+   📝 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+   💻 Python | ⭐ Star
+
+#9 HenryNdubuaku /maths-cs-ai-compendium
+   🔗 https://github.com/HenryNdubuaku/maths-cs-ai-compendium
+   📝 Become a cracked AI/ML Research Engineer
+   💻 TypeScript | ⭐ Star
+
+#10 Shubhamsaboo /awesome-llm-apps
+   🔗 https://github.com/Shubhamsaboo/awesome-llm-apps
+   📝 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+   💻 Python | ⭐ Star
+
+#11 coreyhaines31 /marketingskills
+   🔗 https://github.com/coreyhaines31/marketingskills
+   📝 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics...
+   💻 JavaScript | ⭐ Star
+
+#12 YimMenu /YimMenuV2
+   🔗 https://github.com/YimMenu/YimMenuV2
+   📝 Experimental menu for GTA 5: Enhanced
+   💻 C++ | ⭐ Star
+
+#13 hasaneyldrm /exercises-dataset
+   🔗 https://github.com/hasaneyldrm/exercises-dataset
+   📝 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou...
+   💻 HTML | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
