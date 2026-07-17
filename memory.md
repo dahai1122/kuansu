@@ -6252,3 +6252,95 @@
    💻 HTML | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-17 02:35:22
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 apache /ossie
+   🔗 https://github.com/apache/ossie
+   📝 Apache Ossie, industry wide specification effort to standardize how we exchange ...
+   💻 Python | ⭐ Star
+
+#2 Nutlope /hallmark
+   🔗 https://github.com/Nutlope/hallmark
+   📝 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+   💻 CSS | ⭐ Star
+
+#3 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+#4 PostHog /posthog
+   🔗 https://github.com/PostHog/posthog
+   📝 🦔 PostHog is the leading platform for building self-driving products. Our develo...
+   💻 Python | ⭐ Star
+
+#5 openinterpreter /openinterpreter
+   🔗 https://github.com/openinterpreter/openinterpreter
+   📝 A coding agent for open models like Kimi K3
+   💻 Rust | ⭐ Star
+
+#6 PrismML-Eng /Bonsai-demo
+   🔗 https://github.com/PrismML-Eng/Bonsai-demo
+   📝 Bonsai Demo
+   💻 Shell | ⭐ Star
+
+#7 hasaneyldrm /exercises-dataset
+   🔗 https://github.com/hasaneyldrm/exercises-dataset
+   📝 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou...
+   💻 HTML | ⭐ Star
+
+#8 Shubhamsaboo /awesome-llm-apps
+   🔗 https://github.com/Shubhamsaboo/awesome-llm-apps
+   📝 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+   💻 Python | ⭐ Star
+
+#9 lobehub /lobehub
+   🔗 https://github.com/lobehub/lobehub
+   📝 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operati...
+   💻 TypeScript | ⭐ Star
+
+#10 YimMenu /YimMenuV2
+   🔗 https://github.com/YimMenu/YimMenuV2
+   📝 Experimental menu for GTA 5: Enhanced
+   💻 C++ | ⭐ Star
+
+#11 HKUDS /DeepTutor
+   🔗 https://github.com/HKUDS/DeepTutor
+   📝 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+   💻 Python | ⭐ Star
+
+#12 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .claude directory.
+   💻 Shell | ⭐ Star
+
+#13 github /copilot-sdk
+   🔗 https://github.com/github/copilot-sdk
+   📝 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   💻 Java | ⭐ Star
+
+#14 ibelick /ui-skills
+   🔗 https://github.com/ibelick/ui-skills
+   📝 Skills for Design Engineers
+   💻 TypeScript | ⭐ Star
+
+#15 Graphify-Labs /graphify
+   🔗 https://github.com/Graphify-Labs/graphify
+   📝 AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and...
+   💻 Python | ⭐ Star
+
+#16 codecrafters-io /build-your-own-x
+   🔗 https://github.com/codecrafters-io/build-your-own-x
+   📝 Master programming by recreating your favorite technologies from scratch.
+   💻 Markdown | ⭐ Star
+
+#17 ossu /computer-science
+   🔗 https://github.com/ossu/computer-science
+   📝 🎓 Path to a free self-taught education in Computer Science!
+   💻 HTML | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
