@@ -6344,3 +6344,80 @@
    💻 HTML | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-18 02:26:46
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 codecrafters-io /build-your-own-x
+   🔗 https://github.com/codecrafters-io/build-your-own-x
+   📝 Master programming by recreating your favorite technologies from scratch.
+   💻 Markdown | ⭐ Star
+
+#2 PostHog /posthog
+   🔗 https://github.com/PostHog/posthog
+   📝 🦔 PostHog is the leading platform for building self-driving products. Our develo...
+   💻 Python | ⭐ Star
+
+#3 HenryNdubuaku /maths-cs-ai-compendium
+   🔗 https://github.com/HenryNdubuaku/maths-cs-ai-compendium
+   📝 Become a cracked AI/ML Research Engineer
+   💻 TypeScript | ⭐ Star
+
+#4 Nutlope /hallmark
+   🔗 https://github.com/Nutlope/hallmark
+   📝 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+   💻 CSS | ⭐ Star
+
+#5 github /copilot-sdk
+   🔗 https://github.com/github/copilot-sdk
+   📝 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   💻 Java | ⭐ Star
+
+#6 anthropics /cwc-workshops
+   🔗 https://github.com/anthropics/cwc-workshops
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#7 PrismML-Eng /Bonsai-demo
+   🔗 https://github.com/PrismML-Eng/Bonsai-demo
+   📝 Bonsai Demo
+   💻 Shell | ⭐ Star
+
+#8 protocolbuffers /protobuf
+   🔗 https://github.com/protocolbuffers/protobuf
+   📝 Protocol Buffers - Google's data interchange format
+   💻 C++ | ⭐ Star
+
+#9 tirth8205 /code-review-graph
+   🔗 https://github.com/tirth8205/code-review-graph
+   📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...
+   💻 Python | ⭐ Star
+
+#10 docusealco /docuseal
+   🔗 https://github.com/docusealco/docuseal
+   📝 Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+   💻 Ruby | ⭐ Star
+
+#11 openinterpreter /openinterpreter
+   🔗 https://github.com/openinterpreter/openinterpreter
+   📝 A coding agent for open models like Kimi K3
+   💻 Rust | ⭐ Star
+
+#12 RyanCodrai /turbovec
+   🔗 https://github.com/RyanCodrai/turbovec
+   📝 A vector index built on TurboQuant, written in Rust with Python bindings
+   💻 Python | ⭐ Star
+
+#13 HKUDS /DeepTutor
+   🔗 https://github.com/HKUDS/DeepTutor
+   📝 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+   💻 Python | ⭐ Star
+
+#14 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
