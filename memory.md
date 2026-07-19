@@ -6421,3 +6421,65 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-19 02:40:15
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 11 個倉庫:
+
+#1 Robbyant /lingbot-map
+   🔗 https://github.com/Robbyant/lingbot-map
+   📝 A feed-forward 3D foundation model for reconstructing scenes from streaming data
+   💻 Python | ⭐ Star
+
+#2 apache /ossie
+   🔗 https://github.com/apache/ossie
+   📝 Apache Ossie, industry wide specification effort to standardize how we exchange ...
+   💻 Python | ⭐ Star
+
+#3 PostHog /posthog
+   🔗 https://github.com/PostHog/posthog
+   📝 🦔 PostHog is the leading platform for building self-driving products. Our develo...
+   💻 Python | ⭐ Star
+
+#4 ibelick /ui-skills
+   🔗 https://github.com/ibelick/ui-skills
+   📝 Skills for Design Engineers
+   💻 TypeScript | ⭐ Star
+
+#5 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#6 tirth8205 /code-review-graph
+   🔗 https://github.com/tirth8205/code-review-graph
+   📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...
+   💻 Python | ⭐ Star
+
+#7 elder-plinius /G0DM0D3
+   🔗 https://github.com/elder-plinius/G0DM0D3
+   📝 LIBERATED AI CHAT
+   💻 TypeScript | ⭐ Star
+
+#8 lyogavin /airllm
+   🔗 https://github.com/lyogavin/airllm
+   📝 AirLLM 70B inference with single 4GB GPU
+   💻 Jupyter Notebook | ⭐ Star
+
+#9 KnockOutEZ /wigolo
+   🔗 https://github.com/KnockOutEZ/wigolo
+   📝 The go-to web for your AI coding agent — local-first search, fetch, crawl & rese...
+   💻 TypeScript | ⭐ Star
+
+#10 codecrafters-io /build-your-own-x
+   🔗 https://github.com/codecrafters-io/build-your-own-x
+   📝 Master programming by recreating your favorite technologies from scratch.
+   💻 Markdown | ⭐ Star
+
+#11 MoonshotAI /kimi-cli
+   🔗 https://github.com/MoonshotAI/kimi-cli
+   📝 Kimi Code CLI is your next CLI agent.
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
