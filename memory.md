@@ -6483,3 +6483,105 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-20 03:17:44
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 bojieli /ai-agent-book
+   🔗 https://github.com/bojieli/ai-agent-book
+   📝 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+   💻 Python | ⭐ Star
+
+#2 tirth8205 /code-review-graph
+   🔗 https://github.com/tirth8205/code-review-graph
+   📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...
+   💻 Python | ⭐ Star
+
+#3 kvcache-ai /ktransformers
+   🔗 https://github.com/kvcache-ai/ktransformers
+   📝 A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti...
+   💻 Python | ⭐ Star
+
+#4 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#5 jamiepine /voicebox
+   🔗 https://github.com/jamiepine/voicebox
+   📝 The open-source AI voice studio. Clone, dictate, create.
+   💻 TypeScript | ⭐ Star
+
+#6 KnockOutEZ /wigolo
+   🔗 https://github.com/KnockOutEZ/wigolo
+   📝 The go-to web for your AI coding agent — local-first search, fetch, crawl & rese...
+   💻 TypeScript | ⭐ Star
+
+#7 andrewrabert /jellium-desktop
+   🔗 https://github.com/andrewrabert/jellium-desktop
+   📝 An unofficial desktop client for Jellyfin
+   💻 Rust | ⭐ Star
+
+#8 github /copilot-sdk
+   🔗 https://github.com/github/copilot-sdk
+   📝 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   💻 Java | ⭐ Star
+
+#9 PostHog /posthog
+   🔗 https://github.com/PostHog/posthog
+   📝 🦔 PostHog is the leading platform for building self-driving products. Our develo...
+   💻 Python | ⭐ Star
+
+#10 microsoft /terminal
+   🔗 https://github.com/microsoft/terminal
+   📝 The new Windows Terminal and the original Windows console host, all in the same ...
+   💻 C++ | ⭐ Star
+
+#11 AstrBotDevs /AstrBot
+   🔗 https://github.com/AstrBotDevs/AstrBot
+   📝 AI Agent Assistant & development framework that integrates lots of IM platforms,...
+   💻 Python | ⭐ Star
+
+#12 1jehuang /jcode
+   🔗 https://github.com/1jehuang/jcode
+   📝 Coding Agent Harness
+   💻 Rust | ⭐ Star
+
+#13 trycua /cua
+   🔗 https://github.com/trycua/cua
+   📝 Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks...
+   💻 HTML | ⭐ Star
+
+#14 MoonshotAI /kimi-cli
+   🔗 https://github.com/MoonshotAI/kimi-cli
+   📝 Kimi Code CLI is your next CLI agent.
+   💻 Python | ⭐ Star
+
+#15 Flowseal /zapret-discord-youtube
+   🔗 https://github.com/Flowseal/zapret-discord-youtube
+   📝 N/A
+   💻 Batchfile | ⭐ Star
+
+#16 codecrafters-io /build-your-own-x
+   🔗 https://github.com/codecrafters-io/build-your-own-x
+   📝 Master programming by recreating your favorite technologies from scratch.
+   💻 Markdown | ⭐ Star
+
+#17 lyogavin /airllm
+   🔗 https://github.com/lyogavin/airllm
+   📝 AirLLM 70B inference with single 4GB GPU
+   💻 Jupyter Notebook | ⭐ Star
+
+#18 Canner /WrenAI
+   🔗 https://github.com/Canner/WrenAI
+   📝 GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL throug...
+   💻 Python | ⭐ Star
+
+#19 PKUFlyingPig /cs-self-learning
+   🔗 https://github.com/PKUFlyingPig/cs-self-learning
+   📝 计算机自学指南
+   💻 HTML | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
