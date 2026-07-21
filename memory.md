@@ -6585,3 +6585,115 @@
    💻 HTML | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-21 02:37:42
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 21 個倉庫:
+
+#1 bojieli /ai-agent-book
+   🔗 https://github.com/bojieli/ai-agent-book
+   📝 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+   💻 Python | ⭐ Star
+
+#2 tirth8205 /code-review-graph
+   🔗 https://github.com/tirth8205/code-review-graph
+   📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...
+   💻 Python | ⭐ Star
+
+#3 1jehuang /jcode
+   🔗 https://github.com/1jehuang/jcode
+   📝 The most intelligent agent harness for code
+   💻 Rust | ⭐ Star
+
+#4 diegosouzapw /OmniRoute
+   🔗 https://github.com/diegosouzapw/OmniRoute
+   📝 Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free),...
+   💻 TypeScript | ⭐ Star
+
+#5 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#6 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#7 kvcache-ai /ktransformers
+   🔗 https://github.com/kvcache-ai/ktransformers
+   📝 A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti...
+   💻 Python | ⭐ Star
+
+#8 jamiepine /voicebox
+   🔗 https://github.com/jamiepine/voicebox
+   📝 The open-source AI voice studio. Clone, dictate, create.
+   💻 TypeScript | ⭐ Star
+
+#9 topoteretes /cognee
+   🔗 https://github.com/topoteretes/cognee
+   📝 Cognee is the open-source AI memory platform for agents. Give your AI agents per...
+   💻 Python | ⭐ Star
+
+#10 Robbyant /lingbot-map
+   🔗 https://github.com/Robbyant/lingbot-map
+   📝 A feed-forward 3D foundation model for reconstructing scenes from streaming data
+   💻 Python | ⭐ Star
+
+#11 every-app /open-seo
+   🔗 https://github.com/every-app/open-seo
+   📝 Open source alternative to Semrush and Ahrefs
+   💻 TypeScript | ⭐ Star
+
+#12 MoonshotAI /kimi-cli
+   🔗 https://github.com/MoonshotAI/kimi-cli
+   📝 Kimi Code CLI is your next CLI agent.
+   💻 Python | ⭐ Star
+
+#13 AstrBotDevs /AstrBot
+   🔗 https://github.com/AstrBotDevs/AstrBot
+   📝 AI Agent Assistant & development framework that integrates lots of IM platforms,...
+   💻 Python | ⭐ Star
+
+#14 PrefectHQ /fastmcp
+   🔗 https://github.com/PrefectHQ/fastmcp
+   📝 🚀 The fast, Pythonic way to build MCP servers and clients.
+   💻 Python | ⭐ Star
+
+#15 KnockOutEZ /wigolo
+   🔗 https://github.com/KnockOutEZ/wigolo
+   📝 The go-to web for your AI coding agent — local-first search, fetch, crawl & rese...
+   💻 TypeScript | ⭐ Star
+
+#16 tokio-rs /topcoat
+   🔗 https://github.com/tokio-rs/topcoat
+   📝 A batteries-included framework for building web apps
+   💻 Rust | ⭐ Star
+
+#17 iptv-org /iptv
+   🔗 https://github.com/iptv-org/iptv
+   📝 Collection of publicly available IPTV channels from all over the world
+   💻 TypeScript | ⭐ Star
+
+#18 oblien /openship
+   🔗 https://github.com/oblien/openship
+   📝 Self-hosted deployment platform
+   💻 TypeScript | ⭐ Star
+
+#19 microsoft /Ontology-Playground
+   🔗 https://github.com/microsoft/Ontology-Playground
+   📝 Free, open-source web app for learning about ontologies and Microsoft Fabric IQ....
+   💻 TypeScript | ⭐ Star
+
+#20 handy-computer /transcribe.cpp
+   🔗 https://github.com/handy-computer/transcribe.cpp
+   📝 ggml speech-to-text inference for 16+ model families
+   💻 C++ | ⭐ Star
+
+#21 moonshine-ai /moonshine
+   🔗 https://github.com/moonshine-ai/moonshine
+   📝 Very low latency speech to text, intent recognition, and text to speech, for bui...
+   💻 C++ | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
