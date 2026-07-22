@@ -6697,3 +6697,115 @@
    💻 C++ | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-22 02:35:57
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 21 個倉庫:
+
+#1 koala73 /worldmonitor
+   🔗 https://github.com/koala73/worldmonitor
+   📝 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic...
+   💻 TypeScript | ⭐ Star
+
+#2 bojieli /ai-agent-book
+   🔗 https://github.com/bojieli/ai-agent-book
+   📝 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+   💻 Python | ⭐ Star
+
+#3 tirth8205 /code-review-graph
+   🔗 https://github.com/tirth8205/code-review-graph
+   📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...
+   💻 Python | ⭐ Star
+
+#4 ayghri /i-have-adhd
+   🔗 https://github.com/ayghri/i-have-adhd
+   📝 A skill for your coding agent to stop it from burying the answer. ADHD-friendly ...
+   💻 N/A | ⭐ Star
+
+#5 earthtojake /text-to-cad
+   🔗 https://github.com/earthtojake/text-to-cad
+   📝 A collection of agent skills for CAD, robotics and hardware design
+   💻 JavaScript | ⭐ Star
+
+#6 1jehuang /jcode
+   🔗 https://github.com/1jehuang/jcode
+   📝 The most intelligent agent harness for code
+   💻 Rust | ⭐ Star
+
+#7 oblien /openship
+   🔗 https://github.com/oblien/openship
+   📝 Self-hosted deployment platform
+   💻 TypeScript | ⭐ Star
+
+#8 AstrBotDevs /AstrBot
+   🔗 https://github.com/AstrBotDevs/AstrBot
+   📝 AI Agent Assistant & development framework that integrates lots of IM platforms,...
+   💻 Python | ⭐ Star
+
+#9 every-app /open-seo
+   🔗 https://github.com/every-app/open-seo
+   📝 Open source alternative to Semrush and Ahrefs
+   💻 TypeScript | ⭐ Star
+
+#10 tradesdontlie /tradingview-mcp
+   🔗 https://github.com/tradesdontlie/tradingview-mcp
+   📝 AI-assisted TradingView chart analysis — connect Claude Code to your TradingView...
+   💻 JavaScript | ⭐ Star
+
+#11 AlexsJones /llmfit
+   🔗 https://github.com/AlexsJones/llmfit
+   📝 Hundreds of models & providers. One command to find what runs on your hardware.
+   💻 Rust | ⭐ Star
+
+#12 hyprwm /Hyprland
+   🔗 https://github.com/hyprwm/Hyprland
+   📝 Hyprland is an independent, highly customizable, dynamic tiling Wayland composit...
+   💻 C++ | ⭐ Star
+
+#13 chrislgarry /Apollo-11
+   🔗 https://github.com/chrislgarry/Apollo-11
+   📝 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar...
+   💻 Assembly | ⭐ Star
+
+#14 DioxusLabs /dioxus
+   🔗 https://github.com/DioxusLabs/dioxus
+   📝 Fullstack app framework for web, desktop, and mobile.
+   💻 Rust | ⭐ Star
+
+#15 langchain-ai /open_deep_research
+   🔗 https://github.com/langchain-ai/open_deep_research
+   📝 N/A
+   💻 Python | ⭐ Star
+
+#16 diegosouzapw /OmniRoute
+   🔗 https://github.com/diegosouzapw/OmniRoute
+   📝 Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free),...
+   💻 TypeScript | ⭐ Star
+
+#17 agegr /pi-web
+   🔗 https://github.com/agegr/pi-web
+   📝 Web UI for the pi coding agent
+   💻 TypeScript | ⭐ Star
+
+#18 schollz /croc
+   🔗 https://github.com/schollz/croc
+   📝 Easily and securely send things from one computer to another 🐊 📦
+   💻 Go | ⭐ Star
+
+#19 microsoft /Ontology-Playground
+   🔗 https://github.com/microsoft/Ontology-Playground
+   📝 Free, open-source web app for learning about ontologies and Microsoft Fabric IQ....
+   💻 TypeScript | ⭐ Star
+
+#20 dottxt-ai /outlines
+   🔗 https://github.com/dottxt-ai/outlines
+   📝 Structured Outputs
+   💻 Python | ⭐ Star
+
+#21 KnockOutEZ /wigolo
+   🔗 https://github.com/KnockOutEZ/wigolo
+   📝 The go-to web for your AI coding agent — local-first search, fetch, crawl & rese...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
