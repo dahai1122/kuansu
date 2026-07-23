@@ -6809,3 +6809,105 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-23 02:41:43
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 koala73 /worldmonitor
+   🔗 https://github.com/koala73/worldmonitor
+   📝 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic...
+   💻 TypeScript | ⭐ Star
+
+#2 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#3 ayghri /i-have-adhd
+   🔗 https://github.com/ayghri/i-have-adhd
+   📝 A skill for your coding agent to stop it from burying the answer. ADHD-friendly ...
+   💻 Python | ⭐ Star
+
+#4 schollz /croc
+   🔗 https://github.com/schollz/croc
+   📝 Easily and securely send things from one computer to another 🐊 📦
+   💻 Go | ⭐ Star
+
+#5 likec4 /likec4
+   🔗 https://github.com/likec4/likec4
+   📝 Visualize, collaborate, and evolve the software architecture with always actual ...
+   💻 TypeScript | ⭐ Star
+
+#6 chrislgarry /Apollo-11
+   🔗 https://github.com/chrislgarry/Apollo-11
+   📝 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar...
+   💻 Assembly | ⭐ Star
+
+#7 jamiepine /voicebox
+   🔗 https://github.com/jamiepine/voicebox
+   📝 The open-source AI voice studio. Clone, dictate, create.
+   💻 TypeScript | ⭐ Star
+
+#8 diegosouzapw /OmniRoute
+   🔗 https://github.com/diegosouzapw/OmniRoute
+   📝 Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free),...
+   💻 TypeScript | ⭐ Star
+
+#9 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#10 ComposioHQ /awesome-claude-skills
+   🔗 https://github.com/ComposioHQ/awesome-claude-skills
+   📝 A curated list of awesome Claude Skills, resources, and tools for customizing Cl...
+   💻 Python | ⭐ Star
+
+#11 oblien /openship
+   🔗 https://github.com/oblien/openship
+   📝 Self-hosted deployment platform
+   💻 TypeScript | ⭐ Star
+
+#12 agegr /pi-web
+   🔗 https://github.com/agegr/pi-web
+   📝 Web UI for the pi coding agent
+   💻 TypeScript | ⭐ Star
+
+#13 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#14 tirth8205 /code-review-graph
+   🔗 https://github.com/tirth8205/code-review-graph
+   📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...
+   💻 Python | ⭐ Star
+
+#15 dreamhunter2333 /cloudflare_temp_email
+   🔗 https://github.com/dreamhunter2333/cloudflare_temp_email
+   📝 CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+   💻 TypeScript | ⭐ Star
+
+#16 DioxusLabs /dioxus
+   🔗 https://github.com/DioxusLabs/dioxus
+   📝 Fullstack app framework for web, desktop, and mobile.
+   💻 Rust | ⭐ Star
+
+#17 hyprwm /Hyprland
+   🔗 https://github.com/hyprwm/Hyprland
+   📝 Hyprland is an independent, highly customizable, dynamic tiling Wayland composit...
+   💻 C++ | ⭐ Star
+
+#18 Pumpkin-MC /Pumpkin
+   🔗 https://github.com/Pumpkin-MC/Pumpkin
+   📝 Empowering everyone to host fast and efficient Minecraft servers.
+   💻 Rust | ⭐ Star
+
+#19 dottxt-ai /outlines
+   🔗 https://github.com/dottxt-ai/outlines
+   📝 Structured Outputs
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
