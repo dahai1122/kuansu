@@ -6911,3 +6911,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-24 02:37:51
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 block /buzz
+   🔗 https://github.com/block/buzz
+   📝 A hive mind communication platform
+   💻 Rust | ⭐ Star
+
+#2 koala73 /worldmonitor
+   🔗 https://github.com/koala73/worldmonitor
+   📝 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic...
+   💻 TypeScript | ⭐ Star
+
+#3 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#4 Pumpkin-MC /Pumpkin
+   🔗 https://github.com/Pumpkin-MC/Pumpkin
+   📝 Empowering everyone to host fast and efficient Minecraft servers.
+   💻 Rust | ⭐ Star
+
+#5 citrolabs /ego-lite
+   🔗 https://github.com/citrolabs/ego-lite
+   📝 The best browser for both you and your AI agents work in parallel.
+   💻 JavaScript | ⭐ Star
+
+#6 chrislgarry /Apollo-11
+   🔗 https://github.com/chrislgarry/Apollo-11
+   📝 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar...
+   💻 Assembly | ⭐ Star
+
+#7 diegosouzapw /OmniRoute
+   🔗 https://github.com/diegosouzapw/OmniRoute
+   📝 Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),...
+   💻 TypeScript | ⭐ Star
+
+#8 ComposioHQ /awesome-claude-skills
+   🔗 https://github.com/ComposioHQ/awesome-claude-skills
+   📝 A curated list of awesome Claude Skills, resources, and tools for customizing Cl...
+   💻 Python | ⭐ Star
+
+#9 earthtojake /text-to-cad
+   🔗 https://github.com/earthtojake/text-to-cad
+   📝 A collection of agent skills for CAD, robotics and hardware design
+   💻 JavaScript | ⭐ Star
+
+#10 agegr /pi-web
+   🔗 https://github.com/agegr/pi-web
+   📝 Web UI for the pi coding agent
+   💻 TypeScript | ⭐ Star
+
+#11 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code ...
+   💻 Go | ⭐ Star
+
+#12 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#13 likec4 /likec4
+   🔗 https://github.com/likec4/likec4
+   📝 Visualize, collaborate, and evolve the software architecture with always actual ...
+   💻 TypeScript | ⭐ Star
+
+#14 Automattic /harper
+   🔗 https://github.com/Automattic/harper
+   📝 Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+   💻 Rust | ⭐ Star
+
+#15 jellyfin /jellyfin
+   🔗 https://github.com/jellyfin/jellyfin
+   📝 The Free Software Media System - Server Backend & API
+   💻 C# | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
