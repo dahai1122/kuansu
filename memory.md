@@ -6993,3 +6993,90 @@
    💻 C# | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-25 02:35:27
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 block /buzz
+   🔗 https://github.com/block/buzz
+   📝 A hive mind communication platform
+   💻 Rust | ⭐ Star
+
+#2 koala73 /worldmonitor
+   🔗 https://github.com/koala73/worldmonitor
+   📝 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic...
+   💻 TypeScript | ⭐ Star
+
+#3 ComposioHQ /awesome-claude-skills
+   🔗 https://github.com/ComposioHQ/awesome-claude-skills
+   📝 A curated list of awesome Claude Skills, resources, and tools for customizing Cl...
+   💻 Python | ⭐ Star
+
+#4 Pumpkin-MC /Pumpkin
+   🔗 https://github.com/Pumpkin-MC/Pumpkin
+   📝 Empowering everyone to host fast and efficient Minecraft servers.
+   💻 Rust | ⭐ Star
+
+#5 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#6 Automattic /harper
+   🔗 https://github.com/Automattic/harper
+   📝 Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+   💻 Rust | ⭐ Star
+
+#7 likec4 /likec4
+   🔗 https://github.com/likec4/likec4
+   📝 Visualize, collaborate, and evolve the software architecture with always actual ...
+   💻 TypeScript | ⭐ Star
+
+#8 citrolabs /ego-lite
+   🔗 https://github.com/citrolabs/ego-lite
+   📝 The fastest browser for AI agents to run web automation, built for sharing your ...
+   💻 JavaScript | ⭐ Star
+
+#9 yorukot /superfile
+   🔗 https://github.com/yorukot/superfile
+   📝 Pretty fancy and modern terminal file manager
+   💻 Go | ⭐ Star
+
+#10 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#11 CoreBunch /Instatic
+   🔗 https://github.com/CoreBunch/Instatic
+   📝 The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste...
+   💻 TypeScript | ⭐ Star
+
+#12 chrislgarry /Apollo-11
+   🔗 https://github.com/chrislgarry/Apollo-11
+   📝 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar...
+   💻 Assembly | ⭐ Star
+
+#13 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#14 Lordog /dive-into-llms
+   🔗 https://github.com/Lordog/dive-into-llms
+   📝 《动手学大模型Dive into LLMs》系列编程实践教程
+   💻 Jupyter Notebook | ⭐ Star
+
+#15 diegosouzapw /OmniRoute
+   🔗 https://github.com/diegosouzapw/OmniRoute
+   📝 Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),...
+   💻 TypeScript | ⭐ Star
+
+#16 OtterMind /Chat2DB
+   🔗 https://github.com/OtterMind/Chat2DB
+   📝 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting M...
+   💻 Java | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
