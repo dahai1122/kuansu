@@ -7177,3 +7177,95 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-27 02:52:46
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 permissionlesstech /bitchat
+   🔗 https://github.com/permissionlesstech/bitchat
+   📝 bluetooth mesh chat, IRC vibes
+   💻 Swift | ⭐ Star
+
+#2 citrolabs /ego-lite
+   🔗 https://github.com/citrolabs/ego-lite
+   📝 The fastest browser for AI agents to run web automation, built for sharing your ...
+   💻 JavaScript | ⭐ Star
+
+#3 block /buzz
+   🔗 https://github.com/block/buzz
+   📝 A hive mind communication platform
+   💻 Rust | ⭐ Star
+
+#4 pingdotgg /t3code
+   🔗 https://github.com/pingdotgg/t3code
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#5 CoreBunch /Instatic
+   🔗 https://github.com/CoreBunch/Instatic
+   📝 The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste...
+   💻 TypeScript | ⭐ Star
+
+#6 yorukot /superfile
+   🔗 https://github.com/yorukot/superfile
+   📝 Pretty fancy and modern terminal file manager
+   💻 Go | ⭐ Star
+
+#7 nodejs /node
+   🔗 https://github.com/nodejs/node
+   📝 Node.js JavaScript runtime ✨🐢🚀✨
+   💻 JavaScript | ⭐ Star
+
+#8 OtterMind /Chat2DB
+   🔗 https://github.com/OtterMind/Chat2DB
+   📝 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting M...
+   💻 Java | ⭐ Star
+
+#9 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design language that makes your AI harness better at design.
+   💻 JavaScript | ⭐ Star
+
+#10 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#11 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code ...
+   💻 Go | ⭐ Star
+
+#12 andrewyng /aisuite
+   🔗 https://github.com/andrewyng/aisuite
+   📝 Simple, unified interface to multiple Generative AI providers
+   💻 Python | ⭐ Star
+
+#13 anthropics /claude-cookbooks
+   🔗 https://github.com/anthropics/claude-cookbooks
+   📝 A collection of notebooks/recipes showcasing some fun and effective ways of usin...
+   💻 Jupyter Notebook | ⭐ Star
+
+#14 Pumpkin-MC /Pumpkin
+   🔗 https://github.com/Pumpkin-MC/Pumpkin
+   📝 Empowering everyone to host fast and efficient Minecraft servers.
+   💻 Rust | ⭐ Star
+
+#15 permissionlesstech /bitchat-android
+   🔗 https://github.com/permissionlesstech/bitchat-android
+   📝 bluetooth mesh chat, IRC vibes
+   💻 Kotlin | ⭐ Star
+
+#16 jenkinsci /jenkins
+   🔗 https://github.com/jenkinsci/jenkins
+   📝 Jenkins automation server
+   💻 Java | ⭐ Star
+
+#17 amnezia-vpn /amnezia-client
+   🔗 https://github.com/amnezia-vpn/amnezia-client
+   📝 Amnezia VPN Client (Desktop+Mobile)
+   💻 C++ | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
