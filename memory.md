@@ -7269,3 +7269,85 @@
    💻 C++ | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-28 02:29:45
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 permissionlesstech /bitchat
+   🔗 https://github.com/permissionlesstech/bitchat
+   📝 bluetooth mesh chat, IRC vibes
+   💻 Swift | ⭐ Star
+
+#2 amnezia-vpn /amnezia-client
+   🔗 https://github.com/amnezia-vpn/amnezia-client
+   📝 Amnezia VPN Client (Desktop+Mobile)
+   💻 C++ | ⭐ Star
+
+#3 moeru-ai /airi
+   🔗 https://github.com/moeru-ai/airi
+   📝 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l...
+   💻 TypeScript | ⭐ Star
+
+#4 opengeos /GeoLibre
+   🔗 https://github.com/opengeos/GeoLibre
+   📝 A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi...
+   💻 TypeScript | ⭐ Star
+
+#5 yorukot /superfile
+   🔗 https://github.com/yorukot/superfile
+   📝 Pretty fancy and modern terminal file manager
+   💻 Go | ⭐ Star
+
+#6 NanmiCoder /MediaCrawler
+   🔗 https://github.com/NanmiCoder/MediaCrawler
+   📝 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬...
+   💻 Python | ⭐ Star
+
+#7 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design language that makes your AI harness better at design.
+   💻 JavaScript | ⭐ Star
+
+#8 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#9 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code ...
+   💻 Go | ⭐ Star
+
+#10 jenkinsci /jenkins
+   🔗 https://github.com/jenkinsci/jenkins
+   📝 Jenkins automation server
+   💻 Java | ⭐ Star
+
+#11 bradautomates /claude-video
+   🔗 https://github.com/bradautomates/claude-video
+   📝 Give Claude the ability to watch any video. /watch downloads, extracts frames, t...
+   💻 Python | ⭐ Star
+
+#12 vudovn /ag-kit
+   🔗 https://github.com/vudovn/ag-kit
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#13 apache /cassandra
+   🔗 https://github.com/apache/cassandra
+   📝 Open source transactional distributed database. Linear scalability and proven fa...
+   💻 Java | ⭐ Star
+
+#14 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#15 ocornut /imgui
+   🔗 https://github.com/ocornut/imgui
+   📝 Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencie...
+   💻 C++ | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
