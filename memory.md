@@ -7351,3 +7351,75 @@
    💻 C++ | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-29 02:34:11
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 pascalorg /editor
+   🔗 https://github.com/pascalorg/editor
+   📝 Create and share 3D architectural projects.
+   💻 TypeScript | ⭐ Star
+
+#2 jenkinsci /jenkins
+   🔗 https://github.com/jenkinsci/jenkins
+   📝 Jenkins automation server
+   💻 Java | ⭐ Star
+
+#3 moeru-ai /airi
+   🔗 https://github.com/moeru-ai/airi
+   📝 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l...
+   💻 TypeScript | ⭐ Star
+
+#4 andrewyng /aisuite
+   🔗 https://github.com/andrewyng/aisuite
+   📝 Simple, unified interface to multiple Generative AI providers
+   💻 Python | ⭐ Star
+
+#5 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#6 hello245m /free-stockdb
+   🔗 https://github.com/hello245m/free-stockdb
+   📝 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
+   💻 HTML | ⭐ Star
+
+#7 huggingface /speech-to-speech
+   🔗 https://github.com/huggingface/speech-to-speech
+   📝 Build local voice agents with open-source models
+   💻 Python | ⭐ Star
+
+#8 virgiliojr94 /book-to-skill
+   🔗 https://github.com/virgiliojr94/book-to-skill
+   📝 Turn any technical book PDF into a Claude Code skill — ready to study, reference...
+   💻 Python | ⭐ Star
+
+#9 opengeos /GeoLibre
+   🔗 https://github.com/opengeos/GeoLibre
+   📝 A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi...
+   💻 TypeScript | ⭐ Star
+
+#10 paperswithbacktest /awesome-systematic-trading
+   🔗 https://github.com/paperswithbacktest/awesome-systematic-trading
+   📝 A curated list of awesome libraries, packages, strategies, books, blogs, tutoria...
+   💻 Python | ⭐ Star
+
+#11 microsoft /agent-governance-toolkit
+   🔗 https://github.com/microsoft/agent-governance-toolkit
+   📝 AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution...
+   💻 Python | ⭐ Star
+
+#12 yorukot /superfile
+   🔗 https://github.com/yorukot/superfile
+   📝 Pretty fancy and modern terminal file manager
+   💻 Go | ⭐ Star
+
+#13 bradautomates /claude-video
+   🔗 https://github.com/bradautomates/claude-video
+   📝 Give Claude the ability to watch any video. /watch downloads, extracts frames, t...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
