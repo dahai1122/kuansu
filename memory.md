@@ -7515,3 +7515,80 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-07-31 02:46:17
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 huggingface /speech-to-speech
+   🔗 https://github.com/huggingface/speech-to-speech
+   📝 Build local voice agents with open-source models
+   💻 Python | ⭐ Star
+
+#2 microsoft /AI-For-Beginners
+   🔗 https://github.com/microsoft/AI-For-Beginners
+   📝 12 Weeks, 24 Lessons, AI for All!
+   💻 Jupyter Notebook | ⭐ Star
+
+#3 paperswithbacktest /awesome-systematic-trading
+   🔗 https://github.com/paperswithbacktest/awesome-systematic-trading
+   📝 A curated list of awesome libraries, packages, strategies, books, blogs, tutoria...
+   💻 Python | ⭐ Star
+
+#4 different-ai /openwork
+   🔗 https://github.com/different-ai/openwork
+   📝 The open-source alternative to Claude Cowork (powered by opencode)
+   💻 TypeScript | ⭐ Star
+
+#5 WhiskeySockets /Baileys
+   🔗 https://github.com/WhiskeySockets/Baileys
+   📝 Socket-based TS/JavaScript API for WhatsApp Web
+   💻 JavaScript | ⭐ Star
+
+#6 pascalorg /editor
+   🔗 https://github.com/pascalorg/editor
+   📝 Create and share 3D architectural projects.
+   💻 TypeScript | ⭐ Star
+
+#7 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#8 dotnet /aspnetcore
+   🔗 https://github.com/dotnet/aspnetcore
+   📝 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based ...
+   💻 C# | ⭐ Star
+
+#9 microsoft /PowerToys
+   🔗 https://github.com/microsoft/PowerToys
+   📝 Microsoft PowerToys is a collection of utilities that supercharge productivity a...
+   💻 C | ⭐ Star
+
+#10 ansible /ansible
+   🔗 https://github.com/ansible/ansible
+   📝 Ansible is a radically simple IT automation platform that makes your application...
+   💻 Python | ⭐ Star
+
+#11 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#12 jenkinsci /jenkins
+   🔗 https://github.com/jenkinsci/jenkins
+   📝 Jenkins automation server
+   💻 Java | ⭐ Star
+
+#13 agavra /tuicr
+   🔗 https://github.com/agavra/tuicr
+   📝 a code review TUI with vim keybindings
+   💻 Rust | ⭐ Star
+
+#14 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
