@@ -7592,3 +7592,70 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-01 02:44:47
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 12 個倉庫:
+
+#1 zhaoxuya520 /reverse-skill
+   🔗 https://github.com/zhaoxuya520/reverse-skill
+   📝 Reverse Engineering / Authorized Penetration Testing / Security Research Skill R...
+   💻 PowerShell | ⭐ Star
+
+#2 different-ai /openwork
+   🔗 https://github.com/different-ai/openwork
+   📝 The open-source alternative to Claude Cowork (powered by opencode)
+   💻 TypeScript | ⭐ Star
+
+#3 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#4 paperswithbacktest /awesome-systematic-trading
+   🔗 https://github.com/paperswithbacktest/awesome-systematic-trading
+   📝 A curated list of awesome libraries, packages, strategies, books, blogs, tutoria...
+   💻 Python | ⭐ Star
+
+#5 microsoft /AI-For-Beginners
+   🔗 https://github.com/microsoft/AI-For-Beginners
+   📝 12 Weeks, 24 Lessons, AI for All!
+   💻 Jupyter Notebook | ⭐ Star
+
+#6 github /copilot-sdk
+   🔗 https://github.com/github/copilot-sdk
+   📝 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   💻 Java | ⭐ Star
+
+#7 chatwoot /chatwoot
+   🔗 https://github.com/chatwoot/chatwoot
+   📝 Open-source live-chat, email support, omni-channel desk. An alternative to Inter...
+   💻 Ruby | ⭐ Star
+
+#8 agavra /tuicr
+   🔗 https://github.com/agavra/tuicr
+   📝 a code review TUI with vim keybindings
+   💻 Rust | ⭐ Star
+
+#9 usekaneo /kaneo
+   🔗 https://github.com/usekaneo/kaneo
+   📝 🎯 All you need. Nothing you don't. Open source project management that works for...
+   💻 TypeScript | ⭐ Star
+
+#10 geo-tp /ESP32-Bit-Pirate
+   🔗 https://github.com/geo-tp/ESP32-Bit-Pirate
+   📝 A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+   💻 C++ | ⭐ Star
+
+#11 deepfakes /faceswap
+   🔗 https://github.com/deepfakes/faceswap
+   📝 Deepfakes Software For All
+   💻 Python | ⭐ Star
+
+#12 1jehuang /jcode
+   🔗 https://github.com/1jehuang/jcode
+   📝 The most RAM efficient harness
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
