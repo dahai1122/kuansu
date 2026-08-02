@@ -7659,3 +7659,85 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-02 02:43:41
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 microsoft /AI-For-Beginners
+   🔗 https://github.com/microsoft/AI-For-Beginners
+   📝 12 Weeks, 24 Lessons, AI for All!
+   💻 Jupyter Notebook | ⭐ Star
+
+#2 paperswithbacktest /awesome-systematic-trading
+   🔗 https://github.com/paperswithbacktest/awesome-systematic-trading
+   📝 A curated list of awesome libraries, packages, strategies, books, blogs, tutoria...
+   💻 Python | ⭐ Star
+
+#3 usekaneo /kaneo
+   🔗 https://github.com/usekaneo/kaneo
+   📝 🎯 All you need. Nothing you don't. Open source project management that works for...
+   💻 TypeScript | ⭐ Star
+
+#4 zhaoxuya520 /reverse-skill
+   🔗 https://github.com/zhaoxuya520/reverse-skill
+   📝 Reverse Engineering / Authorized Penetration Testing / Security Research Skill R...
+   💻 PowerShell | ⭐ Star
+
+#5 microsoft /generative-ai-for-beginners
+   🔗 https://github.com/microsoft/generative-ai-for-beginners
+   📝 21 Lessons, Get Started Building with Generative AI
+   💻 Jupyter Notebook | ⭐ Star
+
+#6 github /copilot-sdk
+   🔗 https://github.com/github/copilot-sdk
+   📝 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+   💻 Java | ⭐ Star
+
+#7 github /gh-stack
+   🔗 https://github.com/github/gh-stack
+   📝 GitHub Stacked PRs
+   💻 Go | ⭐ Star
+
+#8 huggingface /speech-to-speech
+   🔗 https://github.com/huggingface/speech-to-speech
+   📝 Build local voice agents with open-source models
+   💻 Python | ⭐ Star
+
+#9 abus-aikorea /voice-pro
+   🔗 https://github.com/abus-aikorea/voice-pro
+   📝 Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) a...
+   💻 Python | ⭐ Star
+
+#10 iv-org /invidious
+   🔗 https://github.com/iv-org/invidious
+   📝 Invidious is an alternative front-end to YouTube
+   💻 Crystal | ⭐ Star
+
+#11 ansible /ansible
+   🔗 https://github.com/ansible/ansible
+   📝 Ansible is a radically simple IT automation platform that makes your application...
+   💻 Python | ⭐ Star
+
+#12 microsoft /TRELLIS.2
+   🔗 https://github.com/microsoft/TRELLIS.2
+   📝 Native and Compact Structured Latents for 3D Generation
+   💻 Python | ⭐ Star
+
+#13 TencentCloud /TencentDB-Agent-Memory
+   🔗 https://github.com/TencentCloud/TencentDB-Agent-Memory
+   📝 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver...
+   💻 TypeScript | ⭐ Star
+
+#14 NomaDamas /k-skill
+   🔗 https://github.com/NomaDamas/k-skill
+   📝 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
+   💻 JavaScript | ⭐ Star
+
+#15 bytedance /deer-flow
+   🔗 https://github.com/bytedance/deer-flow
+   📝 An open-source long-horizon SuperAgent harness that researches, codes, and creat...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
