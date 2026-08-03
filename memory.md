@@ -7741,3 +7741,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-03 02:44:49
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 microsoft /AI-For-Beginners
+   🔗 https://github.com/microsoft/AI-For-Beginners
+   📝 12 Weeks, 24 Lessons, AI for All!
+   💻 Jupyter Notebook | ⭐ Star
+
+#2 usekaneo /kaneo
+   🔗 https://github.com/usekaneo/kaneo
+   📝 🎯 All you need. Nothing you don't. Open source project management that works for...
+   💻 TypeScript | ⭐ Star
+
+#3 lyogavin /airllm
+   🔗 https://github.com/lyogavin/airllm
+   📝 AirLLM 70B inference with single 4GB GPU
+   💻 Jupyter Notebook | ⭐ Star
+
+#4 iv-org /invidious
+   🔗 https://github.com/iv-org/invidious
+   📝 Invidious is an alternative front-end to YouTube
+   💻 Crystal | ⭐ Star
+
+#5 codecrafters-io /build-your-own-x
+   🔗 https://github.com/codecrafters-io/build-your-own-x
+   📝 Master programming by recreating your favorite technologies from scratch.
+   💻 Markdown | ⭐ Star
+
+#6 zhaoxuya520 /reverse-skill
+   🔗 https://github.com/zhaoxuya520/reverse-skill
+   📝 Reverse Engineering / Authorized Penetration Testing / Security Research Skill R...
+   💻 PowerShell | ⭐ Star
+
+#7 different-ai /openwork
+   🔗 https://github.com/different-ai/openwork
+   📝 The open-source alternative to Claude Cowork (powered by opencode)
+   💻 TypeScript | ⭐ Star
+
+#8 microsoft /generative-ai-for-beginners
+   🔗 https://github.com/microsoft/generative-ai-for-beginners
+   📝 21 Lessons, Get Started Building with Generative AI
+   💻 Jupyter Notebook | ⭐ Star
+
+#9 Panniantong /Agent-Reach
+   🔗 https://github.com/Panniantong/Agent-Reach
+   📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...
+   💻 Python | ⭐ Star
+
+#10 TencentCloud /TencentDB-Agent-Memory
+   🔗 https://github.com/TencentCloud/TencentDB-Agent-Memory
+   📝 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver...
+   💻 TypeScript | ⭐ Star
+
+#11 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#12 NomaDamas /k-skill
+   🔗 https://github.com/NomaDamas/k-skill
+   📝 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
+   💻 JavaScript | ⭐ Star
+
+#13 HarbourMasters /Lighthouse
+   🔗 https://github.com/HarbourMasters/Lighthouse
+   📝 N/A
+   💻 C | ⭐ Star
+
+#14 antirez /ds4
+   🔗 https://github.com/antirez/ds4
+   📝 DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+   💻 C | ⭐ Star
+
+#15 esengine /DeepSeek-Reasonix
+   🔗 https://github.com/esengine/DeepSeek-Reasonix
+   📝 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach...
+   💻 Go | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
