@@ -7823,3 +7823,90 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-04 02:28:26
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 lyogavin /airllm
+   🔗 https://github.com/lyogavin/airllm
+   📝 AirLLM 70B inference with single 4GB GPU
+   💻 Jupyter Notebook | ⭐ Star
+
+#2 zhaoxuya520 /reverse-skill
+   🔗 https://github.com/zhaoxuya520/reverse-skill
+   📝 Reverse Engineering / Authorized Penetration Testing / Security Research Skill R...
+   💻 PowerShell | ⭐ Star
+
+#3 firecrawl /pdf-inspector
+   🔗 https://github.com/firecrawl/pdf-inspector
+   📝 Fast Rust library for PDF inspection, classification, and text extraction. Intel...
+   💻 Rust | ⭐ Star
+
+#4 esengine /DeepSeek-Reasonix
+   🔗 https://github.com/esengine/DeepSeek-Reasonix
+   📝 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach...
+   💻 Go | ⭐ Star
+
+#5 TencentCloud /TencentDB-Agent-Memory
+   🔗 https://github.com/TencentCloud/TencentDB-Agent-Memory
+   📝 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver...
+   💻 TypeScript | ⭐ Star
+
+#6 microsoft /AI-For-Beginners
+   🔗 https://github.com/microsoft/AI-For-Beginners
+   📝 12 Weeks, 24 Lessons, AI for All!
+   💻 Jupyter Notebook | ⭐ Star
+
+#7 microsoft /generative-ai-for-beginners
+   🔗 https://github.com/microsoft/generative-ai-for-beginners
+   📝 21 Lessons, Get Started Building with Generative AI
+   💻 Jupyter Notebook | ⭐ Star
+
+#8 donnemartin /system-design-primer
+   🔗 https://github.com/donnemartin/system-design-primer
+   📝 Learn how to design large-scale systems. Prep for the system design interview. I...
+   💻 Python | ⭐ Star
+
+#9 antirez /ds4
+   🔗 https://github.com/antirez/ds4
+   📝 DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+   💻 C | ⭐ Star
+
+#10 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#11 Panniantong /Agent-Reach
+   🔗 https://github.com/Panniantong/Agent-Reach
+   📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...
+   💻 Python | ⭐ Star
+
+#12 Alishahryar1 /free-claude-code
+   🔗 https://github.com/Alishahryar1/free-claude-code
+   📝 Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone li...
+   💻 Python | ⭐ Star
+
+#13 iv-org /invidious
+   🔗 https://github.com/iv-org/invidious
+   📝 Invidious is an alternative front-end to YouTube
+   💻 Crystal | ⭐ Star
+
+#14 livekit /agents
+   🔗 https://github.com/livekit/agents
+   📝 A framework for building realtime voice AI agents 🤖🎙️📹
+   💻 Python | ⭐ Star
+
+#15 usekaneo /kaneo
+   🔗 https://github.com/usekaneo/kaneo
+   📝 🎯 All you need. Nothing you don't. Open source project management that works for...
+   💻 TypeScript | ⭐ Star
+
+#16 jamiepine /voicebox
+   🔗 https://github.com/jamiepine/voicebox
+   📝 The open-source AI voice studio. Clone, dictate, create.
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
