@@ -7910,3 +7910,100 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-05 02:27:51
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 18 個倉庫:
+
+#1 TencentCloud /TencentDB-Agent-Memory
+   🔗 https://github.com/TencentCloud/TencentDB-Agent-Memory
+   📝 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver...
+   💻 TypeScript | ⭐ Star
+
+#2 zhaoxuya520 /reverse-skill
+   🔗 https://github.com/zhaoxuya520/reverse-skill
+   📝 Reverse Engineering / Authorized Penetration Testing / Security Research Skill R...
+   💻 PowerShell | ⭐ Star
+
+#3 firecrawl /pdf-inspector
+   🔗 https://github.com/firecrawl/pdf-inspector
+   📝 Fast Rust library for PDF inspection, classification, and text extraction. Intel...
+   💻 Rust | ⭐ Star
+
+#4 uber /ADR
+   🔗 https://github.com/uber/ADR
+   📝 ADR secures enterprise AI agents through observability, security benchmarking, a...
+   💻 Python | ⭐ Star
+
+#5 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#6 microsoft /generative-ai-for-beginners
+   🔗 https://github.com/microsoft/generative-ai-for-beginners
+   📝 21 Lessons, Get Started Building with Generative AI
+   💻 Jupyter Notebook | ⭐ Star
+
+#7 cypress-io /cypress
+   🔗 https://github.com/cypress-io/cypress
+   📝 Fast, easy and reliable testing for anything that runs in a browser.
+   💻 TypeScript | ⭐ Star
+
+#8 lyogavin /airllm
+   🔗 https://github.com/lyogavin/airllm
+   📝 AirLLM 70B inference with single 4GB GPU
+   💻 Jupyter Notebook | ⭐ Star
+
+#9 webpack /webpack
+   🔗 https://github.com/webpack/webpack
+   📝 A bundler for javascript and friends. Packs many modules into a few bundled asse...
+   💻 JavaScript | ⭐ Star
+
+#10 gabime /spdlog
+   🔗 https://github.com/gabime/spdlog
+   📝 Fast C++ logging library.
+   💻 C++ | ⭐ Star
+
+#11 denoland /deno
+   🔗 https://github.com/denoland/deno
+   📝 A modern runtime for JavaScript and TypeScript.
+   💻 Rust | ⭐ Star
+
+#12 usekaneo /kaneo
+   🔗 https://github.com/usekaneo/kaneo
+   📝 🎯 All you need. Nothing you don't. Open source project management that works for...
+   💻 TypeScript | ⭐ Star
+
+#13 livekit /agents
+   🔗 https://github.com/livekit/agents
+   📝 A framework for building realtime voice AI agents 🤖🎙️📹
+   💻 Python | ⭐ Star
+
+#14 angular /angular
+   🔗 https://github.com/angular/angular
+   📝 Deliver web apps with confidence 🚀
+   💻 TypeScript | ⭐ Star
+
+#15 tailwindlabs /tailwindcss
+   🔗 https://github.com/tailwindlabs/tailwindcss
+   📝 A utility-first CSS framework for rapid UI development.
+   💻 TypeScript | ⭐ Star
+
+#16 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+#17 esengine /DeepSeek-Reasonix
+   🔗 https://github.com/esengine/DeepSeek-Reasonix
+   📝 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach...
+   💻 Go | ⭐ Star
+
+#18 EveryInc /compound-engineering-plugin
+   🔗 https://github.com/EveryInc/compound-engineering-plugin
+   📝 Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
