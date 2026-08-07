@@ -8079,3 +8079,75 @@
    💻 Jupyter Notebook | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-07 02:37:43
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 TencentCloud /TencentDB-Agent-Memory
+   🔗 https://github.com/TencentCloud/TencentDB-Agent-Memory
+   📝 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver...
+   💻 TypeScript | ⭐ Star
+
+#2 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#3 cloudflare /computer
+   🔗 https://github.com/cloudflare/computer
+   📝 Give your agent a computer 👾
+   💻 TypeScript | ⭐ Star
+
+#4 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#5 goauthentik /authentik
+   🔗 https://github.com/goauthentik/authentik
+   📝 The authentication glue you need.
+   💻 Python | ⭐ Star
+
+#6 huangruiteng /loopx
+   🔗 https://github.com/huangruiteng/loopx
+   📝 Lightweight loop engineering state kernel for long-running AI agent teams. Agent...
+   💻 Python | ⭐ Star
+
+#7 google /guava
+   🔗 https://github.com/google/guava
+   📝 Google core libraries for Java
+   💻 Java | ⭐ Star
+
+#8 TapXWorld /ChinaTextbook
+   🔗 https://github.com/TapXWorld/ChinaTextbook
+   📝 所有小初高、大学PDF教材。
+   💻 Roff | ⭐ Star
+
+#9 Significant-Gravitas /AutoGPT
+   🔗 https://github.com/Significant-Gravitas/AutoGPT
+   📝 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our...
+   💻 Python | ⭐ Star
+
+#10 tirth8205 /code-review-graph
+   🔗 https://github.com/tirth8205/code-review-graph
+   📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...
+   💻 Python | ⭐ Star
+
+#11 esengine /DeepSeek-Reasonix
+   🔗 https://github.com/esengine/DeepSeek-Reasonix
+   📝 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach...
+   💻 Go | ⭐ Star
+
+#12 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#13 firecrawl /pdf-inspector
+   🔗 https://github.com/firecrawl/pdf-inspector
+   📝 Fast Rust library for PDF inspection, classification, and text extraction. Intel...
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
