@@ -8151,3 +8151,95 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-08 01:36:16
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 PrimeIntellect-ai /prime-agent
+   🔗 https://github.com/PrimeIntellect-ai/prime-agent
+   📝 A self-improving RLM agent for coding workflows and long-running autonomous task...
+   💻 TypeScript | ⭐ Star
+
+#2 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#3 cloudflare /computer
+   🔗 https://github.com/cloudflare/computer
+   📝 Give your agent a computer 👾
+   💻 TypeScript | ⭐ Star
+
+#4 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#5 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#6 goauthentik /authentik
+   🔗 https://github.com/goauthentik/authentik
+   📝 The authentication glue you need.
+   💻 Python | ⭐ Star
+
+#7 semantica-agi /semantica
+   🔗 https://github.com/semantica-agi/semantica
+   📝 Graph-Native Infrastructure for Context and Accountable AI Systems
+   💻 Python | ⭐ Star
+
+#8 666ghj /MiroFish
+   🔗 https://github.com/666ghj/MiroFish
+   📝 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能...
+   💻 Python | ⭐ Star
+
+#9 chenyme /grok2api
+   🔗 https://github.com/chenyme/grok2api
+   📝 Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+   💻 Go | ⭐ Star
+
+#10 jdx /mise
+   🔗 https://github.com/jdx/mise
+   📝 dev tools, env vars, task runner
+   💻 Rust | ⭐ Star
+
+#11 Significant-Gravitas /AutoGPT
+   🔗 https://github.com/Significant-Gravitas/AutoGPT
+   📝 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our...
+   💻 Python | ⭐ Star
+
+#12 google /guava
+   🔗 https://github.com/google/guava
+   📝 Google core libraries for Java
+   💻 Java | ⭐ Star
+
+#13 unclebob /swarm-forge
+   🔗 https://github.com/unclebob/swarm-forge
+   📝 A simple tool for coordinating several AI agents.
+   💻 Clojure | ⭐ Star
+
+#14 denoland /celld
+   🔗 https://github.com/denoland/celld
+   📝 self-hosted, distributed Durable Objects
+   💻 Rust | ⭐ Star
+
+#15 K2SOsint /Legendary_OSINT
+   🔗 https://github.com/K2SOsint/Legendary_OSINT
+   📝 A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, ...
+   💻 N/A | ⭐ Star
+
+#16 pranshuparmar /witr
+   🔗 https://github.com/pranshuparmar/witr
+   📝 Why is this running? Trace any process, port, container, or file back to what st...
+   💻 Go | ⭐ Star
+
+#17 google /skills
+   🔗 https://github.com/google/skills
+   📝 Agent Skills for Google products and technologies
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
