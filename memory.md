@@ -8243,3 +8243,70 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-09 01:41:14
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 12 個倉庫:
+
+#1 PrimeIntellect-ai /prime-agent
+   🔗 https://github.com/PrimeIntellect-ai/prime-agent
+   📝 A self-improving RLM agent for coding workflows and long-running autonomous task...
+   💻 TypeScript | ⭐ Star
+
+#2 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#3 TapXWorld /ChinaTextbook
+   🔗 https://github.com/TapXWorld/ChinaTextbook
+   📝 所有小初高、大学PDF教材。
+   💻 Roff | ⭐ Star
+
+#4 google /skills
+   🔗 https://github.com/google/skills
+   📝 Agent Skills for Google products and technologies
+   💻 Python | ⭐ Star
+
+#5 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#6 goauthentik /authentik
+   🔗 https://github.com/goauthentik/authentik
+   📝 The authentication glue you need.
+   💻 Python | ⭐ Star
+
+#7 TauricResearch /TradingAgents
+   🔗 https://github.com/TauricResearch/TradingAgents
+   📝 TradingAgents: Multi-Agents LLM Financial Trading Framework
+   💻 Python | ⭐ Star
+
+#8 google /guava
+   🔗 https://github.com/google/guava
+   📝 Google core libraries for Java
+   💻 Java | ⭐ Star
+
+#9 LadybirdBrowser /ladybird
+   🔗 https://github.com/LadybirdBrowser/ladybird
+   📝 Truly independent web browser
+   💻 C++ | ⭐ Star
+
+#10 denoland /celld
+   🔗 https://github.com/denoland/celld
+   📝 self-hosted, distributed Durable Objects
+   💻 Rust | ⭐ Star
+
+#11 litu54 /DevOps-Interview-Guide
+   🔗 https://github.com/litu54/DevOps-Interview-Guide
+   📝 DevOps Interview Guide
+   💻 N/A | ⭐ Star
+
+#12 bannedbook /fanqiang
+   🔗 https://github.com/bannedbook/fanqiang
+   📝 翻墙-科学上网
+   💻 Kotlin | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
