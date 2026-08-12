@@ -8464,3 +8464,95 @@
    💻 C | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-12 01:52:56
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#2 semantica-agi /semantica
+   🔗 https://github.com/semantica-agi/semantica
+   📝 Graph-Native Infrastructure for Context and Accountable AI Systems
+   💻 Python | ⭐ Star
+
+#3 nvm-sh /nvm
+   🔗 https://github.com/nvm-sh/nvm
+   📝 Node Version Manager - POSIX-compliant bash script to manage multiple active nod...
+   💻 Shell | ⭐ Star
+
+#4 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#5 ZhuLinsen /daily_stock_analysis
+   🔗 https://github.com/ZhuLinsen/daily_stock_analysis
+   📝 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock...
+   💻 Python | ⭐ Star
+
+#6 vitali87 /code-graph-rag
+   🔗 https://github.com/vitali87/code-graph-rag
+   📝 The ultimate RAG for your monorepo. Query, understand, and edit multi-language c...
+   💻 Python | ⭐ Star
+
+#7 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#8 3b1b /manim
+   🔗 https://github.com/3b1b/manim
+   📝 Animation engine for explanatory math videos
+   💻 Python | ⭐ Star
+
+#9 HKUDS /DeepTutor
+   🔗 https://github.com/HKUDS/DeepTutor
+   📝 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+   💻 Python | ⭐ Star
+
+#10 stablyai /orca
+   🔗 https://github.com/stablyai/orca
+   📝 Orca is the ADE for working with a fleet of parallel agents. Run any coding agen...
+   💻 TypeScript | ⭐ Star
+
+#11 paperclipai /paperclip
+   🔗 https://github.com/paperclipai/paperclip
+   📝 The open-source app everyone uses to manage agents at work
+   💻 TypeScript | ⭐ Star
+
+#12 huggingface /transformers
+   🔗 https://github.com/huggingface/transformers
+   📝 🤗 Transformers: the model-definition framework for state-of-the-art machine lear...
+   💻 Python | ⭐ Star
+
+#13 harveyai /harvey-labs
+   🔗 https://github.com/harveyai/harvey-labs
+   📝 A benchmark built to evaluate and improve agent capabilities for supporting lega...
+   💻 Python | ⭐ Star
+
+#14 jaywcjlove /awesome-mac
+   🔗 https://github.com/jaywcjlove/awesome-mac
+   📝  This project is dedicated to collecting high-quality macOS software and organi...
+   💻 Swift | ⭐ Star
+
+#15 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 production pipeli...
+   💻 Python | ⭐ Star
+
+#16 practical-tutorials /project-based-learning
+   🔗 https://github.com/practical-tutorials/project-based-learning
+   📝 Curated list of project-based tutorials
+   💻 Python | ⭐ Star
+
+#17 PrimeIntellect-ai /prime-agent
+   🔗 https://github.com/PrimeIntellect-ai/prime-agent
+   📝 A self-improving RLM agent for coding workflows and long-running autonomous task...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
