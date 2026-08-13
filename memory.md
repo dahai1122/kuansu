@@ -8556,3 +8556,95 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-13 01:54:45
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow...
+   💻 HTML | ⭐ Star
+
+#2 macro-inc /macro
+   🔗 https://github.com/macro-inc/macro
+   📝 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,...
+   💻 Rust | ⭐ Star
+
+#3 semantica-agi /semantica
+   🔗 https://github.com/semantica-agi/semantica
+   📝 Graph-Native Infrastructure for Context and Accountable AI Systems
+   💻 Python | ⭐ Star
+
+#4 stablyai /orca
+   🔗 https://github.com/stablyai/orca
+   📝 Orca is the ADE for working with a fleet of parallel agents. Run any coding agen...
+   💻 TypeScript | ⭐ Star
+
+#5 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#6 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#7 NanmiCoder /MediaCrawler
+   🔗 https://github.com/NanmiCoder/MediaCrawler
+   📝 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬...
+   💻 Python | ⭐ Star
+
+#8 hugohe3 /ppt-master
+   🔗 https://github.com/hugohe3/ppt-master
+   📝 AI turns documents or topics into real, native PowerPoint decks—with native shap...
+   💻 Python | ⭐ Star
+
+#9 infiniflow /ragflow
+   🔗 https://github.com/infiniflow/ragflow
+   📝 RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha...
+   💻 Go | ⭐ Star
+
+#10 paperclipai /paperclip
+   🔗 https://github.com/paperclipai/paperclip
+   📝 The open-source app everyone uses to manage agents at work
+   💻 TypeScript | ⭐ Star
+
+#11 NVIDIA-NeMo /Switchyard
+   🔗 https://github.com/NVIDIA-NeMo/Switchyard
+   📝 N/A
+   💻 Rust | ⭐ Star
+
+#12 ZuodaoTech /everyone-can-use-english
+   🔗 https://github.com/ZuodaoTech/everyone-can-use-english
+   📝 人人都能用英语
+   💻 TypeScript | ⭐ Star
+
+#13 smicallef /spiderfoot
+   🔗 https://github.com/smicallef/spiderfoot
+   📝 SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa...
+   💻 Python | ⭐ Star
+
+#14 localsend /localsend
+   🔗 https://github.com/localsend/localsend
+   📝 An open-source cross-platform alternative to AirDrop
+   💻 Dart | ⭐ Star
+
+#15 Lightricks /LTX-2
+   🔗 https://github.com/Lightricks/LTX-2
+   📝 Official Python inference and LoRA trainer package for the LTX-2 audio–video gen...
+   💻 Python | ⭐ Star
+
+#16 embabel /embabel-agent
+   🔗 https://github.com/embabel/embabel-agent
+   📝 Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+   💻 Kotlin | ⭐ Star
+
+#17 cactus-compute /needle
+   🔗 https://github.com/cactus-compute/needle
+   📝 14MB foundation model for tiny devices; phones, wearables, smart home, and robot...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
