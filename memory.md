@@ -8648,3 +8648,95 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-14 01:52:34
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow...
+   💻 HTML | ⭐ Star
+
+#2 semantica-agi /semantica
+   🔗 https://github.com/semantica-agi/semantica
+   📝 Graph-Native Infrastructure for Context and Accountable AI Systems
+   💻 Python | ⭐ Star
+
+#3 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#4 cactus-compute /needle
+   🔗 https://github.com/cactus-compute/needle
+   📝 14MB foundation model for tiny devices; phones, wearables, smart home, and robot...
+   💻 Python | ⭐ Star
+
+#5 altic-dev /FluidVoice
+   🔗 https://github.com/altic-dev/FluidVoice
+   📝 Fastest and only macOS Dictation app with on-device STT and custom trained AI en...
+   💻 Swift | ⭐ Star
+
+#6 unslothai /unsloth
+   🔗 https://github.com/unslothai/unsloth
+   📝 Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,...
+   💻 Python | ⭐ Star
+
+#7 macro-inc /macro
+   🔗 https://github.com/macro-inc/macro
+   📝 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,...
+   💻 Rust | ⭐ Star
+
+#8 megadose /holehe
+   🔗 https://github.com/megadose/holehe
+   📝 holehe allows you to check if the mail is used on different sites like twitter, ...
+   💻 Python | ⭐ Star
+
+#9 smicallef /spiderfoot
+   🔗 https://github.com/smicallef/spiderfoot
+   📝 SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa...
+   💻 Python | ⭐ Star
+
+#10 NVIDIA-NeMo /Switchyard
+   🔗 https://github.com/NVIDIA-NeMo/Switchyard
+   📝 Switchyard lets LLM applications route traffic across models and providers while...
+   💻 Rust | ⭐ Star
+
+#11 holaboss-ai /holaOS
+   🔗 https://github.com/holaboss-ai/holaOS
+   📝 Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — ...
+   💻 TypeScript | ⭐ Star
+
+#12 kepano /obsidian-skills
+   🔗 https://github.com/kepano/obsidian-skills
+   📝 Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats...
+   💻 N/A | ⭐ Star
+
+#13 3b1b /manim
+   🔗 https://github.com/3b1b/manim
+   📝 Animation engine for explanatory math videos
+   💻 Python | ⭐ Star
+
+#14 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#15 Lightricks /LTX-2
+   🔗 https://github.com/Lightricks/LTX-2
+   📝 Official Python inference and LoRA trainer package for the LTX-2 audio–video gen...
+   💻 Python | ⭐ Star
+
+#16 lightningpixel /modly
+   🔗 https://github.com/lightningpixel/modly
+   📝 Desktop app to generate 3D models from images using local AI — runs entirely on ...
+   💻 TypeScript | ⭐ Star
+
+#17 infiniflow /ragflow
+   🔗 https://github.com/infiniflow/ragflow
+   📝 RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha...
+   💻 Go | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
