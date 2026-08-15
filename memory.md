@@ -8740,3 +8740,95 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-15 01:10:57
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow...
+   💻 HTML | ⭐ Star
+
+#2 cactus-compute /needle
+   🔗 https://github.com/cactus-compute/needle
+   📝 14MB foundation model for tiny devices; phones, wearables, smart home, and robot...
+   💻 Python | ⭐ Star
+
+#3 megadose /holehe
+   🔗 https://github.com/megadose/holehe
+   📝 holehe allows you to check if the mail is used on different sites like twitter, ...
+   💻 Python | ⭐ Star
+
+#4 macro-inc /macro
+   🔗 https://github.com/macro-inc/macro
+   📝 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,...
+   💻 Rust | ⭐ Star
+
+#5 smicallef /spiderfoot
+   🔗 https://github.com/smicallef/spiderfoot
+   📝 SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa...
+   💻 Python | ⭐ Star
+
+#6 citrolabs /ego-lite
+   🔗 https://github.com/citrolabs/ego-lite
+   📝 The fastest browser for AI agents to run browser automation, built for sharing y...
+   💻 JavaScript | ⭐ Star
+
+#7 holaboss-ai /holaOS
+   🔗 https://github.com/holaboss-ai/holaOS
+   📝 Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — ...
+   💻 TypeScript | ⭐ Star
+
+#8 github /spec-kit
+   🔗 https://github.com/github/spec-kit
+   📝 💫 Toolkit to help you get started with Spec-Driven Development
+   💻 Python | ⭐ Star
+
+#9 lightningpixel /modly
+   🔗 https://github.com/lightningpixel/modly
+   📝 Desktop app to generate 3D models from images or prompt using local AI — runs en...
+   💻 TypeScript | ⭐ Star
+
+#10 infiniflow /ragflow
+   🔗 https://github.com/infiniflow/ragflow
+   📝 RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha...
+   💻 Go | ⭐ Star
+
+#11 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#12 deepseek-ai /awesome-deepseek-agent
+   🔗 https://github.com/deepseek-ai/awesome-deepseek-agent
+   📝 N/A
+   💻 N/A | ⭐ Star
+
+#13 semantica-agi /semantica
+   🔗 https://github.com/semantica-agi/semantica
+   📝 Graph-Native Infrastructure for Context and Accountable AI Systems
+   💻 Python | ⭐ Star
+
+#14 rustdesk /rustdesk
+   🔗 https://github.com/rustdesk/rustdesk
+   📝 An open-source remote desktop application designed for self-hosting, as an alter...
+   💻 Rust | ⭐ Star
+
+#15 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+#16 unslothai /unsloth
+   🔗 https://github.com/unslothai/unsloth
+   📝 Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,...
+   💻 Python | ⭐ Star
+
+#17 ToolJet /ToolJet
+   🔗 https://github.com/ToolJet/ToolJet
+   📝 ToolJet is the open-source foundation of ToolJet AI - the enterprise app generat...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
