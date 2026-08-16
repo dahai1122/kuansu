@@ -8832,3 +8832,75 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-16 01:14:45
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 cordiverse /cordis
+   🔗 https://github.com/cordiverse/cordis
+   📝 Meta-Framework of Spatiotemporal Composability
+   💻 TypeScript | ⭐ Star
+
+#2 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow...
+   💻 HTML | ⭐ Star
+
+#3 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#4 cactus-compute /needle
+   🔗 https://github.com/cactus-compute/needle
+   📝 14MB foundation model for tiny devices; phones, wearables, smart home, and robot...
+   💻 Python | ⭐ Star
+
+#5 unslothai /unsloth
+   🔗 https://github.com/unslothai/unsloth
+   📝 Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,...
+   💻 Python | ⭐ Star
+
+#6 public-apis /public-apis
+   🔗 https://github.com/public-apis/public-apis
+   📝 A collective list of free APIs
+   💻 Python | ⭐ Star
+
+#7 MakazhanAlpamys /Soup
+   🔗 https://github.com/MakazhanAlpamys/Soup
+   📝 Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto...
+   💻 Python | ⭐ Star
+
+#8 github /spec-kit
+   🔗 https://github.com/github/spec-kit
+   📝 💫 Toolkit to help you get started with Spec-Driven Development
+   💻 Python | ⭐ Star
+
+#9 megadose /holehe
+   🔗 https://github.com/megadose/holehe
+   📝 holehe allows you to check if the mail is used on different sites like twitter, ...
+   💻 Python | ⭐ Star
+
+#10 altic-dev /FluidVoice
+   🔗 https://github.com/altic-dev/FluidVoice
+   📝 Fastest and only macOS Dictation app with on-device STT and custom trained AI en...
+   💻 Swift | ⭐ Star
+
+#11 ToolJet /ToolJet
+   🔗 https://github.com/ToolJet/ToolJet
+   📝 ToolJet is the open-source foundation of ToolJet AI - the enterprise app generat...
+   💻 JavaScript | ⭐ Star
+
+#12 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#13 citrolabs /ego-lite
+   🔗 https://github.com/citrolabs/ego-lite
+   📝 The fastest browser for AI agents to run browser automation, built for sharing y...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
