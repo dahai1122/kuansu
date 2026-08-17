@@ -8904,3 +8904,45 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-17 01:12:29
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 7 個倉庫:
+
+#1 cordiverse /cordis
+   🔗 https://github.com/cordiverse/cordis
+   📝 Meta-Framework of Spatiotemporal Composability
+   💻 TypeScript | ⭐ Star
+
+#2 basecamp /omarchy
+   🔗 https://github.com/basecamp/omarchy
+   📝 Beautiful, Modern & Opinionated Linux
+   💻 Shell | ⭐ Star
+
+#3 unslothai /unsloth
+   🔗 https://github.com/unslothai/unsloth
+   📝 Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,...
+   💻 Python | ⭐ Star
+
+#4 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+#5 public-apis /public-apis
+   🔗 https://github.com/public-apis/public-apis
+   📝 A collective list of free APIs
+   💻 Python | ⭐ Star
+
+#6 ToolJet /ToolJet
+   🔗 https://github.com/ToolJet/ToolJet
+   📝 ToolJet is the open-source foundation of ToolJet AI - the enterprise app generat...
+   💻 JavaScript | ⭐ Star
+
+#7 cactus-compute /needle
+   🔗 https://github.com/cactus-compute/needle
+   📝 14MB foundation model for tiny devices; phones, wearables, smart home, and robot...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
