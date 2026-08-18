@@ -8946,3 +8946,65 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-18 01:10:04
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 11 個倉庫:
+
+#1 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw...
+   💻 Python | ⭐ Star
+
+#2 usestrix /strix
+   🔗 https://github.com/usestrix/strix
+   📝 Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti...
+   💻 Python | ⭐ Star
+
+#3 nautechsystems /nautilus_trader
+   🔗 https://github.com/nautechsystems/nautilus_trader
+   📝 Production-grade Rust-native trading engine with deterministic event-driven arch...
+   💻 Rust | ⭐ Star
+
+#4 akitaonrails /ai-memory
+   🔗 https://github.com/akitaonrails/ai-memory
+   📝 Solution for long term memory for agent coding CLIs and to facilitate handoff be...
+   💻 Rust | ⭐ Star
+
+#5 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+#6 AlexsJones /llmfit
+   🔗 https://github.com/AlexsJones/llmfit
+   📝 Hundreds of models & providers. One command to find what runs on your hardware.
+   💻 Rust | ⭐ Star
+
+#7 santifer /career-ops
+   🔗 https://github.com/santifer/career-ops
+   📝 Open-source AI job search: scan job portals, evaluate listings with a structured...
+   💻 JavaScript | ⭐ Star
+
+#8 jundot /omlx
+   🔗 https://github.com/jundot/omlx
+   📝 LLM inference server with continuous batching & SSD caching for Apple Silicon — ...
+   💻 Python | ⭐ Star
+
+#9 immich-app /immich
+   🔗 https://github.com/immich-app/immich
+   📝 High performance self-hosted photo and video management solution.
+   💻 TypeScript | ⭐ Star
+
+#10 cordiverse /cordis
+   🔗 https://github.com/cordiverse/cordis
+   📝 Meta-Framework of Spatiotemporal Composability
+   💻 TypeScript | ⭐ Star
+
+#11 agalwood /Motrix
+   🔗 https://github.com/agalwood/Motrix
+   📝 A full-featured download manager.
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
