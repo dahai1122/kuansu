@@ -9008,3 +9008,75 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-19 01:11:33
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw...
+   💻 Python | ⭐ Star
+
+#2 chaitanyagiri /munder-difflin
+   🔗 https://github.com/chaitanyagiri/munder-difflin
+   📝 local multi-agent harness
+   💻 TypeScript | ⭐ Star
+
+#3 akitaonrails /ai-memory
+   🔗 https://github.com/akitaonrails/ai-memory
+   📝 Solution for long term memory for agent coding CLIs and to facilitate handoff be...
+   💻 Rust | ⭐ Star
+
+#4 volcengine /OpenViking
+   🔗 https://github.com/volcengine/OpenViking
+   📝 Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG ...
+   💻 Python | ⭐ Star
+
+#5 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+#6 public-apis /public-apis
+   🔗 https://github.com/public-apis/public-apis
+   📝 A collective list of free APIs
+   💻 Python | ⭐ Star
+
+#7 basecamp /omarchy
+   🔗 https://github.com/basecamp/omarchy
+   📝 Beautiful, Modern & Opinionated Linux
+   💻 Shell | ⭐ Star
+
+#8 agalwood /Motrix
+   🔗 https://github.com/agalwood/Motrix
+   📝 A full-featured download manager.
+   💻 TypeScript | ⭐ Star
+
+#9 NawfalMotii79 /PLFM_RADAR
+   🔗 https://github.com/NawfalMotii79/PLFM_RADAR
+   📝 Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+   💻 PLSQL | ⭐ Star
+
+#10 jundot /omlx
+   🔗 https://github.com/jundot/omlx
+   📝 LLM inference server with continuous batching & SSD caching for Apple Silicon — ...
+   💻 Python | ⭐ Star
+
+#11 bojieli /ai-agent-book
+   🔗 https://github.com/bojieli/ai-agent-book
+   📝 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+   💻 Python | ⭐ Star
+
+#12 genlayerlabs /genlayer-project-boilerplate
+   🔗 https://github.com/genlayerlabs/genlayer-project-boilerplate
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#13 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
