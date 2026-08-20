@@ -9080,3 +9080,75 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-20 01:10:25
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw...
+   💻 Python | ⭐ Star
+
+#2 volcengine /OpenViking
+   🔗 https://github.com/volcengine/OpenViking
+   📝 Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG ...
+   💻 Python | ⭐ Star
+
+#3 chaitanyagiri /munder-difflin
+   🔗 https://github.com/chaitanyagiri/munder-difflin
+   📝 local multi-agent harness
+   💻 TypeScript | ⭐ Star
+
+#4 mukul975 /Anthropic-Cybersecurity-Skills
+   🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+   📝 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR...
+   💻 Python | ⭐ Star
+
+#5 nautechsystems /nautilus_trader
+   🔗 https://github.com/nautechsystems/nautilus_trader
+   📝 Production-grade Rust-native trading engine with deterministic event-driven arch...
+   💻 Rust | ⭐ Star
+
+#6 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#7 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#8 jundot /omlx
+   🔗 https://github.com/jundot/omlx
+   📝 LLM inference server with continuous batching & SSD caching for Apple Silicon — ...
+   💻 Python | ⭐ Star
+
+#9 santifer /career-ops
+   🔗 https://github.com/santifer/career-ops
+   📝 Open-source AI job search: scan job portals, evaluate listings with a structured...
+   💻 JavaScript | ⭐ Star
+
+#10 immich-app /immich
+   🔗 https://github.com/immich-app/immich
+   📝 High performance self-hosted photo and video management solution.
+   💻 TypeScript | ⭐ Star
+
+#11 amadeusprotocol /node
+   🔗 https://github.com/amadeusprotocol/node
+   📝 N/A
+   💻 Rust | ⭐ Star
+
+#12 marceloprates /prettymaps
+   🔗 https://github.com/marceloprates/prettymaps
+   📝 Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
+   💻 Python | ⭐ Star
+
+#13 genlayerlabs /genlayer-project-boilerplate
+   🔗 https://github.com/genlayerlabs/genlayer-project-boilerplate
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
