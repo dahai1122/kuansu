@@ -9152,3 +9152,95 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-21 01:14:25
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 modular /modular
+   🔗 https://github.com/modular/modular
+   📝 The Modular Platform (includes MAX & Mojo)
+   💻 Mojo | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#3 AprilNEA /OpenLogi
+   🔗 https://github.com/AprilNEA/OpenLogi
+   📝 ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re...
+   💻 Rust | ⭐ Star
+
+#4 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#5 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#6 santifer /career-ops
+   🔗 https://github.com/santifer/career-ops
+   📝 Open-source AI job search: scan job portals, evaluate listings with a structured...
+   💻 JavaScript | ⭐ Star
+
+#7 akitaonrails /ai-memory
+   🔗 https://github.com/akitaonrails/ai-memory
+   📝 Solution for long term memory for agent coding CLIs and to facilitate handoff be...
+   💻 Rust | ⭐ Star
+
+#8 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw...
+   💻 Python | ⭐ Star
+
+#9 agent-substrate /substrate
+   🔗 https://github.com/agent-substrate/substrate
+   📝 Agent Substrate: the core system
+   💻 Go | ⭐ Star
+
+#10 chaitanyagiri /munder-difflin
+   🔗 https://github.com/chaitanyagiri/munder-difflin
+   📝 local multi-agent harness
+   💻 TypeScript | ⭐ Star
+
+#11 PostHog /posthog
+   🔗 https://github.com/PostHog/posthog
+   📝 🦔 PostHog is the leading platform for building self-driving products. Our develo...
+   💻 Python | ⭐ Star
+
+#12 mahlernim /google-timeline-visualizer
+   🔗 https://github.com/mahlernim/google-timeline-visualizer
+   📝 Visualize your year in travel using your Google Location History (Timeline) data
+   💻 Kotlin | ⭐ Star
+
+#13 volcengine /OpenViking
+   🔗 https://github.com/volcengine/OpenViking
+   📝 Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG ...
+   💻 Python | ⭐ Star
+
+#14 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...
+   💻 Go | ⭐ Star
+
+#15 makeplane /plane
+   🔗 https://github.com/makeplane/plane
+   📝 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern...
+   💻 TypeScript | ⭐ Star
+
+#16 Tencent /AI-Infra-Guard
+   🔗 https://github.com/Tencent/AI-Infra-Guard
+   📝 A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil...
+   💻 Python | ⭐ Star
+
+#17 RyanCodrai /turbovec
+   🔗 https://github.com/RyanCodrai/turbovec
+   📝 A vector index built on TurboQuant, written in Rust with Python bindings
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
