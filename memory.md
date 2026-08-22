@@ -9244,3 +9244,95 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-22 01:10:31
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#2 mahlernim /google-timeline-visualizer
+   🔗 https://github.com/mahlernim/google-timeline-visualizer
+   📝 Visualize your year in travel using your Google Location History (Timeline) data
+   💻 Kotlin | ⭐ Star
+
+#3 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw...
+   💻 Python | ⭐ Star
+
+#4 AprilNEA /OpenLogi
+   🔗 https://github.com/AprilNEA/OpenLogi
+   📝 ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re...
+   💻 Rust | ⭐ Star
+
+#5 PostHog /posthog
+   🔗 https://github.com/PostHog/posthog
+   📝 🦔 PostHog is the leading platform for building self-driving products. Our develo...
+   💻 Python | ⭐ Star
+
+#6 microsoft /TypeScript
+   🔗 https://github.com/microsoft/TypeScript
+   📝 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+   💻 Go | ⭐ Star
+
+#7 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#8 santifer /career-ops
+   🔗 https://github.com/santifer/career-ops
+   📝 Open-source AI job search: scan job portals, evaluate listings with a structured...
+   💻 JavaScript | ⭐ Star
+
+#9 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#10 modular /modular
+   🔗 https://github.com/modular/modular
+   📝 The Modular Platform (includes MAX & Mojo)
+   💻 Mojo | ⭐ Star
+
+#11 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#12 TryGhost /Ghost
+   🔗 https://github.com/TryGhost/Ghost
+   📝 Independent technology for modern publishing, memberships, subscriptions and new...
+   💻 JavaScript | ⭐ Star
+
+#13 ruvnet /ruflo
+   🔗 https://github.com/ruvnet/ruflo
+   📝 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coord...
+   💻 TypeScript | ⭐ Star
+
+#14 apache /maka
+   🔗 https://github.com/apache/maka
+   📝 Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to...
+   💻 TypeScript | ⭐ Star
+
+#15 protocolbuffers /protobuf
+   🔗 https://github.com/protocolbuffers/protobuf
+   📝 Protocol Buffers - Google's data interchange format
+   💻 C++ | ⭐ Star
+
+#16 elder-plinius /OBLITERATUS
+   🔗 https://github.com/elder-plinius/OBLITERATUS
+   📝 OBLITERATE THE CHAINS THAT BIND YOU
+   💻 Python | ⭐ Star
+
+#17 microsoft /onnxruntime
+   🔗 https://github.com/microsoft/onnxruntime
+   📝 ONNX Runtime: cross-platform, high performance ML inferencing and training accel...
+   💻 C++ | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
