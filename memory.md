@@ -9336,3 +9336,95 @@
    💻 C++ | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-23 01:16:19
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 openai /codex
+   🔗 https://github.com/openai/codex
+   📝 Lightweight coding agent that runs in your terminal
+   💻 Rust | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#3 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#4 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#5 Wei-Shaw /sub2api
+   🔗 https://github.com/Wei-Shaw/sub2api
+   📝 Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+   💻 Go | ⭐ Star
+
+#6 makeplane /plane
+   🔗 https://github.com/makeplane/plane
+   📝 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern...
+   💻 TypeScript | ⭐ Star
+
+#7 n8n-io /n8n
+   🔗 https://github.com/n8n-io/n8n
+   📝 Fair-code workflow automation platform with native AI capabilities. Combine visu...
+   💻 TypeScript | ⭐ Star
+
+#8 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 Python | ⭐ Star
+
+#9 AprilNEA /OpenLogi
+   🔗 https://github.com/AprilNEA/OpenLogi
+   📝 ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re...
+   💻 Rust | ⭐ Star
+
+#10 modular /modular
+   🔗 https://github.com/modular/modular
+   📝 The Modular Platform (includes MAX & Mojo)
+   💻 Mojo | ⭐ Star
+
+#11 multica-ai /andrej-karpathy-skills
+   🔗 https://github.com/multica-ai/andrej-karpathy-skills
+   📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...
+   💻 N/A | ⭐ Star
+
+#12 mahlernim /google-timeline-visualizer
+   🔗 https://github.com/mahlernim/google-timeline-visualizer
+   📝 Visualize your year in travel using your Google Location History (Timeline) data
+   💻 Kotlin | ⭐ Star
+
+#13 ripienaar /free-for-dev
+   🔗 https://github.com/ripienaar/free-for-dev
+   📝 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo...
+   💻 HTML | ⭐ Star
+
+#14 microsoft /TypeScript
+   🔗 https://github.com/microsoft/TypeScript
+   📝 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+   💻 Go | ⭐ Star
+
+#15 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#16 PostHog /posthog
+   🔗 https://github.com/PostHog/posthog
+   📝 🦔 PostHog is the leading platform for building self-driving products. Our develo...
+   💻 Python | ⭐ Star
+
+#17 Tencent /AI-Infra-Guard
+   🔗 https://github.com/Tencent/AI-Infra-Guard
+   📝 A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
