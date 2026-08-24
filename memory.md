@@ -9428,3 +9428,100 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-24 01:13:51
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 18 個倉庫:
+
+#1 openai /codex
+   🔗 https://github.com/openai/codex
+   📝 Lightweight coding agent that runs in your terminal
+   💻 Rust | ⭐ Star
+
+#2 freestylefly /awesome-gpt-image-2
+   🔗 https://github.com/freestylefly/awesome-gpt-image-2
+   📝 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新...
+   💻 JavaScript | ⭐ Star
+
+#3 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#4 basecamp /omarchy
+   🔗 https://github.com/basecamp/omarchy
+   📝 Beautiful, Modern & Opinionated Linux
+   💻 Shell | ⭐ Star
+
+#5 AprilNEA /OpenLogi
+   🔗 https://github.com/AprilNEA/OpenLogi
+   📝 ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re...
+   💻 Rust | ⭐ Star
+
+#6 block /buzz
+   🔗 https://github.com/block/buzz
+   📝 A hive mind communication platform
+   💻 Rust | ⭐ Star
+
+#7 apache /maka
+   🔗 https://github.com/apache/maka
+   📝 Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to...
+   💻 TypeScript | ⭐ Star
+
+#8 Alishahryar1 /free-claude-code
+   🔗 https://github.com/Alishahryar1/free-claude-code
+   📝 Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your ...
+   💻 Python | ⭐ Star
+
+#9 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. A brain that builds a local-first memory of...
+   💻 Rust | ⭐ Star
+
+#10 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#11 ruvnet /ruflo
+   🔗 https://github.com/ruvnet/ruflo
+   📝 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coord...
+   💻 TypeScript | ⭐ Star
+
+#12 VoltAgent /awesome-agent-skills
+   🔗 https://github.com/VoltAgent/awesome-agent-skills
+   📝 A curated collection of 1000+ agent skills from official dev teams and the commu...
+   💻 N/A | ⭐ Star
+
+#13 virgiliojr94 /book-to-skill
+   🔗 https://github.com/virgiliojr94/book-to-skill
+   📝 Turn any technical book PDF into a Claude Code skill — ready to study, reference...
+   💻 Python | ⭐ Star
+
+#14 dani-garcia /vaultwarden
+   🔗 https://github.com/dani-garcia/vaultwarden
+   📝 Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar...
+   💻 Rust | ⭐ Star
+
+#15 anthropics /claude-plugins-community
+   🔗 https://github.com/anthropics/claude-plugins-community
+   📝 Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror...
+   💻 Python | ⭐ Star
+
+#16 ripienaar /free-for-dev
+   🔗 https://github.com/ripienaar/free-for-dev
+   📝 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo...
+   💻 HTML | ⭐ Star
+
+#17 Comfy-Org /ComfyUI
+   🔗 https://github.com/Comfy-Org/ComfyUI
+   📝 The most powerful and modular diffusion model GUI, api and backend with a graph/...
+   💻 Python | ⭐ Star
+
+#18 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
