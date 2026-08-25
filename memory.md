@@ -9525,3 +9525,105 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-25 01:12:27
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 Alishahryar1 /free-claude-code
+   🔗 https://github.com/Alishahryar1/free-claude-code
+   📝 Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your ...
+   💻 Python | ⭐ Star
+
+#2 openai /codex
+   🔗 https://github.com/openai/codex
+   📝 Lightweight coding agent that runs in your terminal
+   💻 Rust | ⭐ Star
+
+#3 MadsLorentzen /ai-job-search
+   🔗 https://github.com/MadsLorentzen/ai-job-search
+   📝 The job search that runs on your machine. AI job application framework built on ...
+   💻 Python | ⭐ Star
+
+#4 multica-ai /andrej-karpathy-skills
+   🔗 https://github.com/multica-ai/andrej-karpathy-skills
+   📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...
+   💻 N/A | ⭐ Star
+
+#5 makeplane /plane
+   🔗 https://github.com/makeplane/plane
+   📝 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern...
+   💻 TypeScript | ⭐ Star
+
+#6 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#7 anthropics /claude-plugins-community
+   🔗 https://github.com/anthropics/claude-plugins-community
+   📝 Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror...
+   💻 Python | ⭐ Star
+
+#8 AprilNEA /OpenLogi
+   🔗 https://github.com/AprilNEA/OpenLogi
+   📝 ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re...
+   💻 Rust | ⭐ Star
+
+#9 apache /maka
+   🔗 https://github.com/apache/maka
+   📝 Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to...
+   💻 TypeScript | ⭐ Star
+
+#10 PostHog /posthog
+   🔗 https://github.com/PostHog/posthog
+   📝 🦔 PostHog is the leading platform for building self-driving products. Our develo...
+   💻 Python | ⭐ Star
+
+#11 openclaw /openclaw
+   🔗 https://github.com/openclaw/openclaw
+   📝 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+   💻 TypeScript | ⭐ Star
+
+#12 AgriciDaniel /claude-obsidian
+   🔗 https://github.com/AgriciDaniel/claude-obsidian
+   📝 Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and ...
+   💻 Python | ⭐ Star
+
+#13 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#14 basecamp /omarchy
+   🔗 https://github.com/basecamp/omarchy
+   📝 Beautiful, Modern & Opinionated Linux
+   💻 Shell | ⭐ Star
+
+#15 tashfeenahmed /freellmapi
+   🔗 https://github.com/tashfeenahmed/freellmapi
+   📝 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. A...
+   💻 TypeScript | ⭐ Star
+
+#16 dani-garcia /vaultwarden
+   🔗 https://github.com/dani-garcia/vaultwarden
+   📝 Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar...
+   💻 Rust | ⭐ Star
+
+#17 freestylefly /awesome-gpt-image-2
+   🔗 https://github.com/freestylefly/awesome-gpt-image-2
+   📝 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新...
+   💻 JavaScript | ⭐ Star
+
+#18 VoltAgent /awesome-agent-skills
+   🔗 https://github.com/VoltAgent/awesome-agent-skills
+   📝 A curated collection of 1000+ agent skills from official dev teams and the commu...
+   💻 N/A | ⭐ Star
+
+#19 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. A brain that builds a local-first memory of...
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
