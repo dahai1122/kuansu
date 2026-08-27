@@ -9714,3 +9714,90 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-27 07:44:48
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 tt-a1i /archify
+   🔗 https://github.com/tt-a1i/archify
+   📝 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo...
+   💻 JavaScript | ⭐ Star
+
+#2 freestylefly /awesome-gpt-image-2
+   🔗 https://github.com/freestylefly/awesome-gpt-image-2
+   📝 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新...
+   💻 JavaScript | ⭐ Star
+
+#3 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#4 Alishahryar1 /free-claude-code
+   🔗 https://github.com/Alishahryar1/free-claude-code
+   📝 Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) f...
+   💻 Python | ⭐ Star
+
+#5 MadsLorentzen /ai-job-search
+   🔗 https://github.com/MadsLorentzen/ai-job-search
+   📝 The job search that runs on your machine. AI job application framework built on ...
+   💻 Python | ⭐ Star
+
+#6 AgriciDaniel /claude-obsidian
+   🔗 https://github.com/AgriciDaniel/claude-obsidian
+   📝 Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and ...
+   💻 Python | ⭐ Star
+
+#7 basecamp /omarchy
+   🔗 https://github.com/basecamp/omarchy
+   📝 Beautiful, Modern & Opinionated Linux
+   💻 Shell | ⭐ Star
+
+#8 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#9 tinyhumansai /openhuman
+   🔗 https://github.com/tinyhumansai/openhuman
+   📝 Your Personal AI super intelligence. A brain that builds a local-first memory of...
+   💻 Rust | ⭐ Star
+
+#10 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#11 anthropics /claude-plugins-community
+   🔗 https://github.com/anthropics/claude-plugins-community
+   📝 Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror...
+   💻 Python | ⭐ Star
+
+#12 ConardLi /garden-skills
+   🔗 https://github.com/ConardLi/garden-skills
+   📝 ConardLi's open-source Skills collection, featuring web design, knowledge retrie...
+   💻 CSS | ⭐ Star
+
+#13 browser-use /browser-use
+   🔗 https://github.com/browser-use/browser-use
+   📝 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+   💻 Python | ⭐ Star
+
+#14 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#15 marin-community /marin
+   🔗 https://github.com/marin-community/marin
+   📝 Open-source framework for the research and development of foundation models.
+   💻 Python | ⭐ Star
+
+#16 VoltAgent /awesome-agent-skills
+   🔗 https://github.com/VoltAgent/awesome-agent-skills
+   📝 A curated collection of 1000+ agent skills from official dev teams and the commu...
+   💻 N/A | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
