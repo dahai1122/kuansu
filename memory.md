@@ -9801,3 +9801,105 @@
    💻 N/A | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-28 09:49:25
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 bilawalsidhu /gods-eye-view
+   🔗 https://github.com/bilawalsidhu/gods-eye-view
+   📝 A spy satellite simulator in your browser, except the data is real. Live open so...
+   💻 JavaScript | ⭐ Star
+
+#2 zedeus /nitter
+   🔗 https://github.com/zedeus/nitter
+   📝 Alternative Twitter front-end
+   💻 Nim | ⭐ Star
+
+#3 freestylefly /awesome-gpt-image-2
+   🔗 https://github.com/freestylefly/awesome-gpt-image-2
+   📝 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新...
+   💻 JavaScript | ⭐ Star
+
+#4 tt-a1i /archify
+   🔗 https://github.com/tt-a1i/archify
+   📝 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo...
+   💻 JavaScript | ⭐ Star
+
+#5 JetBrains /go-modern-guidelines
+   🔗 https://github.com/JetBrains/go-modern-guidelines
+   📝 Help AI coding agents write modern Go
+   💻 Go | ⭐ Star
+
+#6 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#7 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#8 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#9 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 production pipeli...
+   💻 Python | ⭐ Star
+
+#10 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#11 ConardLi /garden-skills
+   🔗 https://github.com/ConardLi/garden-skills
+   📝 ConardLi's open-source Skills collection, featuring web design, knowledge retrie...
+   💻 CSS | ⭐ Star
+
+#12 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 JavaScript | ⭐ Star
+
+#13 google /googletest
+   🔗 https://github.com/google/googletest
+   📝 GoogleTest - Google Testing and Mocking Framework
+   💻 C++ | ⭐ Star
+
+#14 AgriciDaniel /claude-obsidian
+   🔗 https://github.com/AgriciDaniel/claude-obsidian
+   📝 Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and ...
+   💻 Python | ⭐ Star
+
+#15 marin-community /marin
+   🔗 https://github.com/marin-community/marin
+   📝 Open-source framework for the research and development of foundation models.
+   💻 Python | ⭐ Star
+
+#16 ComposioHQ /awesome-claude-skills
+   🔗 https://github.com/ComposioHQ/awesome-claude-skills
+   📝 A curated list of awesome Claude Skills, resources, and tools for customizing Cl...
+   💻 Python | ⭐ Star
+
+#17 actions /checkout
+   🔗 https://github.com/actions/checkout
+   📝 Action for checking out a repo
+   💻 TypeScript | ⭐ Star
+
+#18 OpenCut-app /OpenCut
+   🔗 https://github.com/OpenCut-app/OpenCut
+   📝 The open-source CapCut alternative
+   💻 TypeScript | ⭐ Star
+
+#19 TauricResearch /TradingAgents
+   🔗 https://github.com/TauricResearch/TradingAgents
+   📝 TradingAgents: Multi-Agents LLM Financial Trading Framework
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
