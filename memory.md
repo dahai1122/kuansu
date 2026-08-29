@@ -9903,3 +9903,110 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-29 05:49:55
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 20 個倉庫:
+
+#1 tt-a1i /archify
+   🔗 https://github.com/tt-a1i/archify
+   📝 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo...
+   💻 JavaScript | ⭐ Star
+
+#2 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#3 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#4 bilawalsidhu /gods-eye-view
+   🔗 https://github.com/bilawalsidhu/gods-eye-view
+   📝 A spy satellite simulator in your browser, except the data is real. Live open so...
+   💻 JavaScript | ⭐ Star
+
+#5 abhigyanpatwari /GitNexus
+   🔗 https://github.com/abhigyanpatwari/GitNexus
+   📝 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k...
+   💻 TypeScript | ⭐ Star
+
+#6 JetBrains /go-modern-guidelines
+   🔗 https://github.com/JetBrains/go-modern-guidelines
+   📝 Help AI coding agents write modern Go
+   💻 Go | ⭐ Star
+
+#7 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 production pipeli...
+   💻 Python | ⭐ Star
+
+#8 abi /screenshot-to-code
+   🔗 https://github.com/abi/screenshot-to-code
+   📝 Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+   💻 Python | ⭐ Star
+
+#9 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#10 freestylefly /awesome-gpt-image-2
+   🔗 https://github.com/freestylefly/awesome-gpt-image-2
+   📝 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新...
+   💻 JavaScript | ⭐ Star
+
+#11 tailscale /tailcat
+   🔗 https://github.com/tailscale/tailcat
+   📝 like netcat, but over Tailscale's data plane, without Tailscale's control plane
+   💻 Go | ⭐ Star
+
+#12 NationalSecurityAgency /ghidra
+   🔗 https://github.com/NationalSecurityAgency/ghidra
+   📝 Ghidra is a software reverse engineering (SRE) framework
+   💻 Java | ⭐ Star
+
+#13 swoole /typephp
+   🔗 https://github.com/swoole/typephp
+   📝 Compile PHP to Native Binaries
+   💻 PHP | ⭐ Star
+
+#14 marin-community /marin
+   🔗 https://github.com/marin-community/marin
+   📝 Open-source framework for the research and development of foundation models.
+   💻 Python | ⭐ Star
+
+#15 tashfeenahmed /freellmapi
+   🔗 https://github.com/tashfeenahmed/freellmapi
+   📝 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. A...
+   💻 TypeScript | ⭐ Star
+
+#16 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#17 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#18 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#19 google /googletest
+   🔗 https://github.com/google/googletest
+   📝 GoogleTest - Google Testing and Mocking Framework
+   💻 C++ | ⭐ Star
+
+#20 livekit /agents
+   🔗 https://github.com/livekit/agents
+   📝 A framework for building realtime voice AI agents 🤖🎙️📹
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
