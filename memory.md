@@ -10010,3 +10010,105 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-30 03:53:09
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 tt-a1i /archify
+   🔗 https://github.com/tt-a1i/archify
+   📝 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo...
+   💻 JavaScript | ⭐ Star
+
+#2 bilawalsidhu /gods-eye-view
+   🔗 https://github.com/bilawalsidhu/gods-eye-view
+   📝 A spy satellite simulator in your browser, except the data is real. Live open so...
+   💻 JavaScript | ⭐ Star
+
+#3 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#4 tailscale /tailcat
+   🔗 https://github.com/tailscale/tailcat
+   📝 like netcat, but over Tailscale's data plane, without Tailscale's control plane
+   💻 Go | ⭐ Star
+
+#5 THU-MAIC /OpenMAIC
+   🔗 https://github.com/THU-MAIC/OpenMAIC
+   📝 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning ...
+   💻 TypeScript | ⭐ Star
+
+#6 p-e-w /heretic
+   🔗 https://github.com/p-e-w/heretic
+   📝 Fully automatic censorship removal for language models
+   💻 Python | ⭐ Star
+
+#7 bigskysoftware /htmx
+   🔗 https://github.com/bigskysoftware/htmx
+   📝 </> htmx - high power tools for HTML
+   💻 JavaScript | ⭐ Star
+
+#8 JetBrains /go-modern-guidelines
+   🔗 https://github.com/JetBrains/go-modern-guidelines
+   📝 Help AI coding agents write modern Go
+   💻 Go | ⭐ Star
+
+#9 ComposioHQ /awesome-claude-skills
+   🔗 https://github.com/ComposioHQ/awesome-claude-skills
+   📝 A curated list of awesome Claude Skills, resources, and tools for customizing Cl...
+   💻 Python | ⭐ Star
+
+#10 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 production pipeli...
+   💻 Python | ⭐ Star
+
+#11 every-app /open-seo
+   🔗 https://github.com/every-app/open-seo
+   📝 Open source alternative to Semrush and Ahrefs
+   💻 TypeScript | ⭐ Star
+
+#12 Osmantic /ODS
+   🔗 https://github.com/Osmantic/ODS
+   📝 Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice...
+   💻 Python | ⭐ Star
+
+#13 abi /screenshot-to-code
+   🔗 https://github.com/abi/screenshot-to-code
+   📝 Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+   💻 Python | ⭐ Star
+
+#14 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#15 google /googletest
+   🔗 https://github.com/google/googletest
+   📝 GoogleTest - Google Testing and Mocking Framework
+   💻 C++ | ⭐ Star
+
+#16 actions /checkout
+   🔗 https://github.com/actions/checkout
+   📝 Action for checking out a repo
+   💻 TypeScript | ⭐ Star
+
+#17 kaifcodec /user-scanner
+   🔗 https://github.com/kaifcodec/user-scanner
+   📝 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a...
+   💻 Python | ⭐ Star
+
+#18 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#19 workweave /router
+   🔗 https://github.com/workweave/router
+   📝 Model router for agentic systems. Routes every prompt to the right model in <50m...
+   💻 Go | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
