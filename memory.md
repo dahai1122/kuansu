@@ -10112,3 +10112,105 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-08-31 03:56:11
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 THU-MAIC /OpenMAIC
+   🔗 https://github.com/THU-MAIC/OpenMAIC
+   📝 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning ...
+   💻 TypeScript | ⭐ Star
+
+#2 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#3 Lakr233 /vphone-cli
+   🔗 https://github.com/Lakr233/vphone-cli
+   📝 N/A
+   💻 Swift | ⭐ Star
+
+#4 tt-a1i /archify
+   🔗 https://github.com/tt-a1i/archify
+   📝 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo...
+   💻 JavaScript | ⭐ Star
+
+#5 p-e-w /heretic
+   🔗 https://github.com/p-e-w/heretic
+   📝 Fully automatic censorship removal for language models
+   💻 Python | ⭐ Star
+
+#6 unclecode /crawl4ai
+   🔗 https://github.com/unclecode/crawl4ai
+   📝 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join ...
+   💻 Python | ⭐ Star
+
+#7 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#8 majd /ipatool
+   🔗 https://github.com/majd/ipatool
+   📝 Command-line tool that allows searching and downloading app packages (known as i...
+   💻 Go | ⭐ Star
+
+#9 punkpeye /awesome-mcp-servers
+   🔗 https://github.com/punkpeye/awesome-mcp-servers
+   📝 A collection of MCP servers.
+   💻 N/A | ⭐ Star
+
+#10 checkstyle /checkstyle
+   🔗 https://github.com/checkstyle/checkstyle
+   📝 Checkstyle is a development tool to help programmers write Java code that adhere...
+   💻 Java | ⭐ Star
+
+#11 NationalSecurityAgency /ghidra
+   🔗 https://github.com/NationalSecurityAgency/ghidra
+   📝 Ghidra is a software reverse engineering (SRE) framework
+   💻 Java | ⭐ Star
+
+#12 pollen-robotics /microduck_rl
+   🔗 https://github.com/pollen-robotics/microduck_rl
+   📝 RL training environments for Microduck (mjlab)
+   💻 Python | ⭐ Star
+
+#13 handsomestWei /patent-disclosure-skill
+   🔗 https://github.com/handsomestWei/patent-disclosure-skill
+   📝 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+   💻 Python | ⭐ Star
+
+#14 corsairdev /corsair
+   🔗 https://github.com/corsairdev/corsair
+   📝 Connect your users to their apps
+   💻 TypeScript | ⭐ Star
+
+#15 every-app /open-seo
+   🔗 https://github.com/every-app/open-seo
+   📝 Open source alternative to Semrush and Ahrefs
+   💻 TypeScript | ⭐ Star
+
+#16 colinhacks /zod
+   🔗 https://github.com/colinhacks/zod
+   📝 TypeScript-first schema validation with static type inference
+   💻 TypeScript | ⭐ Star
+
+#17 tashfeenahmed /freellmapi
+   🔗 https://github.com/tashfeenahmed/freellmapi
+   📝 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. A...
+   💻 TypeScript | ⭐ Star
+
+#18 livekit /agents
+   🔗 https://github.com/livekit/agents
+   📝 A framework for building realtime voice AI agents 🤖🎙️📹
+   💻 Python | ⭐ Star
+
+#19 abhigyanpatwari /GitNexus
+   🔗 https://github.com/abhigyanpatwari/GitNexus
+   📝 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
