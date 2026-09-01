@@ -10214,3 +10214,90 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-01 03:47:18
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 THU-MAIC /OpenMAIC
+   🔗 https://github.com/THU-MAIC/OpenMAIC
+   📝 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning ...
+   💻 TypeScript | ⭐ Star
+
+#2 tt-a1i /archify
+   🔗 https://github.com/tt-a1i/archify
+   📝 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo...
+   💻 JavaScript | ⭐ Star
+
+#3 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#4 k1tbyte /Wand-Enhancer
+   🔗 https://github.com/k1tbyte/Wand-Enhancer
+   📝 Advanced UX and interoperability extension for Wand (WeMod) app
+   💻 C# | ⭐ Star
+
+#5 majd /ipatool
+   🔗 https://github.com/majd/ipatool
+   📝 Command-line tool that allows searching and downloading app packages (known as i...
+   💻 Go | ⭐ Star
+
+#6 jingyaogong /minimind
+   🔗 https://github.com/jingyaogong/minimind
+   📝 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+   💻 Python | ⭐ Star
+
+#7 Osmantic /ODS
+   🔗 https://github.com/Osmantic/ODS
+   📝 Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice...
+   💻 Python | ⭐ Star
+
+#8 checkstyle /checkstyle
+   🔗 https://github.com/checkstyle/checkstyle
+   📝 Checkstyle is a development tool to help programmers write Java code that adhere...
+   💻 Java | ⭐ Star
+
+#9 zhaoxuya520 /reverse-skill
+   🔗 https://github.com/zhaoxuya520/reverse-skill
+   📝 Reverse Engineering / Authorized Penetration Testing / Security Research Skill R...
+   💻 PowerShell | ⭐ Star
+
+#10 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#11 kaifcodec /user-scanner
+   🔗 https://github.com/kaifcodec/user-scanner
+   📝 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a...
+   💻 Python | ⭐ Star
+
+#12 every-app /open-seo
+   🔗 https://github.com/every-app/open-seo
+   📝 Open source alternative to Semrush and Ahrefs
+   💻 TypeScript | ⭐ Star
+
+#13 p-e-w /heretic
+   🔗 https://github.com/p-e-w/heretic
+   📝 Fully automatic censorship removal for language models
+   💻 Python | ⭐ Star
+
+#14 handsomestWei /patent-disclosure-skill
+   🔗 https://github.com/handsomestWei/patent-disclosure-skill
+   📝 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+   💻 Python | ⭐ Star
+
+#15 firecrawl /pdf-inspector
+   🔗 https://github.com/firecrawl/pdf-inspector
+   📝 Fast Rust library for PDF inspection, classification, and text extraction. Intel...
+   💻 Rust | ⭐ Star
+
+#16 pollen-robotics /microduck_rl
+   🔗 https://github.com/pollen-robotics/microduck_rl
+   📝 RL training environments for Microduck (mjlab)
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
