@@ -10301,3 +10301,80 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-02 03:06:26
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 Gitlawb /openclaude
+   🔗 https://github.com/Gitlawb/openclaude
+   📝 runs anywhere. uses anything
+   💻 TypeScript | ⭐ Star
+
+#2 Imbad0202 /academic-research-skills
+   🔗 https://github.com/Imbad0202/academic-research-skills
+   📝 Academic Research Skills for Claude Code: research → write → review → revise → f...
+   💻 Python | ⭐ Star
+
+#3 THU-MAIC /OpenMAIC
+   🔗 https://github.com/THU-MAIC/OpenMAIC
+   📝 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning ...
+   💻 TypeScript | ⭐ Star
+
+#4 iv-org /invidious
+   🔗 https://github.com/iv-org/invidious
+   📝 Invidious is an alternative front-end to YouTube
+   💻 Crystal | ⭐ Star
+
+#5 jingyaogong /minimind
+   🔗 https://github.com/jingyaogong/minimind
+   📝 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+   💻 Python | ⭐ Star
+
+#6 3b1b /manim
+   🔗 https://github.com/3b1b/manim
+   📝 Animation engine for explanatory math videos
+   💻 Python | ⭐ Star
+
+#7 firecrawl /pdf-inspector
+   🔗 https://github.com/firecrawl/pdf-inspector
+   📝 Fast Rust library for PDF inspection, classification, and text extraction. Intel...
+   💻 Rust | ⭐ Star
+
+#8 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+#9 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#10 handsomestWei /patent-disclosure-skill
+   🔗 https://github.com/handsomestWei/patent-disclosure-skill
+   📝 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+   💻 Python | ⭐ Star
+
+#11 VoltAgent /awesome-design-md
+   🔗 https://github.com/VoltAgent/awesome-design-md
+   📝 A collection of DESIGN.md files analysis by popular brand design systems. Drop o...
+   💻 N/A | ⭐ Star
+
+#12 averygan /reclip
+   🔗 https://github.com/averygan/reclip
+   📝 Download videos from almost any website. Lightweight, self-hosted media download...
+   💻 HTML | ⭐ Star
+
+#13 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#14 unclecode /crawl4ai
+   🔗 https://github.com/unclecode/crawl4ai
+   📝 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join ...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
