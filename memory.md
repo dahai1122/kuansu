@@ -10480,3 +10480,105 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-04 03:07:25
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 fmtlib /fmt
+   🔗 https://github.com/fmtlib/fmt
+   📝 A modern formatting library
+   💻 C++ | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#3 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#4 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#5 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#6 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#7 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...
+   💻 Go | ⭐ Star
+
+#8 blader /humanizer
+   🔗 https://github.com/blader/humanizer
+   📝 Agent skill that removes signs of AI-generated writing from text
+   💻 Python | ⭐ Star
+
+#9 google-research /timesfm
+   🔗 https://github.com/google-research/timesfm
+   📝 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo...
+   💻 Python | ⭐ Star
+
+#10 averygan /reclip
+   🔗 https://github.com/averygan/reclip
+   📝 Download videos from almost any website. Lightweight, self-hosted media download...
+   💻 HTML | ⭐ Star
+
+#11 bannedbook /fanqiang
+   🔗 https://github.com/bannedbook/fanqiang
+   📝 翻墙-科学上网
+   💻 Kotlin | ⭐ Star
+
+#12 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#13 ByteByteGoHq /system-design-101
+   🔗 https://github.com/ByteByteGoHq/system-design-101
+   📝 Explain complex systems using visuals and simple terms. Help you prepare for sys...
+   💻 N/A | ⭐ Star
+
+#14 magnitudedev /magnitude
+   🔗 https://github.com/magnitudedev/magnitude
+   📝 Open source inference server that runs the best local models for your hardware, ...
+   💻 TypeScript | ⭐ Star
+
+#15 Imbad0202 /academic-research-skills
+   🔗 https://github.com/Imbad0202/academic-research-skills
+   📝 Academic Research Skills for Claude Code: research → write → review → revise → f...
+   💻 Python | ⭐ Star
+
+#16 Gitlawb /openclaude
+   🔗 https://github.com/Gitlawb/openclaude
+   📝 runs anywhere. uses anything
+   💻 TypeScript | ⭐ Star
+
+#17 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#18 f /prompts.chat
+   🔗 https://github.com/f/prompts.chat
+   📝 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co...
+   💻 HTML | ⭐ Star
+
+#19 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
