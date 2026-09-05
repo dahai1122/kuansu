@@ -10582,3 +10582,95 @@
    💻 Shell | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-05 03:09:42
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#2 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#3 fmtlib /fmt
+   🔗 https://github.com/fmtlib/fmt
+   📝 A modern formatting library
+   💻 C++ | ⭐ Star
+
+#4 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#5 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#6 blader /humanizer
+   🔗 https://github.com/blader/humanizer
+   📝 Agent skill that removes signs of AI-generated writing from text
+   💻 Python | ⭐ Star
+
+#7 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#8 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...
+   💻 Go | ⭐ Star
+
+#9 magnitudedev /magnitude
+   🔗 https://github.com/magnitudedev/magnitude
+   📝 Open source inference server that runs the best local models for your hardware, ...
+   💻 TypeScript | ⭐ Star
+
+#10 bikini /exploitarium
+   🔗 https://github.com/bikini/exploitarium
+   📝 A single archive of public exploit PoCs and vulnerability research writeups. At ...
+   💻 Python | ⭐ Star
+
+#11 bannedbook /fanqiang
+   🔗 https://github.com/bannedbook/fanqiang
+   📝 翻墙-科学上网
+   💻 Kotlin | ⭐ Star
+
+#12 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#13 google-research /timesfm
+   🔗 https://github.com/google-research/timesfm
+   📝 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo...
+   💻 Python | ⭐ Star
+
+#14 radixark /miles
+   🔗 https://github.com/radixark/miles
+   📝 Miles is an enterprise-facing reinforcement learning framework for LLM and VLM p...
+   💻 Python | ⭐ Star
+
+#15 anomalyco /opencode
+   🔗 https://github.com/anomalyco/opencode
+   📝 The open source coding agent.
+   💻 TypeScript | ⭐ Star
+
+#16 clshortfuse /renodx
+   🔗 https://github.com/clshortfuse/renodx
+   📝 Renovation Engine for DirectX Games
+   💻 HLSL | ⭐ Star
+
+#17 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML +...
+   💻 HTML | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
