@@ -10761,3 +10761,100 @@
    💻 Shell | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-07 03:07:45
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 18 個倉庫:
+
+#1 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#3 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML +...
+   💻 HTML | ⭐ Star
+
+#4 NousResearch /hermes-agent
+   🔗 https://github.com/NousResearch/hermes-agent
+   📝 The agent that grows with you
+   💻 Python | ⭐ Star
+
+#5 openai /skills
+   🔗 https://github.com/openai/skills
+   📝 Skills Catalog for Codex
+   💻 Python | ⭐ Star
+
+#6 anomalyco /opencode
+   🔗 https://github.com/anomalyco/opencode
+   📝 The open source coding agent.
+   💻 TypeScript | ⭐ Star
+
+#7 blader /humanizer
+   🔗 https://github.com/blader/humanizer
+   📝 Agent skill that removes signs of AI-generated writing from text
+   💻 Python | ⭐ Star
+
+#8 llvm /llvm-project
+   🔗 https://github.com/llvm/llvm-project
+   📝 The LLVM Project is a collection of modular and reusable compiler and toolchain ...
+   💻 LLVM | ⭐ Star
+
+#9 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#10 ruvnet /ruflo
+   🔗 https://github.com/ruvnet/ruflo
+   📝 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coord...
+   💻 TypeScript | ⭐ Star
+
+#11 magnitudedev /magnitude
+   🔗 https://github.com/magnitudedev/magnitude
+   📝 Open source inference server that runs the best local models for your hardware, ...
+   💻 TypeScript | ⭐ Star
+
+#12 BraveOPotato /FckSignups
+   🔗 https://github.com/BraveOPotato/FckSignups
+   📝 A list of tools that are open-source, in-browser, and require no-signups!
+   💻 TypeScript | ⭐ Star
+
+#13 coreyhaines31 /marketingskills
+   🔗 https://github.com/coreyhaines31/marketingskills
+   📝 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics...
+   💻 JavaScript | ⭐ Star
+
+#14 aipoch /open-science
+   🔗 https://github.com/aipoch/open-science
+   📝 Open Science by AIPOCH is an open-source, local-first, model-agnostic AI researc...
+   💻 TypeScript | ⭐ Star
+
+#15 OpenWhispr /openwhispr
+   🔗 https://github.com/OpenWhispr/openwhispr
+   📝 Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model...
+   💻 JavaScript | ⭐ Star
+
+#16 humanlayer /skills
+   🔗 https://github.com/humanlayer/skills
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#17 The-Swarm-Corporation /AutoHedge
+   🔗 https://github.com/The-Swarm-Corporation/AutoHedge
+   📝 Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of sw...
+   💻 Python | ⭐ Star
+
+#18 Stremio /stremio-web
+   🔗 https://github.com/Stremio/stremio-web
+   📝 Stremio - Freedom to Stream
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
