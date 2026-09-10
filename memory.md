@@ -11022,3 +11022,75 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-10 03:18:31
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 ayghri /i-have-adhd
+   🔗 https://github.com/ayghri/i-have-adhd
+   📝 A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+   💻 Python | ⭐ Star
+
+#2 Tencent /teamai-cli
+   🔗 https://github.com/Tencent/teamai-cli
+   📝 Make Every Team AI Native
+   💻 TypeScript | ⭐ Star
+
+#3 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#4 pascalorg /editor
+   🔗 https://github.com/pascalorg/editor
+   📝 Open-source 3D architectural editor with a local CLI, MCP tools, and practical w...
+   💻 TypeScript | ⭐ Star
+
+#5 earthtojake /text-to-cad
+   🔗 https://github.com/earthtojake/text-to-cad
+   📝 A library of agent skills for CAD, CAE and CAM
+   💻 Python | ⭐ Star
+
+#6 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML +...
+   💻 HTML | ⭐ Star
+
+#7 TauricResearch /TradingAgents
+   🔗 https://github.com/TauricResearch/TradingAgents
+   📝 TradingAgents: Multi-Agents LLM Financial Trading Framework
+   💻 Python | ⭐ Star
+
+#8 liquidslr /system-design-notes
+   🔗 https://github.com/liquidslr/system-design-notes
+   📝 Notes of the book System Desgin Interview - An Insider's Guide
+   💻 N/A | ⭐ Star
+
+#9 openai /plugins
+   🔗 https://github.com/openai/plugins
+   📝 OpenAI Plugins
+   💻 JavaScript | ⭐ Star
+
+#10 freestylefly /awesome-gpt-image-2
+   🔗 https://github.com/freestylefly/awesome-gpt-image-2
+   📝 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新...
+   💻 JavaScript | ⭐ Star
+
+#11 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#12 vastsa /PI-Desktop
+   🔗 https://github.com/vastsa/PI-Desktop
+   📝 Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes...
+   💻 TypeScript | ⭐ Star
+
+#13 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
