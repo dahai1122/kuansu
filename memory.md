@@ -11181,3 +11181,90 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-12 03:19:48
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 ayghri /i-have-adhd
+   🔗 https://github.com/ayghri/i-have-adhd
+   📝 A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+   💻 Python | ⭐ Star
+
+#2 bilawalsidhu /gods-eye-view
+   🔗 https://github.com/bilawalsidhu/gods-eye-view
+   📝 A spy satellite simulator in your browser, except the data is real. Live open so...
+   💻 JavaScript | ⭐ Star
+
+#3 nab138 /iloader
+   🔗 https://github.com/nab138/iloader
+   📝 User friendly sideloader
+   💻 TypeScript | ⭐ Star
+
+#4 melgarafael /DeskcommCRM
+   🔗 https://github.com/melgarafael/DeskcommCRM
+   📝 Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA...
+   💻 TypeScript | ⭐ Star
+
+#5 vastsa /PI-Desktop
+   🔗 https://github.com/vastsa/PI-Desktop
+   📝 Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes...
+   💻 TypeScript | ⭐ Star
+
+#6 armory3d /armorpaint
+   🔗 https://github.com/armory3d/armorpaint
+   📝 Graphics Creation Tools
+   💻 C | ⭐ Star
+
+#7 alsk1992 /CloddsBot
+   🔗 https://github.com/alsk1992/CloddsBot
+   📝 Open Source AI trading agent that operates autonomously across 1000+ markets - P...
+   💻 TypeScript | ⭐ Star
+
+#8 nashsu /llm_wiki
+   🔗 https://github.com/nashsu/llm_wiki
+   📝 LLM Wiki is a cross-platform desktop application that turns your documents into ...
+   💻 TypeScript | ⭐ Star
+
+#9 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#10 Sonarr /Sonarr
+   🔗 https://github.com/Sonarr/Sonarr
+   📝 Smart PVR for newsgroup and bittorrent users.
+   💻 C# | ⭐ Star
+
+#11 jihe520 /MathModelAgent
+   🔗 https://github.com/jihe520/MathModelAgent
+   📝 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mat...
+   💻 Python | ⭐ Star
+
+#12 p1neappleXpress /OpenFlux
+   🔗 https://github.com/p1neappleXpress/OpenFlux
+   📝 Network stack research tool. TCP tunnel with pluggable transports.
+   💻 Go | ⭐ Star
+
+#13 jordan-gibbs /hyperresearch
+   🔗 https://github.com/jordan-gibbs/hyperresearch
+   📝 Agent-driven research knowledge base. Agents collect, search, and synthesize web...
+   💻 Python | ⭐ Star
+
+#14 alphaXiv /OpenResearch
+   🔗 https://github.com/alphaXiv/OpenResearch
+   📝 Run parallel research agents with any model
+   💻 Rust | ⭐ Star
+
+#15 github /spec-kit
+   🔗 https://github.com/github/spec-kit
+   📝 💫 Toolkit to help you get started with Spec-Driven Development
+   💻 Python | ⭐ Star
+
+#16 pascalorg /editor
+   🔗 https://github.com/pascalorg/editor
+   📝 Open-source 3D architectural editor with a local CLI, MCP tools, and practical w...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
