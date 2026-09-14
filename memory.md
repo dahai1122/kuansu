@@ -11355,3 +11355,105 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-14 03:35:46
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 JustVugg /colibri
+   🔗 https://github.com/JustVugg/colibri
+   📝 Run frontier MoE models on hardware you already own — pure C, zero deps, experts...
+   💻 C | ⭐ Star
+
+#2 ever-co /ever-gauzy
+   🔗 https://github.com/ever-co/ever-gauzy
+   📝 Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://g...
+   💻 TypeScript | ⭐ Star
+
+#3 bilawalsidhu /gods-eye-view
+   🔗 https://github.com/bilawalsidhu/gods-eye-view
+   📝 A spy satellite simulator in your browser, except the data is real. Live open so...
+   💻 JavaScript | ⭐ Star
+
+#4 tech-leads-club /agent-skills
+   🔗 https://github.com/tech-leads-club/agent-skills
+   📝 The secure, validated skill registry for professional AI coding agents. Extend A...
+   💻 TypeScript | ⭐ Star
+
+#5 melgarafael /DeskcommCRM
+   🔗 https://github.com/melgarafael/DeskcommCRM
+   📝 Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA...
+   💻 TypeScript | ⭐ Star
+
+#6 calesthio /OpenMontage
+   🔗 https://github.com/calesthio/OpenMontage
+   📝 World's first open-source, agentic video production system. 12 production pipeli...
+   💻 Python | ⭐ Star
+
+#7 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig...
+   💻 JavaScript | ⭐ Star
+
+#8 vxcontrol /pentagi
+   🔗 https://github.com/vxcontrol/pentagi
+   📝 Fully autonomous AI Agents system capable of performing complex penetration test...
+   💻 Go | ⭐ Star
+
+#9 multimodal-art-projection /YuE
+   🔗 https://github.com/multimodal-art-projection/YuE
+   📝 YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag...
+   💻 Python | ⭐ Star
+
+#10 yuliskov /SmartTube
+   🔗 https://github.com/yuliskov/SmartTube
+   📝 Browse media content with your own rules on Android TV
+   💻 Java | ⭐ Star
+
+#11 alphaXiv /OpenResearch
+   🔗 https://github.com/alphaXiv/OpenResearch
+   📝 Run parallel research agents with any model
+   💻 Rust | ⭐ Star
+
+#12 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#13 SnailSploit /Claude-Red
+   🔗 https://github.com/SnailSploit/Claude-Red
+   📝 claude-red is a curated library of offensive security skills designed for the Cl...
+   💻 Python | ⭐ Star
+
+#14 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi...
+   💻 Go | ⭐ Star
+
+#15 jihe520 /MathModelAgent
+   🔗 https://github.com/jihe520/MathModelAgent
+   📝 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mat...
+   💻 Python | ⭐ Star
+
+#16 tonhowtf /omniget
+   🔗 https://github.com/tonhowtf/omniget
+   📝 Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sit...
+   💻 Rust | ⭐ Star
+
+#17 jiji262 /douyin-downloader
+   🔗 https://github.com/jiji262/douyin-downloader
+   📝 A practical Douyin downloader for both single-item and profile batch downloads, ...
+   💻 Python | ⭐ Star
+
+#18 Swordfish90 /cool-retro-term
+   🔗 https://github.com/Swordfish90/cool-retro-term
+   📝 A good looking terminal emulator which mimics the old cathode display...
+   💻 QML | ⭐ Star
+
+#19 huggingface /transformers
+   🔗 https://github.com/huggingface/transformers
+   📝 🤗 Transformers: the model-definition framework for state-of-the-art machine lear...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
