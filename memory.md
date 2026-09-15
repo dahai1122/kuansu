@@ -11457,3 +11457,110 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-15 03:37:01
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 20 個倉庫:
+
+#1 JustVugg /colibri
+   🔗 https://github.com/JustVugg/colibri
+   📝 Run frontier MoE models on hardware you already own — pure C, zero deps, experts...
+   💻 C | ⭐ Star
+
+#2 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi...
+   💻 Go | ⭐ Star
+
+#3 multimodal-art-projection /YuE
+   🔗 https://github.com/multimodal-art-projection/YuE
+   📝 YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag...
+   💻 Python | ⭐ Star
+
+#4 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#5 666ghj /MiroFish
+   🔗 https://github.com/666ghj/MiroFish
+   📝 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能...
+   💻 Python | ⭐ Star
+
+#6 Panniantong /Agent-Reach
+   🔗 https://github.com/Panniantong/Agent-Reach
+   📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...
+   💻 Python | ⭐ Star
+
+#7 asgeirtj /system_prompts_leaks
+   🔗 https://github.com/asgeirtj/system_prompts_leaks
+   📝 Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig...
+   💻 JavaScript | ⭐ Star
+
+#8 rlaope /oh-my-hermes
+   🔗 https://github.com/rlaope/oh-my-hermes
+   📝 All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory...
+   💻 Python | ⭐ Star
+
+#9 localsend /localsend
+   🔗 https://github.com/localsend/localsend
+   📝 An open-source cross-platform alternative to AirDrop
+   💻 Dart | ⭐ Star
+
+#10 dani-garcia /vaultwarden
+   🔗 https://github.com/dani-garcia/vaultwarden
+   📝 Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar...
+   💻 Rust | ⭐ Star
+
+#11 TauricResearch /TradingAgents
+   🔗 https://github.com/TauricResearch/TradingAgents
+   📝 TradingAgents: Multi-Agents LLM Financial Trading Framework
+   💻 Python | ⭐ Star
+
+#12 ruvnet /RuView
+   🔗 https://github.com/ruvnet/RuView
+   📝 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...
+   💻 Rust | ⭐ Star
+
+#13 tech-leads-club /agent-skills
+   🔗 https://github.com/tech-leads-club/agent-skills
+   📝 The secure, validated skill registry for professional AI coding agents. Extend A...
+   💻 TypeScript | ⭐ Star
+
+#14 OpenBMB /VoxCPM
+   🔗 https://github.com/OpenBMB/VoxCPM
+   📝 VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D...
+   💻 Python | ⭐ Star
+
+#15 huggingface /transformers
+   🔗 https://github.com/huggingface/transformers
+   📝 🤗 Transformers: the model-definition framework for state-of-the-art machine lear...
+   💻 Python | ⭐ Star
+
+#16 ever-co /ever-gauzy
+   🔗 https://github.com/ever-co/ever-gauzy
+   📝 Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://g...
+   💻 TypeScript | ⭐ Star
+
+#17 Crosstalk-Solutions /project-nomad
+   🔗 https://github.com/Crosstalk-Solutions/project-nomad
+   📝 Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho...
+   💻 TypeScript | ⭐ Star
+
+#18 reconurge /flowsint
+   🔗 https://github.com/reconurge/flowsint
+   📝 A modern platform for visual, flexible, and extensible graph-based investigation...
+   💻 TypeScript | ⭐ Star
+
+#19 peetzweg /opendisplay
+   🔗 https://github.com/peetzweg/opendisplay
+   📝 Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true s...
+   💻 Swift | ⭐ Star
+
+#20 SnailSploit /Claude-Red
+   🔗 https://github.com/SnailSploit/Claude-Red
+   📝 claude-red is a curated library of offensive security skills designed for the Cl...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
