@@ -11564,3 +11564,80 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-16 03:33:34
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi...
+   💻 Go | ⭐ Star
+
+#2 JustVugg /colibri
+   🔗 https://github.com/JustVugg/colibri
+   📝 Run frontier MoE models on hardware you already own — pure C, zero deps, experts...
+   💻 C | ⭐ Star
+
+#3 ever-co /ever-gauzy
+   🔗 https://github.com/ever-co/ever-gauzy
+   📝 Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://g...
+   💻 TypeScript | ⭐ Star
+
+#4 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#5 Homebrew /BrewUI
+   🔗 https://github.com/Homebrew/BrewUI
+   📝 📺 Homebrew's official macOS GUI
+   💻 Swift | ⭐ Star
+
+#6 melgarafael /DeskcommCRM
+   🔗 https://github.com/melgarafael/DeskcommCRM
+   📝 Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA...
+   💻 TypeScript | ⭐ Star
+
+#7 alphaXiv /OpenResearch
+   🔗 https://github.com/alphaXiv/OpenResearch
+   📝 Turn your coding agents into research agents
+   💻 Rust | ⭐ Star
+
+#8 NationalSecurityAgency /ghidra
+   🔗 https://github.com/NationalSecurityAgency/ghidra
+   📝 Ghidra is a software reverse engineering (SRE) framework
+   💻 Java | ⭐ Star
+
+#9 danny-avila /LibreChat
+   🔗 https://github.com/danny-avila/LibreChat
+   📝 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, ...
+   💻 TypeScript | ⭐ Star
+
+#10 pacifio /atlas
+   🔗 https://github.com/pacifio/atlas
+   📝 Source control for agents. Use multiple coding agents, track their changes and q...
+   💻 Rust | ⭐ Star
+
+#11 MG1937 /ASC
+   🔗 https://github.com/MG1937/ASC
+   📝 ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Rese...
+   💻 Python | ⭐ Star
+
+#12 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#13 tonhowtf /omniget
+   🔗 https://github.com/tonhowtf/omniget
+   📝 Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sit...
+   💻 Rust | ⭐ Star
+
+#14 earendil-works /pi
+   🔗 https://github.com/earendil-works/pi
+   📝 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
