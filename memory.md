@@ -11641,3 +11641,115 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-17 03:38:32
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 21 個倉庫:
+
+#1 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi...
+   💻 Go | ⭐ Star
+
+#2 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#3 JustVugg /colibri
+   🔗 https://github.com/JustVugg/colibri
+   📝 Run frontier MoE models on hardware you already own — pure C, zero deps, experts...
+   💻 C | ⭐ Star
+
+#4 abue-ammar /tinycast
+   🔗 https://github.com/abue-ammar/tinycast
+   📝 Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+   💻 Swift | ⭐ Star
+
+#5 jamiepine /voicebox
+   🔗 https://github.com/jamiepine/voicebox
+   📝 The open-source AI voice studio. Clone, dictate, create.
+   💻 TypeScript | ⭐ Star
+
+#6 Lakr233 /vphone-cli
+   🔗 https://github.com/Lakr233/vphone-cli
+   📝 N/A
+   💻 Swift | ⭐ Star
+
+#7 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#8 ever-co /ever-gauzy
+   🔗 https://github.com/ever-co/ever-gauzy
+   📝 Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://g...
+   💻 TypeScript | ⭐ Star
+
+#9 ankitects /anki
+   🔗 https://github.com/ankitects/anki
+   📝 Anki is a smart spaced repetition flashcard program
+   💻 Rust | ⭐ Star
+
+#10 NationalSecurityAgency /ghidra
+   🔗 https://github.com/NationalSecurityAgency/ghidra
+   📝 Ghidra is a software reverse engineering (SRE) framework
+   💻 Java | ⭐ Star
+
+#11 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 TypeScript | ⭐ Star
+
+#12 roboflow /supervision
+   🔗 https://github.com/roboflow/supervision
+   📝 We write your reusable computer vision tools. 💜
+   💻 Python | ⭐ Star
+
+#13 alphaXiv /OpenResearch
+   🔗 https://github.com/alphaXiv/OpenResearch
+   📝 Turn your coding agents into research agents
+   💻 Rust | ⭐ Star
+
+#14 supabase /supabase
+   🔗 https://github.com/supabase/supabase
+   📝 The Postgres development platform. Supabase gives you a dedicated Postgres datab...
+   💻 TypeScript | ⭐ Star
+
+#15 rlaope /oh-my-hermes
+   🔗 https://github.com/rlaope/oh-my-hermes
+   📝 All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory...
+   💻 Python | ⭐ Star
+
+#16 Tencent /WeKnora
+   🔗 https://github.com/Tencent/WeKnora
+   📝 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an ...
+   💻 Go | ⭐ Star
+
+#17 SnailSploit /Claude-Red
+   🔗 https://github.com/SnailSploit/Claude-Red
+   📝 claude-red is a curated library of offensive security skills designed for the Cl...
+   💻 Python | ⭐ Star
+
+#18 multimodal-art-projection /YuE
+   🔗 https://github.com/multimodal-art-projection/YuE
+   📝 YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag...
+   💻 Python | ⭐ Star
+
+#19 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#20 cline /cline
+   🔗 https://github.com/cline/cline
+   📝 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+   💻 TypeScript | ⭐ Star
+
+#21 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
