@@ -11753,3 +11753,110 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-18 03:24:44
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 20 個倉庫:
+
+#1 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi...
+   💻 Go | ⭐ Star
+
+#2 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#3 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#4 Tencent /BrowserSkill
+   🔗 https://github.com/Tencent/BrowserSkill
+   📝 Let AI agents use your real, logged-in browser without interrupting your work. C...
+   💻 TypeScript | ⭐ Star
+
+#5 alphaXiv /OpenResearch
+   🔗 https://github.com/alphaXiv/OpenResearch
+   📝 Turn your coding agents into research agents
+   💻 Rust | ⭐ Star
+
+#6 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 TypeScript | ⭐ Star
+
+#7 NationalSecurityAgency /ghidra
+   🔗 https://github.com/NationalSecurityAgency/ghidra
+   📝 Ghidra is a software reverse engineering (SRE) framework
+   💻 Java | ⭐ Star
+
+#8 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#9 Tencent /WeKnora
+   🔗 https://github.com/Tencent/WeKnora
+   📝 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an ...
+   💻 Go | ⭐ Star
+
+#10 abue-ammar /tinycast
+   🔗 https://github.com/abue-ammar/tinycast
+   📝 Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+   💻 Swift | ⭐ Star
+
+#11 cilium /cilium
+   🔗 https://github.com/cilium/cilium
+   📝 eBPF-based Networking, Security, and Observability
+   💻 Go | ⭐ Star
+
+#12 jamiepine /voicebox
+   🔗 https://github.com/jamiepine/voicebox
+   📝 The open-source AI voice studio. Clone, dictate, create.
+   💻 TypeScript | ⭐ Star
+
+#13 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#14 roboflow /supervision
+   🔗 https://github.com/roboflow/supervision
+   📝 We write your reusable computer vision tools. 💜
+   💻 Python | ⭐ Star
+
+#15 JustVugg /colibri
+   🔗 https://github.com/JustVugg/colibri
+   📝 Run frontier MoE models on hardware you already own — pure C, zero deps, experts...
+   💻 C | ⭐ Star
+
+#16 TencentCloud /Octop
+   🔗 https://github.com/TencentCloud/Octop
+   📝 A smarter, self-hosted AI assistant — multi-user, multi-agent.
+   💻 Python | ⭐ Star
+
+#17 ever-co /ever-gauzy
+   🔗 https://github.com/ever-co/ever-gauzy
+   📝 Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://g...
+   💻 TypeScript | ⭐ Star
+
+#18 cline /cline
+   🔗 https://github.com/cline/cline
+   📝 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+   💻 TypeScript | ⭐ Star
+
+#19 coder /coder
+   🔗 https://github.com/coder/coder
+   📝 Secure environments for developers and their agents
+   💻 Go | ⭐ Star
+
+#20 n8n-io /n8n
+   🔗 https://github.com/n8n-io/n8n
+   📝 Fair-code workflow automation platform with native AI capabilities. Combine visu...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
