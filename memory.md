@@ -11952,3 +11952,85 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-20 03:38:11
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#2 trycua /cua
+   🔗 https://github.com/trycua/cua
+   📝 Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks...
+   💻 HTML | ⭐ Star
+
+#3 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#4 coder /coder
+   🔗 https://github.com/coder/coder
+   📝 Secure environments for developers and their agents
+   💻 Go | ⭐ Star
+
+#5 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 TypeScript | ⭐ Star
+
+#6 Open-Dev-Society /OpenStock
+   🔗 https://github.com/Open-Dev-Society/OpenStock
+   📝 OpenStock is an open-source alternative to expensive market platforms. Track rea...
+   💻 TypeScript | ⭐ Star
+
+#7 higgsfield-ai /higgsfield
+   🔗 https://github.com/higgsfield-ai/higgsfield
+   📝 Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew...
+   💻 Jupyter Notebook | ⭐ Star
+
+#8 docling-project /docling
+   🔗 https://github.com/docling-project/docling
+   📝 Get your documents ready for gen AI
+   💻 Python | ⭐ Star
+
+#9 cloudflare /quiche
+   🔗 https://github.com/cloudflare/quiche
+   📝 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+   💻 Rust | ⭐ Star
+
+#10 asciimoo /hister
+   🔗 https://github.com/asciimoo/hister
+   📝 Your own search engine
+   💻 Go | ⭐ Star
+
+#11 ruanyf /weekly
+   🔗 https://github.com/ruanyf/weekly
+   📝 科技爱好者周刊，每周五发布
+   💻 N/A | ⭐ Star
+
+#12 ZuodaoTech /everyone-can-use-english
+   🔗 https://github.com/ZuodaoTech/everyone-can-use-english
+   📝 人人都能用英语
+   💻 TypeScript | ⭐ Star
+
+#13 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#14 cactus-compute /needle
+   🔗 https://github.com/cactus-compute/needle
+   📝 Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct...
+   💻 Python | ⭐ Star
+
+#15 yynxxxxx /Codex-X
+   🔗 https://github.com/yynxxxxx/Codex-X
+   📝 OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置...
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
