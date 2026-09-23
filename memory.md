@@ -12173,3 +12173,50 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-23 03:32:15
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 8 個倉庫:
+
+#1 anthropics /financial-services
+   🔗 https://github.com/anthropics/financial-services
+   📝 N/A
+   💻 Python | ⭐ Star
+
+#2 agent-substrate /substrate
+   🔗 https://github.com/agent-substrate/substrate
+   📝 Agent Substrate: the core system
+   💻 Go | ⭐ Star
+
+#3 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...
+   💻 TypeScript | ⭐ Star
+
+#4 davila7 /claude-code-templates
+   🔗 https://github.com/davila7/claude-code-templates
+   📝 CLI tool for configuring and monitoring Claude Code
+   💻 Python | ⭐ Star
+
+#5 google /ax
+   🔗 https://github.com/google/ax
+   📝 Google's open agentic orchestration runtime
+   💻 Go | ⭐ Star
+
+#6 mvt-project /mvt
+   🔗 https://github.com/mvt-project/mvt
+   📝 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi...
+   💻 Python | ⭐ Star
+
+#7 superdesigndev /treg
+   🔗 https://github.com/superdesigndev/treg
+   📝 OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
+   💻 Python | ⭐ Star
+
+#8 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
