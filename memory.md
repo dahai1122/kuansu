@@ -12220,3 +12220,95 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-24 03:22:19
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 anthropics /financial-services
+   🔗 https://github.com/anthropics/financial-services
+   📝 N/A
+   💻 Python | ⭐ Star
+
+#2 google /ax
+   🔗 https://github.com/google/ax
+   📝 Google's open agentic orchestration runtime
+   💻 Go | ⭐ Star
+
+#3 davila7 /claude-code-templates
+   🔗 https://github.com/davila7/claude-code-templates
+   📝 CLI tool for configuring and monitoring Claude Code
+   💻 Python | ⭐ Star
+
+#4 BuilderIO /agent-native
+   🔗 https://github.com/BuilderIO/agent-native
+   📝 A framework for building agentic apps
+   💻 TypeScript | ⭐ Star
+
+#5 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#6 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...
+   💻 TypeScript | ⭐ Star
+
+#7 Open-Dev-Society /OpenStock
+   🔗 https://github.com/Open-Dev-Society/OpenStock
+   📝 OpenStock is an open-source alternative to expensive market platforms. Track rea...
+   💻 TypeScript | ⭐ Star
+
+#8 agent-substrate /substrate
+   🔗 https://github.com/agent-substrate/substrate
+   📝 Agent Substrate: the core system
+   💻 Go | ⭐ Star
+
+#9 strands-agents /harness-sdk
+   🔗 https://github.com/strands-agents/harness-sdk
+   📝 Build an agent harness and control it end-to-end. Open-source SDK for production...
+   💻 Python | ⭐ Star
+
+#10 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#11 superdesigndev /treg
+   🔗 https://github.com/superdesigndev/treg
+   📝 OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
+   💻 Python | ⭐ Star
+
+#12 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design language that makes your AI harness better at design.
+   💻 JavaScript | ⭐ Star
+
+#13 mvt-project /mvt
+   🔗 https://github.com/mvt-project/mvt
+   📝 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi...
+   💻 Python | ⭐ Star
+
+#14 DeusData /codebase-memory-mcp
+   🔗 https://github.com/DeusData/codebase-memory-mcp
+   📝 High-performance code intelligence MCP server. Indexes codebases into a persiste...
+   💻 C | ⭐ Star
+
+#15 harry7557558 /spirula-studio
+   🔗 https://github.com/harry7557558/spirula-studio
+   📝 Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or C...
+   💻 C++ | ⭐ Star
+
+#16 browser-use /video-use
+   🔗 https://github.com/browser-use/video-use
+   📝 Edit videos with coding agents
+   💻 Python | ⭐ Star
+
+#17 TNT-Likely /PanWatch
+   🔗 https://github.com/TNT-Likely/PanWatch
+   📝 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
