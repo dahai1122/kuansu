@@ -12312,3 +12312,80 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-25 03:39:45
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#2 vectorize-io /hindsight
+   🔗 https://github.com/vectorize-io/hindsight
+   📝 Hindsight: Agent Memory That Learns
+   💻 Python | ⭐ Star
+
+#3 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...
+   💻 TypeScript | ⭐ Star
+
+#4 google /ax
+   🔗 https://github.com/google/ax
+   📝 Google's open agentic orchestration runtime
+   💻 Go | ⭐ Star
+
+#5 NVIDIA /Model-Optimizer
+   🔗 https://github.com/NVIDIA/Model-Optimizer
+   📝 A unified library of SOTA model optimization techniques like quantization, disti...
+   💻 Python | ⭐ Star
+
+#6 FxEmbed /FxEmbed
+   🔗 https://github.com/FxEmbed/FxEmbed
+   📝 Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio...
+   💻 TypeScript | ⭐ Star
+
+#7 anthropics /financial-services
+   🔗 https://github.com/anthropics/financial-services
+   📝 N/A
+   💻 Python | ⭐ Star
+
+#8 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#9 mvt-project /mvt
+   🔗 https://github.com/mvt-project/mvt
+   📝 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi...
+   💻 Python | ⭐ Star
+
+#10 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#11 strands-agents /harness-sdk
+   🔗 https://github.com/strands-agents/harness-sdk
+   📝 Build an agent harness and control it end-to-end. Open-source SDK for production...
+   💻 Python | ⭐ Star
+
+#12 julyx10 /lap
+   🔗 https://github.com/julyx10/lap
+   📝 An offline-first photo manager for large local libraries
+   💻 Vue | ⭐ Star
+
+#13 superdesigndev /treg
+   🔗 https://github.com/superdesigndev/treg
+   📝 OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
+   💻 Python | ⭐ Star
+
+#14 leejet /stable-diffusion.cpp
+   🔗 https://github.com/leejet/stable-diffusion.cpp
+   📝 Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+   💻 C++ | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
