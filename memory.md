@@ -12389,3 +12389,90 @@
    💻 C++ | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-26 03:45:29
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 paperclipai /paperclip
+   🔗 https://github.com/paperclipai/paperclip
+   📝 The open-source app everyone uses to manage agents at work
+   💻 TypeScript | ⭐ Star
+
+#2 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#3 vectorize-io /hindsight
+   🔗 https://github.com/vectorize-io/hindsight
+   📝 Hindsight: Agent Memory That Learns
+   💻 Python | ⭐ Star
+
+#4 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#5 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#6 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...
+   💻 TypeScript | ⭐ Star
+
+#7 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#8 androoAGI /starnet
+   🔗 https://github.com/androoAGI/starnet
+   📝 A living pixel-art station where real AI agents do real work. Local-first deskto...
+   💻 JavaScript | ⭐ Star
+
+#9 derv82 /wifit3
+   🔗 https://github.com/derv82/wifit3
+   📝 Wifite but USB-only & cross-platform.
+   💻 Python | ⭐ Star
+
+#10 kelseyhightower /kubernetes-the-hard-way
+   🔗 https://github.com/kelseyhightower/kubernetes-the-hard-way
+   📝 Bootstrap Kubernetes the hard way. No scripts.
+   💻 N/A | ⭐ Star
+
+#11 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#12 shy3130 /tick-stock-panel
+   🔗 https://github.com/shy3130/tick-stock-panel
+   📝 TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | ...
+   💻 Python | ⭐ Star
+
+#13 google /ax
+   🔗 https://github.com/google/ax
+   📝 Google's open agentic orchestration runtime
+   💻 Go | ⭐ Star
+
+#14 NVIDIA /Model-Optimizer
+   🔗 https://github.com/NVIDIA/Model-Optimizer
+   📝 A unified library of SOTA model optimization techniques like quantization, disti...
+   💻 Python | ⭐ Star
+
+#15 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design language that makes your AI harness better at design.
+   💻 JavaScript | ⭐ Star
+
+#16 openbao /openbao
+   🔗 https://github.com/openbao/openbao
+   📝 OpenBao is a software solution to manage, store, and distribute sensitive data i...
+   💻 Go | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
