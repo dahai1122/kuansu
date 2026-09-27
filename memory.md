@@ -12476,3 +12476,85 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-27 03:54:50
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 paperclipai /paperclip
+   🔗 https://github.com/paperclipai/paperclip
+   📝 The open-source app everyone uses to manage agents at work
+   💻 TypeScript | ⭐ Star
+
+#2 vectorize-io /hindsight
+   🔗 https://github.com/vectorize-io/hindsight
+   📝 Hindsight: Agent Memory That Learns
+   💻 Python | ⭐ Star
+
+#3 NVIDIA /Model-Optimizer
+   🔗 https://github.com/NVIDIA/Model-Optimizer
+   📝 A unified library of SOTA model optimization techniques like quantization, disti...
+   💻 Python | ⭐ Star
+
+#4 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...
+   💻 TypeScript | ⭐ Star
+
+#5 tensorflow /tensorflow
+   🔗 https://github.com/tensorflow/tensorflow
+   📝 An Open Source Machine Learning Framework for Everyone
+   💻 C++ | ⭐ Star
+
+#6 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#7 openbao /openbao
+   🔗 https://github.com/openbao/openbao
+   📝 OpenBao is a software solution to manage, store, and distribute sensitive data i...
+   💻 Go | ⭐ Star
+
+#8 block /buzz
+   🔗 https://github.com/block/buzz
+   📝 A hive mind communication platform
+   💻 Rust | ⭐ Star
+
+#9 microsoft /vscode
+   🔗 https://github.com/microsoft/vscode
+   📝 Visual Studio Code
+   💻 TypeScript | ⭐ Star
+
+#10 zhaoxuya520 /reverse-skill
+   🔗 https://github.com/zhaoxuya520/reverse-skill
+   📝 Reverse Engineering / Authorized Penetration Testing / Security Research Skill R...
+   💻 PowerShell | ⭐ Star
+
+#11 llvm /llvm-project
+   🔗 https://github.com/llvm/llvm-project
+   📝 The LLVM Project is a collection of modular and reusable compiler and toolchain ...
+   💻 LLVM | ⭐ Star
+
+#12 anthropics /claude-code-action
+   🔗 https://github.com/anthropics/claude-code-action
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#13 actions /runner-images
+   🔗 https://github.com/actions/runner-images
+   📝 GitHub Actions runner images
+   💻 PowerShell | ⭐ Star
+
+#14 mobile-next /mobile-mcp
+   🔗 https://github.com/mobile-next/mobile-mcp
+   📝 Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, ...
+   💻 TypeScript | ⭐ Star
+
+#15 vercel /next.js
+   🔗 https://github.com/vercel/next.js
+   📝 The React Framework
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
