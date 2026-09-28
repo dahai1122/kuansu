@@ -12558,3 +12558,55 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-28 03:54:48
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 9 個倉庫:
+
+#1 paperclipai /paperclip
+   🔗 https://github.com/paperclipai/paperclip
+   📝 The open-source app everyone uses to manage agents at work
+   💻 TypeScript | ⭐ Star
+
+#2 vectorize-io /hindsight
+   🔗 https://github.com/vectorize-io/hindsight
+   📝 Hindsight: Agent Memory That Learns
+   💻 Python | ⭐ Star
+
+#3 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#4 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#5 InfinityLoop1308 /PipePipe
+   🔗 https://github.com/InfinityLoop1308/PipePipe
+   📝 An open-source Android app to let you browse YouTube and other services freely.
+   💻 Shell | ⭐ Star
+
+#6 vercel-labs /scriptc
+   🔗 https://github.com/vercel-labs/scriptc
+   📝 TypeScript-to-Native Compiler
+   💻 TypeScript | ⭐ Star
+
+#7 mvschwarz /openrig
+   🔗 https://github.com/mvschwarz/openrig
+   📝 Multi-agent harness that runs Claude Code and Codex together as one system
+   💻 TypeScript | ⭐ Star
+
+#8 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...
+   💻 TypeScript | ⭐ Star
+
+#9 willfaust /Madeira
+   🔗 https://github.com/willfaust/Madeira
+   📝 Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
+   💻 C | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
