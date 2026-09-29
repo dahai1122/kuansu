@@ -12610,3 +12610,50 @@
    💻 C | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-29 04:28:59
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 8 個倉庫:
+
+#1 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#2 paperclipai /paperclip
+   🔗 https://github.com/paperclipai/paperclip
+   📝 The open-source app everyone uses to manage agents at work
+   💻 TypeScript | ⭐ Star
+
+#3 vectorize-io /hindsight
+   🔗 https://github.com/vectorize-io/hindsight
+   📝 Hindsight: Agent Memory That Learns
+   💻 Python | ⭐ Star
+
+#4 NawfalMotii79 /PLFM_RADAR
+   🔗 https://github.com/NawfalMotii79/PLFM_RADAR
+   📝 Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+   💻 PLSQL | ⭐ Star
+
+#5 cs341-illinois /coursebook
+   🔗 https://github.com/cs341-illinois/coursebook
+   📝 Open Source Introductory Systems Programming Textbook for the University of Illi...
+   💻 TeX | ⭐ Star
+
+#6 byoungd /up
+   🔗 https://github.com/byoungd/up
+   📝 An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶...
+   💻 JavaScript | ⭐ Star
+
+#7 mvschwarz /openrig
+   🔗 https://github.com/mvschwarz/openrig
+   📝 Multi-agent harness that runs Claude Code and Codex together as one system
+   💻 TypeScript | ⭐ Star
+
+#8 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
