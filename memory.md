@@ -12657,3 +12657,80 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-09-30 04:12:37
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#2 NVIDIA /OpenShell
+   🔗 https://github.com/NVIDIA/OpenShell
+   📝 OpenShell is the safe, private runtime for autonomous AI agents.
+   💻 Rust | ⭐ Star
+
+#3 vectorize-io /hindsight
+   🔗 https://github.com/vectorize-io/hindsight
+   📝 Hindsight: Agent Memory That Learns
+   💻 Python | ⭐ Star
+
+#4 paperclipai /paperclip
+   🔗 https://github.com/paperclipai/paperclip
+   📝 The open-source app everyone uses to manage agents at work
+   💻 TypeScript | ⭐ Star
+
+#5 t8y2 /dbx
+   🔗 https://github.com/t8y2/dbx
+   📝 25 MB lightweight cross-platform database client for 100+ databases, including M...
+   💻 Rust | ⭐ Star
+
+#6 mvschwarz /openrig
+   🔗 https://github.com/mvschwarz/openrig
+   📝 Multi-agent harness that runs Claude Code and Codex together as one system
+   💻 TypeScript | ⭐ Star
+
+#7 oblien /openship
+   🔗 https://github.com/oblien/openship
+   📝 Self-hosted deployment platform
+   💻 TypeScript | ⭐ Star
+
+#8 averygan /reclip
+   🔗 https://github.com/averygan/reclip
+   📝 Download videos from almost any website. Lightweight, self-hosted media download...
+   💻 HTML | ⭐ Star
+
+#9 cs341-illinois /coursebook
+   🔗 https://github.com/cs341-illinois/coursebook
+   📝 Open Source Introductory Systems Programming Textbook for the University of Illi...
+   💻 TeX | ⭐ Star
+
+#10 rohitg00 /ai-engineering-from-scratch
+   🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+   📝 Learn it. Build it. Ship it for others.
+   💻 Python | ⭐ Star
+
+#11 VectifyAI /PageIndex
+   🔗 https://github.com/VectifyAI/PageIndex
+   📝 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+   💻 Python | ⭐ Star
+
+#12 willfaust /Madeira
+   🔗 https://github.com/willfaust/Madeira
+   📝 Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
+   💻 C | ⭐ Star
+
+#13 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...
+   💻 TypeScript | ⭐ Star
+
+#14 rakyll /hey
+   🔗 https://github.com/rakyll/hey
+   📝 HTTP load generator, ApacheBench (ab) replacement
+   💻 Go | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
