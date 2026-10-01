@@ -12734,3 +12734,95 @@
    💻 Go | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-01 04:24:25
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 NVIDIA /OpenShell
+   🔗 https://github.com/NVIDIA/OpenShell
+   📝 OpenShell is the safe, private runtime for autonomous AI agents.
+   💻 Rust | ⭐ Star
+
+#2 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#3 mvschwarz /openrig
+   🔗 https://github.com/mvschwarz/openrig
+   📝 Multi-agent harness that runs Claude Code and Codex together as one system
+   💻 TypeScript | ⭐ Star
+
+#4 mksglu /context-mode
+   🔗 https://github.com/mksglu/context-mode
+   📝 Context window optimization for AI coding agents. Sandboxes tool output (98% red...
+   💻 TypeScript | ⭐ Star
+
+#5 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#6 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw...
+   💻 Python | ⭐ Star
+
+#7 openclaw /openclaw
+   🔗 https://github.com/openclaw/openclaw
+   📝 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+   💻 TypeScript | ⭐ Star
+
+#8 ComposioHQ /awesome-claude-skills
+   🔗 https://github.com/ComposioHQ/awesome-claude-skills
+   📝 A curated list of awesome Claude Skills, resources, and tools for customizing Cl...
+   💻 Python | ⭐ Star
+
+#9 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#10 heygen-com /hyperframes
+   🔗 https://github.com/heygen-com/hyperframes
+   📝 Write HTML. Render video. Built for agents.
+   💻 TypeScript | ⭐ Star
+
+#11 firebase /firebase-ios-sdk
+   🔗 https://github.com/firebase/firebase-ios-sdk
+   📝 Firebase SDK for Apple App Development
+   💻 C++ | ⭐ Star
+
+#12 modelcontextprotocol /servers
+   🔗 https://github.com/modelcontextprotocol/servers
+   📝 Model Context Protocol Servers
+   💻 TypeScript | ⭐ Star
+
+#13 byoungd /up
+   🔗 https://github.com/byoungd/up
+   📝 An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶...
+   💻 JavaScript | ⭐ Star
+
+#14 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C...
+   💻 C | ⭐ Star
+
+#15 t8y2 /dbx
+   🔗 https://github.com/t8y2/dbx
+   📝 25 MB lightweight cross-platform database client for 100+ databases, including M...
+   💻 Rust | ⭐ Star
+
+#16 NawfalMotii79 /PLFM_RADAR
+   🔗 https://github.com/NawfalMotii79/PLFM_RADAR
+   📝 Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+   💻 PLSQL | ⭐ Star
+
+#17 VectifyAI /PageIndex
+   🔗 https://github.com/VectifyAI/PageIndex
+   📝 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
