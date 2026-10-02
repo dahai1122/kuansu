@@ -12826,3 +12826,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-02 04:17:13
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#3 NVIDIA /OpenShell
+   🔗 https://github.com/NVIDIA/OpenShell
+   📝 OpenShell is the safe, private runtime for autonomous AI agents.
+   💻 Rust | ⭐ Star
+
+#4 firebase /firebase-ios-sdk
+   🔗 https://github.com/firebase/firebase-ios-sdk
+   📝 Firebase SDK for Apple App Development
+   💻 C++ | ⭐ Star
+
+#5 mvschwarz /openrig
+   🔗 https://github.com/mvschwarz/openrig
+   📝 Build your own network of agents from Claude Code, Codex and Pi: persistent team...
+   💻 TypeScript | ⭐ Star
+
+#6 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#7 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#8 mksglu /context-mode
+   🔗 https://github.com/mksglu/context-mode
+   📝 Context window optimization for AI coding agents. Sandboxes tool output (98% red...
+   💻 TypeScript | ⭐ Star
+
+#9 heygen-com /hyperframes
+   🔗 https://github.com/heygen-com/hyperframes
+   📝 Write HTML. Render video. Built for agents.
+   💻 TypeScript | ⭐ Star
+
+#10 earendil-works /pi
+   🔗 https://github.com/earendil-works/pi
+   📝 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+   💻 TypeScript | ⭐ Star
+
+#11 tile-ai /tilelang
+   🔗 https://github.com/tile-ai/tilelang
+   📝 Domain-specific language designed to streamline the development of high-performa...
+   💻 Python | ⭐ Star
+
+#12 pablostanley /yoinks
+   🔗 https://github.com/pablostanley/yoinks
+   📝 yoink any video from your terminal. no shady ads.
+   💻 TypeScript | ⭐ Star
+
+#13 HunxByts /GhostTrack
+   🔗 https://github.com/HunxByts/GhostTrack
+   📝 Useful tool to track location or mobile number
+   💻 Python | ⭐ Star
+
+#14 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design language that makes your AI harness better at design.
+   💻 JavaScript | ⭐ Star
+
+#15 Friedrich-M /UniMate
+   🔗 https://github.com/Friedrich-M/UniMate
+   📝 [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
