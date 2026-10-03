@@ -12908,3 +12908,95 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-03 03:59:26
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 Panniantong /Agent-Reach
+   🔗 https://github.com/Panniantong/Agent-Reach
+   📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...
+   💻 Python | ⭐ Star
+
+#2 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick. Viral skill + proxy for coding age...
+   💻 Go | ⭐ Star
+
+#3 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#4 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#5 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design language that makes your AI harness better at design.
+   💻 JavaScript | ⭐ Star
+
+#6 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#7 NVIDIA /OpenShell
+   🔗 https://github.com/NVIDIA/OpenShell
+   📝 OpenShell is the safe, private runtime for autonomous AI agents.
+   💻 Rust | ⭐ Star
+
+#8 coreyhaines31 /marketingskills
+   🔗 https://github.com/coreyhaines31/marketingskills
+   📝 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics...
+   💻 JavaScript | ⭐ Star
+
+#9 heygen-com /hyperframes
+   🔗 https://github.com/heygen-com/hyperframes
+   📝 Write HTML. Render video. Built for agents.
+   💻 TypeScript | ⭐ Star
+
+#10 mksglu /context-mode
+   🔗 https://github.com/mksglu/context-mode
+   📝 Context window optimization for AI coding agents. Sandboxes tool output (98% red...
+   💻 TypeScript | ⭐ Star
+
+#11 google /skills
+   🔗 https://github.com/google/skills
+   📝 Agent Skills for Google products and technologies
+   💻 Python | ⭐ Star
+
+#12 getsentry /sentry
+   🔗 https://github.com/getsentry/sentry
+   📝 Developer-first error tracking and performance monitoring
+   💻 Python | ⭐ Star
+
+#13 colbymchenry /codegraph
+   🔗 https://github.com/colbymchenry/codegraph
+   📝 Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C...
+   💻 C | ⭐ Star
+
+#14 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#15 mvschwarz /openrig
+   🔗 https://github.com/mvschwarz/openrig
+   📝 Build your own network of agents from Claude Code, Codex and Pi: persistent team...
+   💻 TypeScript | ⭐ Star
+
+#16 Effect-TS /effect
+   🔗 https://github.com/Effect-TS/effect
+   📝 Build production-ready applications in TypeScript
+   💻 TypeScript | ⭐ Star
+
+#17 pablostanley /yoinks
+   🔗 https://github.com/pablostanley/yoinks
+   📝 yoink any video from your terminal. no shady ads.
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
