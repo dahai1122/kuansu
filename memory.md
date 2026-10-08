@@ -13333,3 +13333,75 @@
    💻 HTML | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-08 04:43:53
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 morluto /rea
+   🔗 https://github.com/morluto/rea
+   📝 Reverse engineer anything with agents, from app behavior down to native binaries...
+   💻 TypeScript | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#3 boykopovar /AnyPS5
+   🔗 https://github.com/boykopovar/AnyPS5
+   📝 Tool for automatic PS5 executables porting to Linux and Windows
+   💻 C++ | ⭐ Star
+
+#4 ayghri /i-have-adhd
+   🔗 https://github.com/ayghri/i-have-adhd
+   📝 A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+   💻 Python | ⭐ Star
+
+#5 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, ...
+   💻 HTML | ⭐ Star
+
+#6 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#7 EpicGames /raddebugger
+   🔗 https://github.com/EpicGames/raddebugger
+   📝 A native, user-mode, multi-process, graphical debugger.
+   💻 C | ⭐ Star
+
+#8 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#9 manaflow-ai /cmux
+   🔗 https://github.com/manaflow-ai/cmux
+   📝 Open source Ghostty-based macOS terminal with vertical tabs and notifications fo...
+   💻 Swift | ⭐ Star
+
+#10 trycua /cua
+   🔗 https://github.com/trycua/cua
+   📝 Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks...
+   💻 Rust | ⭐ Star
+
+#11 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#12 tester-army /e2e
+   🔗 https://github.com/tester-army/e2e
+   📝 Next generation e2e testing framework for web and mobile apps.
+   💻 TypeScript | ⭐ Star
+
+#13 DuarteSantos8 /openGym
+   🔗 https://github.com/DuarteSantos8/openGym
+   📝 Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, ...
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
