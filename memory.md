@@ -13405,3 +13405,55 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-09 04:47:02
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 9 個倉庫:
+
+#1 boykopovar /AnyPS5
+   🔗 https://github.com/boykopovar/AnyPS5
+   📝 Tool for automatic PS5 executables porting to Linux and Windows
+   💻 C++ | ⭐ Star
+
+#2 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, ...
+   💻 HTML | ⭐ Star
+
+#3 morluto /rea
+   🔗 https://github.com/morluto/rea
+   📝 Reverse engineer anything with agents, from app behavior down to native binaries...
+   💻 TypeScript | ⭐ Star
+
+#4 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#5 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#6 EpicGames /raddebugger
+   🔗 https://github.com/EpicGames/raddebugger
+   📝 A native, user-mode, multi-process, graphical debugger.
+   💻 C | ⭐ Star
+
+#7 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#8 storytold /artcraft
+   🔗 https://github.com/storytold/artcraft
+   📝 ArtCraft is an intentional crafting engine for artists, designers, and filmmaker...
+   💻 Rust | ⭐ Star
+
+#9 liquidslr /system-design-notes
+   🔗 https://github.com/liquidslr/system-design-notes
+   📝 Notes of the book System Desgin Interview - An Insider's Guide
+   💻 N/A | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
