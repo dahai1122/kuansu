@@ -13457,3 +13457,65 @@
    💻 N/A | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-10 04:32:27
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 11 個倉庫:
+
+#1 morluto /rea
+   🔗 https://github.com/morluto/rea
+   📝 Reverse engineer anything with agents, from app behavior down to native binaries...
+   💻 TypeScript | ⭐ Star
+
+#2 boykopovar /AnyPS5
+   🔗 https://github.com/boykopovar/AnyPS5
+   📝 Tool for automatic PS5 executables porting to Linux and Windows
+   💻 C++ | ⭐ Star
+
+#3 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#4 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, ...
+   💻 HTML | ⭐ Star
+
+#5 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c...
+   💻 Go | ⭐ Star
+
+#6 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#7 BerriAI /litellm
+   🔗 https://github.com/BerriAI/litellm
+   📝 The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in...
+   💻 Python | ⭐ Star
+
+#8 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#9 storytold /artcraft
+   🔗 https://github.com/storytold/artcraft
+   📝 ArtCraft is an intentional crafting engine for artists, designers, and filmmaker...
+   💻 Rust | ⭐ Star
+
+#10 Robbyant /lingbot-map
+   🔗 https://github.com/Robbyant/lingbot-map
+   📝 [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transforme...
+   💻 Python | ⭐ Star
+
+#11 twostraws /SwiftUI-Agent-Skill
+   🔗 https://github.com/twostraws/SwiftUI-Agent-Skill
+   📝 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+   💻 N/A | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
