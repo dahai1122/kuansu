@@ -13519,3 +13519,75 @@
    💻 N/A | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-11 04:16:31
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 morluto /rea
+   🔗 https://github.com/morluto/rea
+   📝 Reverse engineer anything with agents, from app behavior down to native binaries...
+   💻 TypeScript | ⭐ Star
+
+#2 boykopovar /AnyPS5
+   🔗 https://github.com/boykopovar/AnyPS5
+   📝 Tool for automatic PS5 executables porting to Linux and Windows
+   💻 C++ | ⭐ Star
+
+#3 storytold /artcraft
+   🔗 https://github.com/storytold/artcraft
+   📝 ArtCraft is an intentional crafting engine for artists, designers, and filmmaker...
+   💻 Rust | ⭐ Star
+
+#4 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory...
+   💻 HTML | ⭐ Star
+
+#5 mksglu /context-mode
+   🔗 https://github.com/mksglu/context-mode
+   📝 Context window optimization for AI coding agents. Sandboxes tool output (98% red...
+   💻 TypeScript | ⭐ Star
+
+#6 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#7 flutter /flutter
+   🔗 https://github.com/flutter/flutter
+   📝 Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+   💻 Dart | ⭐ Star
+
+#8 tensorflow /tensorflow
+   🔗 https://github.com/tensorflow/tensorflow
+   📝 An Open Source Machine Learning Framework for Everyone
+   💻 C++ | ⭐ Star
+
+#9 hugohe3 /ppt-master
+   🔗 https://github.com/hugohe3/ppt-master
+   📝 AI turns documents or topics into real, native PowerPoint decks—with native shap...
+   💻 Python | ⭐ Star
+
+#10 pytorch /pytorch
+   🔗 https://github.com/pytorch/pytorch
+   📝 Tensors and Dynamic neural networks in Python with strong GPU acceleration
+   💻 Python | ⭐ Star
+
+#11 huggingface /transformers
+   🔗 https://github.com/huggingface/transformers
+   📝 🤗 Transformers: the model-definition framework for state-of-the-art machine lear...
+   💻 Python | ⭐ Star
+
+#12 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#13 multica-ai /andrej-karpathy-skills
+   🔗 https://github.com/multica-ai/andrej-karpathy-skills
+   📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...
+   💻 N/A | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
