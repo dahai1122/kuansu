@@ -13591,3 +13591,50 @@
    💻 N/A | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-12 04:33:36
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 8 個倉庫:
+
+#1 morluto /rea
+   🔗 https://github.com/morluto/rea
+   📝 Reverse engineer anything with agents, from app behavior down to native binaries...
+   💻 TypeScript | ⭐ Star
+
+#2 boykopovar /AnyPS5
+   🔗 https://github.com/boykopovar/AnyPS5
+   📝 Tool for automatic PS5 executables porting to Linux and Windows
+   💻 C++ | ⭐ Star
+
+#3 storytold /artcraft
+   🔗 https://github.com/storytold/artcraft
+   📝 ArtCraft is an intentional crafting engine for artists, designers, and filmmaker...
+   💻 Rust | ⭐ Star
+
+#4 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory...
+   💻 HTML | ⭐ Star
+
+#5 bilawalsidhu /gods-eye-view
+   🔗 https://github.com/bilawalsidhu/gods-eye-view
+   📝 A spy satellite simulator in your browser, except the data is real. Live open so...
+   💻 JavaScript | ⭐ Star
+
+#6 pytorch /pytorch
+   🔗 https://github.com/pytorch/pytorch
+   📝 Tensors and Dynamic neural networks in Python with strong GPU acceleration
+   💻 Python | ⭐ Star
+
+#7 lyogavin /airllm
+   🔗 https://github.com/lyogavin/airllm
+   📝 AirLLM 70B inference with single 4GB GPU
+   💻 Jupyter Notebook | ⭐ Star
+
+#8 chrislgarry /Apollo-11
+   🔗 https://github.com/chrislgarry/Apollo-11
+   📝 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar...
+   💻 Assembly | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
