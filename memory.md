@@ -13690,3 +13690,55 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-14 03:43:23
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 9 個倉庫:
+
+#1 morluto /rea
+   🔗 https://github.com/morluto/rea
+   📝 Reverse engineer anything with agents, from app behavior down to native binaries...
+   💻 TypeScript | ⭐ Star
+
+#2 bilawalsidhu /gods-eye-view
+   🔗 https://github.com/bilawalsidhu/gods-eye-view
+   📝 A spy satellite simulator in your browser, except the data is real. Live open so...
+   💻 JavaScript | ⭐ Star
+
+#3 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#4 mksglu /context-mode
+   🔗 https://github.com/mksglu/context-mode
+   📝 Context window optimization for AI coding agents. Sandboxes tool output (98% red...
+   💻 TypeScript | ⭐ Star
+
+#5 cathrynlavery /diagram-design
+   🔗 https://github.com/cathrynlavery/diagram-design
+   📝 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory...
+   💻 HTML | ⭐ Star
+
+#6 vercel-labs /skills
+   🔗 https://github.com/vercel-labs/skills
+   📝 The open agent skills tool - npx skills
+   💻 TypeScript | ⭐ Star
+
+#7 lyogavin /airllm
+   🔗 https://github.com/lyogavin/airllm
+   📝 AirLLM 2.8T LLM inference with single 4GB GPU
+   💻 Jupyter Notebook | ⭐ Star
+
+#8 storytold /artcraft
+   🔗 https://github.com/storytold/artcraft
+   📝 ArtCraft is an intentional crafting engine for artists, designers, and filmmaker...
+   💻 Rust | ⭐ Star
+
+#9 xtool-org /xtool
+   🔗 https://github.com/xtool-org/xtool
+   📝 Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu...
+   💻 Swift | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
