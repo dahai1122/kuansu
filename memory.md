@@ -13742,3 +13742,70 @@
    💻 Swift | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-15 03:24:46
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 12 個倉庫:
+
+#1 morluto /rea
+   🔗 https://github.com/morluto/rea
+   📝 Reverse engineer anything with agents, from app behavior down to native binaries...
+   💻 TypeScript | ⭐ Star
+
+#2 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#3 mksglu /context-mode
+   🔗 https://github.com/mksglu/context-mode
+   📝 Context window optimization for AI coding agents. Sandboxes tool output (98% red...
+   💻 TypeScript | ⭐ Star
+
+#4 nvm-sh /nvm
+   🔗 https://github.com/nvm-sh/nvm
+   📝 Node Version Manager - POSIX-compliant bash script to manage multiple active nod...
+   💻 Shell | ⭐ Star
+
+#5 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#6 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#7 ifixai-ai /iFixAi
+   🔗 https://github.com/ifixai-ai/iFixAi
+   📝 Independent Auditing of AI Agents. Run by human or the agent itself, to answer t...
+   💻 Python | ⭐ Star
+
+#8 vxcontrol /pentagi
+   🔗 https://github.com/vxcontrol/pentagi
+   📝 Fully autonomous AI Agents system capable of performing complex penetration test...
+   💻 Go | ⭐ Star
+
+#9 rust-lang /rust
+   🔗 https://github.com/rust-lang/rust
+   📝 Empowering everyone to build reliable and efficient software.
+   💻 Rust | ⭐ Star
+
+#10 xtool-org /xtool
+   🔗 https://github.com/xtool-org/xtool
+   📝 Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu...
+   💻 Swift | ⭐ Star
+
+#11 ntdevlabs /tiny11builder
+   🔗 https://github.com/ntdevlabs/tiny11builder
+   📝 WinUI app for building smaller, customized Windows 11 images.
+   💻 C# | ⭐ Star
+
+#12 NationalSecurityAgency /ghidra
+   🔗 https://github.com/NationalSecurityAgency/ghidra
+   📝 Ghidra is a software reverse engineering (SRE) framework
+   💻 Java | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
