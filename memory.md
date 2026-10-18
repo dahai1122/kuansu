@@ -13948,3 +13948,75 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-18 03:13:54
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#2 MadsLorentzen /ai-job-search
+   🔗 https://github.com/MadsLorentzen/ai-job-search
+   📝 The job search that runs on your machine. AI job application framework built on ...
+   💻 Python | ⭐ Star
+
+#3 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#4 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#5 K-Dense-AI /scientific-agent-skills
+   🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+   📝 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,...
+   💻 Python | ⭐ Star
+
+#6 akitaonrails /ai-memory
+   🔗 https://github.com/akitaonrails/ai-memory
+   📝 Solution for long term memory for agent coding CLIs and to facilitate handoff be...
+   💻 Rust | ⭐ Star
+
+#7 android /skills
+   🔗 https://github.com/android/skills
+   📝 N/A
+   💻 Kotlin | ⭐ Star
+
+#8 stablyai /orca
+   🔗 https://github.com/stablyai/orca
+   📝 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code...
+   💻 TypeScript | ⭐ Star
+
+#9 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 TypeScript | ⭐ Star
+
+#10 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#11 anomalyco /opencode
+   🔗 https://github.com/anomalyco/opencode
+   📝 The open source coding agent.
+   💻 TypeScript | ⭐ Star
+
+#12 ruvnet /ruflo
+   🔗 https://github.com/ruvnet/ruflo
+   📝 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate...
+   💻 TypeScript | ⭐ Star
+
+#13 xerj-org /xerj
+   🔗 https://github.com/xerj-org/xerj
+   📝 XERJ is the new way for AI to search data. Its autoindex capability activates ag...
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
