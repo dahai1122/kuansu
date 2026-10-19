@@ -14020,3 +14020,75 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-19 03:27:15
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 MadsLorentzen /ai-job-search
+   🔗 https://github.com/MadsLorentzen/ai-job-search
+   📝 The job search that runs on your machine. AI job application framework built on ...
+   💻 Python | ⭐ Star
+
+#2 anthropics /claude-plugins-official
+   🔗 https://github.com/anthropics/claude-plugins-official
+   📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
+   💻 Python | ⭐ Star
+
+#3 anomalyco /opencode
+   🔗 https://github.com/anomalyco/opencode
+   📝 The open source coding agent.
+   💻 TypeScript | ⭐ Star
+
+#4 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#5 ruvnet /ruflo
+   🔗 https://github.com/ruvnet/ruflo
+   📝 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate...
+   💻 TypeScript | ⭐ Star
+
+#6 akitaonrails /ai-memory
+   🔗 https://github.com/akitaonrails/ai-memory
+   📝 Solution for long term memory for agent coding CLIs and to facilitate handoff be...
+   💻 Rust | ⭐ Star
+
+#7 stablyai /orca
+   🔗 https://github.com/stablyai/orca
+   📝 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code...
+   💻 TypeScript | ⭐ Star
+
+#8 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#9 debpalash /VoiceStudio
+   🔗 https://github.com/debpalash/VoiceStudio
+   📝 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...
+   💻 Python | ⭐ Star
+
+#10 android /skills
+   🔗 https://github.com/android/skills
+   📝 N/A
+   💻 Kotlin | ⭐ Star
+
+#11 mlabonne /llm-course
+   🔗 https://github.com/mlabonne/llm-course
+   📝 Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook...
+   💻 N/A | ⭐ Star
+
+#12 Kruk2 /jasna
+   🔗 https://github.com/Kruk2/jasna
+   📝 Video restoration tool
+   💻 Python | ⭐ Star
+
+#13 Comfy-Org /ComfyUI
+   🔗 https://github.com/Comfy-Org/ComfyUI
+   📝 The most powerful and modular diffusion model GUI, api and backend with a graph/...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
