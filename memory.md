@@ -14092,3 +14092,70 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-20 03:36:41
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 12 個倉庫:
+
+#1 MadsLorentzen /ai-job-search
+   🔗 https://github.com/MadsLorentzen/ai-job-search
+   📝 The job search that runs on your machine. AI job application framework built on ...
+   💻 Python | ⭐ Star
+
+#2 anomalyco /opencode
+   🔗 https://github.com/anomalyco/opencode
+   📝 The open source coding agent.
+   💻 TypeScript | ⭐ Star
+
+#3 akitaonrails /ai-memory
+   🔗 https://github.com/akitaonrails/ai-memory
+   📝 Solution for long term memory for agent coding CLIs and to facilitate handoff be...
+   💻 Rust | ⭐ Star
+
+#4 Comfy-Org /ComfyUI
+   🔗 https://github.com/Comfy-Org/ComfyUI
+   📝 The most powerful and modular diffusion model GUI, api and backend with a graph/...
+   💻 Python | ⭐ Star
+
+#5 ruvnet /ruflo
+   🔗 https://github.com/ruvnet/ruflo
+   📝 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate...
+   💻 TypeScript | ⭐ Star
+
+#6 stablyai /orca
+   🔗 https://github.com/stablyai/orca
+   📝 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code...
+   💻 TypeScript | ⭐ Star
+
+#7 headroomlabs-ai /headroom
+   🔗 https://github.com/headroomlabs-ai/headroom
+   📝 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20...
+   💻 Python | ⭐ Star
+
+#8 withmarbleapp /os-taxonomy
+   🔗 https://github.com/withmarbleapp/os-taxonomy
+   📝 N/A
+   💻 JavaScript | ⭐ Star
+
+#9 Kruk2 /jasna
+   🔗 https://github.com/Kruk2/jasna
+   📝 Video restoration tool
+   💻 Python | ⭐ Star
+
+#10 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#11 anthropics /claude-code
+   🔗 https://github.com/anthropics/claude-code
+   📝 Claude Code is an agentic coding tool that lives in your terminal, understands y...
+   💻 TypeScript | ⭐ Star
+
+#12 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
