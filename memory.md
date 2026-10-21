@@ -14159,3 +14159,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-21 03:29:25
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 MadsLorentzen /ai-job-search
+   🔗 https://github.com/MadsLorentzen/ai-job-search
+   📝 The job search that runs on your machine. AI job application framework built on ...
+   💻 Python | ⭐ Star
+
+#2 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#3 stablyai /orca
+   🔗 https://github.com/stablyai/orca
+   📝 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code...
+   💻 TypeScript | ⭐ Star
+
+#4 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#5 Comfy-Org /ComfyUI
+   🔗 https://github.com/Comfy-Org/ComfyUI
+   📝 The most powerful and modular diffusion model GUI, api and backend with a graph/...
+   💻 Python | ⭐ Star
+
+#6 ruvnet /ruflo
+   🔗 https://github.com/ruvnet/ruflo
+   📝 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate...
+   💻 TypeScript | ⭐ Star
+
+#7 Graphify-Labs /graphify
+   🔗 https://github.com/Graphify-Labs/graphify
+   📝 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab...
+   💻 Python | ⭐ Star
+
+#8 anomalyco /opencode
+   🔗 https://github.com/anomalyco/opencode
+   📝 The open source coding agent.
+   💻 TypeScript | ⭐ Star
+
+#9 msitarzewski /agency-agents
+   🔗 https://github.com/msitarzewski/agency-agents
+   📝 A complete AI agency at your fingertips - From frontend wizards to Reddit commun...
+   💻 Shell | ⭐ Star
+
+#10 headroomlabs-ai /headroom
+   🔗 https://github.com/headroomlabs-ai/headroom
+   📝 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20...
+   💻 Python | ⭐ Star
+
+#11 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#12 wshobson /agents
+   🔗 https://github.com/wshobson/agents
+   📝 Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCod...
+   💻 Python | ⭐ Star
+
+#13 sickn33 /agentic-awesome-skills
+   🔗 https://github.com/sickn33/agentic-awesome-skills
+   📝 AAS Core is the local, agent-first control plane for complete catalog discovery,...
+   💻 Python | ⭐ Star
+
+#14 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#15 vllm-project /vllm
+   🔗 https://github.com/vllm-project/vllm
+   📝 A high-throughput and memory-efficient inference and serving engine for LLMs
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
