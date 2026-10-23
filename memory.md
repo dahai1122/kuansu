@@ -14308,3 +14308,55 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-23 03:34:07
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 9 個倉庫:
+
+#1 php /php-src
+   🔗 https://github.com/php/php-src
+   📝 The PHP Interpreter
+   💻 C | ⭐ Star
+
+#2 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#3 DietrichGebert /ponytail
+   🔗 https://github.com/DietrichGebert/ponytail
+   📝 Makes your AI agent think like the laziest senior dev in the room. The best code...
+   💻 JavaScript | ⭐ Star
+
+#4 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#5 Graphify-Labs /graphify
+   🔗 https://github.com/Graphify-Labs/graphify
+   📝 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab...
+   💻 Python | ⭐ Star
+
+#6 supabase /supabase
+   🔗 https://github.com/supabase/supabase
+   📝 The Postgres development platform. Supabase gives you a dedicated Postgres datab...
+   💻 TypeScript | ⭐ Star
+
+#7 fastapi /fastapi
+   🔗 https://github.com/fastapi/fastapi
+   📝 FastAPI framework, high performance, easy to learn, fast to code, ready for prod...
+   💻 Python | ⭐ Star
+
+#8 luongnv89 /claude-howto
+   🔗 https://github.com/luongnv89/claude-howto
+   📝 A visual, example-driven guide to Claude Code — from basic concepts to advanced ...
+   💻 Python | ⭐ Star
+
+#9 Meloong-Git /PCL
+   🔗 https://github.com/Meloong-Git/PCL
+   📝 Minecraft 启动器 Plain Craft Launcher（PCL）。
+   💻 Visual Basic .NET | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
