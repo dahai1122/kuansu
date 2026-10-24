@@ -14360,3 +14360,50 @@
    💻 Visual Basic .NET | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-24 03:28:13
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 8 個倉庫:
+
+#1 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#2 php /php-src
+   🔗 https://github.com/php/php-src
+   📝 The PHP Interpreter
+   💻 C | ⭐ Star
+
+#3 anthropics /knowledge-work-plugins
+   🔗 https://github.com/anthropics/knowledge-work-plugins
+   📝 Open source repository of plugins primarily intended for knowledge workers to us...
+   💻 Python | ⭐ Star
+
+#4 NVIDIA /OpenShell
+   🔗 https://github.com/NVIDIA/OpenShell
+   📝 OpenShell is the safe, private runtime for autonomous AI agents.
+   💻 Rust | ⭐ Star
+
+#5 Renhuai123 /ziwei-doushu
+   🔗 https://github.com/Renhuai123/ziwei-doushu
+   📝 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+   💻 TypeScript | ⭐ Star
+
+#6 SnailSploit /Claude-Red
+   🔗 https://github.com/SnailSploit/Claude-Red
+   📝 claude-red is a curated library of offensive security skills designed for the Cl...
+   💻 Python | ⭐ Star
+
+#7 OpenBMB /VoxCPM
+   🔗 https://github.com/OpenBMB/VoxCPM
+   📝 VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D...
+   💻 Python | ⭐ Star
+
+#8 nodejs /node
+   🔗 https://github.com/nodejs/node
+   📝 Node.js JavaScript runtime ✨🐢🚀✨
+   💻 JavaScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
