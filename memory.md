@@ -14407,3 +14407,60 @@
    💻 JavaScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-25 03:24:02
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 10 個倉庫:
+
+#1 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#2 NVIDIA /OpenShell
+   🔗 https://github.com/NVIDIA/OpenShell
+   📝 OpenShell is the safe, private runtime for autonomous AI agents.
+   💻 Rust | ⭐ Star
+
+#3 aws /agent-toolkit-for-aws
+   🔗 https://github.com/aws/agent-toolkit-for-aws
+   📝 Official, AWS-supported MCP servers, skills, and plugins to help AI agents build...
+   💻 Python | ⭐ Star
+
+#4 Nutlope /hallmark
+   🔗 https://github.com/Nutlope/hallmark
+   📝 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+   💻 CSS | ⭐ Star
+
+#5 luongnv89 /claude-howto
+   🔗 https://github.com/luongnv89/claude-howto
+   📝 A visual, example-driven guide to Claude Code — from basic concepts to advanced ...
+   💻 Python | ⭐ Star
+
+#6 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design language that makes your AI harness better at design.
+   💻 Rust | ⭐ Star
+
+#7 pollen-robotics /microduck
+   🔗 https://github.com/pollen-robotics/microduck
+   📝 A Tiny biped duck robot 🦆
+   💻 Rust | ⭐ Star
+
+#8 google-gemini /gemini-cli
+   🔗 https://github.com/google-gemini/gemini-cli
+   📝 An open-source AI agent that brings the power of Gemini directly into your termi...
+   💻 TypeScript | ⭐ Star
+
+#9 jbiaojerry /ebook-treasure-chest
+   🔗 https://github.com/jbiaojerry/ebook-treasure-chest
+   📝 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的...
+   💻 Python | ⭐ Star
+
+#10 makecindy /cindy
+   🔗 https://github.com/makecindy/cindy
+   📝 Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开...
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
