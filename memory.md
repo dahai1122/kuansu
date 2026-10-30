@@ -14742,3 +14742,65 @@
    💻 Jupyter Notebook | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-30 04:35:08
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 11 個倉庫:
+
+#1 HKUDS /DeepTutor
+   🔗 https://github.com/HKUDS/DeepTutor
+   📝 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+   💻 Python | ⭐ Star
+
+#2 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#3 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design vocabulary for your coding agent. Steer with polish and bolder, revie...
+   💻 Rust | ⭐ Star
+
+#4 JetBrains /thinkrail
+   🔗 https://github.com/JetBrains/thinkrail
+   📝 Vibe code with pi in a lightweight, real IDE that customises itself around the w...
+   💻 TypeScript | ⭐ Star
+
+#5 milind-soni /OpenMausBot
+   🔗 https://github.com/milind-soni/OpenMausBot
+   📝 Open-source Grok Bot alternative with a virtual machine that bots can use
+   💻 TypeScript | ⭐ Star
+
+#6 nightly-labs /openbot
+   🔗 https://github.com/nightly-labs/openbot
+   📝 A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, ...
+   💻 TypeScript | ⭐ Star
+
+#7 elayadesign /ai-design-skills
+   🔗 https://github.com/elayadesign/ai-design-skills
+   📝 N/A
+   💻 N/A | ⭐ Star
+
+#8 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#9 CopilotKit /OpenBot
+   🔗 https://github.com/CopilotKit/OpenBot
+   📝 Open-source AI coworkers that each get a computer of their own: a browser, files...
+   💻 TypeScript | ⭐ Star
+
+#10 togg53192-cmd /jailbreaks
+   🔗 https://github.com/togg53192-cmd/jailbreaks
+   📝 LIST OF ALL MY JAILBREAKS
+   💻 N/A | ⭐ Star
+
+#11 Donchitos /Claude-Code-Game-Studios
+   🔗 https://github.com/Donchitos/Claude-Code-Game-Studios
+   📝 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,...
+   💻 Shell | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
