@@ -14804,3 +14804,85 @@
    💻 Shell | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-10-31 04:17:46
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#2 milind-soni /OpenMausBot
+   🔗 https://github.com/milind-soni/OpenMausBot
+   📝 Open-source Grok Bot alternative with a virtual machine that bots can use
+   💻 TypeScript | ⭐ Star
+
+#3 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design vocabulary for your coding agent. Steer with polish and bolder, revie...
+   💻 Rust | ⭐ Star
+
+#4 CopilotKit /OpenBot
+   🔗 https://github.com/CopilotKit/OpenBot
+   📝 Open-source AI coworkers that each get a computer of their own: a browser, files...
+   💻 TypeScript | ⭐ Star
+
+#5 Renhuai123 /ziwei-doushu
+   🔗 https://github.com/Renhuai123/ziwei-doushu
+   📝 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+   💻 TypeScript | ⭐ Star
+
+#6 expo /skills
+   🔗 https://github.com/expo/skills
+   📝 A collection of AI agent skills for working with Expo projects and Expo Applicat...
+   💻 Shell | ⭐ Star
+
+#7 macro-inc /macro
+   🔗 https://github.com/macro-inc/macro
+   📝 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,...
+   💻 Rust | ⭐ Star
+
+#8 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#9 pingdotgg /t3code
+   🔗 https://github.com/pingdotgg/t3code
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#10 HKUDS /DeepTutor
+   🔗 https://github.com/HKUDS/DeepTutor
+   📝 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+   💻 Python | ⭐ Star
+
+#11 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#12 JetBrains /thinkrail
+   🔗 https://github.com/JetBrains/thinkrail
+   📝 Vibe code with pi in a lightweight, real IDE that customises itself around the w...
+   💻 TypeScript | ⭐ Star
+
+#13 togg53192-cmd /jailbreaks
+   🔗 https://github.com/togg53192-cmd/jailbreaks
+   📝 LIST OF ALL MY JAILBREAKS
+   💻 N/A | ⭐ Star
+
+#14 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#15 lightpanda-io /browser
+   🔗 https://github.com/lightpanda-io/browser
+   📝 Lightpanda: the headless browser designed for AI and automation
+   💻 Zig | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
