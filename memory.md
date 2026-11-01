@@ -14886,3 +14886,80 @@
    💻 Zig | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-01 04:38:06
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 14 個倉庫:
+
+#1 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#3 Donchitos /Claude-Code-Game-Studios
+   🔗 https://github.com/Donchitos/Claude-Code-Game-Studios
+   📝 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,...
+   💻 Shell | ⭐ Star
+
+#4 pingdotgg /t3code
+   🔗 https://github.com/pingdotgg/t3code
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#5 Renhuai123 /ziwei-doushu
+   🔗 https://github.com/Renhuai123/ziwei-doushu
+   📝 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+   💻 TypeScript | ⭐ Star
+
+#6 milind-soni /OpenMausBot
+   🔗 https://github.com/milind-soni/OpenMausBot
+   📝 Open-source Grok Bot alternative with a virtual machine that bots can use
+   💻 TypeScript | ⭐ Star
+
+#7 pbakaus /impeccable
+   🔗 https://github.com/pbakaus/impeccable
+   📝 The design vocabulary for your coding agent. Steer with polish and bolder, revie...
+   💻 Rust | ⭐ Star
+
+#8 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#9 lightpanda-io /browser
+   🔗 https://github.com/lightpanda-io/browser
+   📝 Lightpanda: the headless browser designed for AI and automation
+   💻 Zig | ⭐ Star
+
+#10 HKUDS /DeepTutor
+   🔗 https://github.com/HKUDS/DeepTutor
+   📝 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+   💻 Python | ⭐ Star
+
+#11 Orkas-AI /Orkas
+   🔗 https://github.com/Orkas-AI/Orkas
+   📝 Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander...
+   💻 JavaScript | ⭐ Star
+
+#12 THU-MAIC /OpenMAIC
+   🔗 https://github.com/THU-MAIC/OpenMAIC
+   📝 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning ...
+   💻 TypeScript | ⭐ Star
+
+#13 bregman-arie /devops-exercises
+   🔗 https://github.com/bregman-arie/devops-exercises
+   📝 Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, ...
+   💻 Python | ⭐ Star
+
+#14 vorssaint /vorssaint-utils
+   🔗 https://github.com/vorssaint/vorssaint-utils
+   📝 Free and open-source macOS menu bar toolkit.
+   💻 Swift | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
