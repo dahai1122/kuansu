@@ -14963,3 +14963,95 @@
    💻 Swift | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-02 04:40:07
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#2 lightpanda-io /browser
+   🔗 https://github.com/lightpanda-io/browser
+   📝 Lightpanda: the headless browser designed for AI and automation
+   💻 Zig | ⭐ Star
+
+#3 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#4 pingdotgg /t3code
+   🔗 https://github.com/pingdotgg/t3code
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#5 milind-soni /OpenMausBot
+   🔗 https://github.com/milind-soni/OpenMausBot
+   📝 Open-source Grok Bot alternative with a virtual machine that bots can use
+   💻 TypeScript | ⭐ Star
+
+#6 public-apis /public-apis
+   🔗 https://github.com/public-apis/public-apis
+   📝 A collective list of free APIs
+   💻 Python | ⭐ Star
+
+#7 cjpais /Handy
+   🔗 https://github.com/cjpais/Handy
+   📝 A free, open source, and extensible speech-to-text application that works comple...
+   💻 Rust | ⭐ Star
+
+#8 Donchitos /Claude-Code-Game-Studios
+   🔗 https://github.com/Donchitos/Claude-Code-Game-Studios
+   📝 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,...
+   💻 Shell | ⭐ Star
+
+#9 kornia /kornia
+   🔗 https://github.com/kornia/kornia
+   📝 🐍 Geometric Computer Vision Library for Spatial AI
+   💻 Python | ⭐ Star
+
+#10 beenuar /AiSOC
+   🔗 https://github.com/beenuar/AiSOC
+   📝 Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE...
+   💻 Python | ⭐ Star
+
+#11 Renhuai123 /ziwei-doushu
+   🔗 https://github.com/Renhuai123/ziwei-doushu
+   📝 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+   💻 TypeScript | ⭐ Star
+
+#12 anomalyco /hex
+   🔗 https://github.com/anomalyco/hex
+   📝 Local voice dictation for mac, windows and linux
+   💻 Rust | ⭐ Star
+
+#13 CopilotKit /OpenBot
+   🔗 https://github.com/CopilotKit/OpenBot
+   📝 Open-source AI coworkers that each get a computer of their own: a browser, files...
+   💻 TypeScript | ⭐ Star
+
+#14 togg53192-cmd /jailbreaks
+   🔗 https://github.com/togg53192-cmd/jailbreaks
+   📝 LIST OF ALL MY JAILBREAKS
+   💻 N/A | ⭐ Star
+
+#15 patchy631 /ai-engineering-hub
+   🔗 https://github.com/patchy631/ai-engineering-hub
+   📝 In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+   💻 Jupyter Notebook | ⭐ Star
+
+#16 FlashML-org /FreeToken
+   🔗 https://github.com/FlashML-org/FreeToken
+   📝 FreeToken brings datacenter-scale model serving to your desktop. Run massive mod...
+   💻 Python | ⭐ Star
+
+#17 hyprwm /Hyprland
+   🔗 https://github.com/hyprwm/Hyprland
+   📝 Hyprland is an independent, highly customizable, dynamic tiling Wayland composit...
+   💻 C++ | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
