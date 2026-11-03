@@ -15055,3 +15055,85 @@
    💻 C++ | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-03 05:31:02
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 vercel-labs /agent-desktop
+   🔗 https://github.com/vercel-labs/agent-desktop
+   📝 Computer use CLI for AI agents
+   💻 Rust | ⭐ Star
+
+#2 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#3 D4Vinci /Scrapling
+   🔗 https://github.com/D4Vinci/Scrapling
+   📝 🕷️ The BEST Web Scraping framework that handles everything from a single request...
+   💻 Python | ⭐ Star
+
+#4 hyprwm /Hyprland
+   🔗 https://github.com/hyprwm/Hyprland
+   📝 Hyprland is an independent, highly customizable, dynamic tiling Wayland composit...
+   💻 C++ | ⭐ Star
+
+#5 Donchitos /Claude-Code-Game-Studios
+   🔗 https://github.com/Donchitos/Claude-Code-Game-Studios
+   📝 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,...
+   💻 Shell | ⭐ Star
+
+#6 FlashML-org /FreeToken
+   🔗 https://github.com/FlashML-org/FreeToken
+   📝 FreeToken brings datacenter-scale model serving to your desktop. Run massive mod...
+   💻 Python | ⭐ Star
+
+#7 pingdotgg /t3code
+   🔗 https://github.com/pingdotgg/t3code
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#8 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#9 kornia /kornia
+   🔗 https://github.com/kornia/kornia
+   📝 🐍 Geometric Computer Vision Library for Spatial AI
+   💻 Python | ⭐ Star
+
+#10 JustVugg /colibri
+   🔗 https://github.com/JustVugg/colibri
+   📝 Run frontier MoE models on hardware you already own — pure C, zero deps, experts...
+   💻 C | ⭐ Star
+
+#11 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#12 max-sixty /worktrunk
+   🔗 https://github.com/max-sixty/worktrunk
+   📝 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w...
+   💻 Rust | ⭐ Star
+
+#13 paperclipai /paperclip
+   🔗 https://github.com/paperclipai/paperclip
+   📝 The open-source app everyone uses to manage agents at work
+   💻 TypeScript | ⭐ Star
+
+#14 karpathy /nanochat
+   🔗 https://github.com/karpathy/nanochat
+   📝 The best ChatGPT that $100 can buy.
+   💻 Python | ⭐ Star
+
+#15 p-e-w /heretic
+   🔗 https://github.com/p-e-w/heretic
+   📝 Training-free language model modification: Remove censorship, suppress slop, red...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
