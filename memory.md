@@ -15137,3 +15137,75 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-04 04:59:25
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#2 vercel-labs /agent-desktop
+   🔗 https://github.com/vercel-labs/agent-desktop
+   📝 Computer use CLI for AI agents
+   💻 Rust | ⭐ Star
+
+#3 max-sixty /worktrunk
+   🔗 https://github.com/max-sixty/worktrunk
+   📝 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w...
+   💻 Rust | ⭐ Star
+
+#4 JustVugg /colibri
+   🔗 https://github.com/JustVugg/colibri
+   📝 A hierarchical inference engine for frontier MoE models: hot experts on the GPU ...
+   💻 C | ⭐ Star
+
+#5 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#6 p-e-w /heretic
+   🔗 https://github.com/p-e-w/heretic
+   📝 Training-free language model modification: Remove censorship, suppress slop, red...
+   💻 Python | ⭐ Star
+
+#7 spotify /portal-ai-plugins
+   🔗 https://github.com/spotify/portal-ai-plugins
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#8 floci-io /floci
+   🔗 https://github.com/floci-io/floci
+   📝 Light, fluffy, and always free - The AWS Local Emulator alternative
+   💻 Java | ⭐ Star
+
+#9 Usagi-org /ai-goofish-monitor
+   🔗 https://github.com/Usagi-org/ai-goofish-monitor
+   📝 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+   💻 Python | ⭐ Star
+
+#10 anomalyco /hex
+   🔗 https://github.com/anomalyco/hex
+   📝 Local voice dictation for mac, windows and linux
+   💻 Rust | ⭐ Star
+
+#11 D4Vinci /Scrapling
+   🔗 https://github.com/D4Vinci/Scrapling
+   📝 🕷️ The BEST Web Scraping framework that handles everything from a single request...
+   💻 Python | ⭐ Star
+
+#12 shiyu-coder /Kronos
+   🔗 https://github.com/shiyu-coder/Kronos
+   📝 Kronos: A Foundation Model for the Language of Financial Markets
+   💻 Python | ⭐ Star
+
+#13 Donchitos /Claude-Code-Game-Studios
+   🔗 https://github.com/Donchitos/Claude-Code-Game-Studios
+   📝 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,...
+   💻 Shell | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
