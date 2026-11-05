@@ -15209,3 +15209,90 @@
    💻 Shell | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-05 05:21:29
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 16 個倉庫:
+
+#1 NVIDIA /auto-ontology
+   🔗 https://github.com/NVIDIA/auto-ontology
+   📝 Auto Ontology is a Python framework for building semantic, graph-based reasoning...
+   💻 Python | ⭐ Star
+
+#2 max-sixty /worktrunk
+   🔗 https://github.com/max-sixty/worktrunk
+   📝 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w...
+   💻 Rust | ⭐ Star
+
+#3 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#4 floci-io /floci
+   🔗 https://github.com/floci-io/floci
+   📝 Light, fluffy, and always free - The AWS Local Emulator alternative
+   💻 Java | ⭐ Star
+
+#5 thedotmack /claude-mem
+   🔗 https://github.com/thedotmack/claude-mem
+   📝 Persistent Context Across Sessions for Every Agent – Captures everything your ag...
+   💻 TypeScript | ⭐ Star
+
+#6 vercel-labs /agent-desktop
+   🔗 https://github.com/vercel-labs/agent-desktop
+   📝 Computer use CLI for AI agents
+   💻 Rust | ⭐ Star
+
+#7 github /spec-kit
+   🔗 https://github.com/github/spec-kit
+   📝 💫 Toolkit to help you get started with SDD or any other process!
+   💻 Python | ⭐ Star
+
+#8 The-PR-Agent /pr-agent
+   🔗 https://github.com/The-PR-Agent/pr-agent
+   📝 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo f...
+   💻 Python | ⭐ Star
+
+#9 harry0703 /MoneyPrinterTurbo
+   🔗 https://github.com/harry0703/MoneyPrinterTurbo
+   📝 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw...
+   💻 Python | ⭐ Star
+
+#10 garrytan /gstack
+   🔗 https://github.com/garrytan/gstack
+   📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...
+   💻 TypeScript | ⭐ Star
+
+#11 FareedKhan-dev /kimi-k3-in-c
+   🔗 https://github.com/FareedKhan-dev/kimi-k3-in-c
+   📝 A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o...
+   💻 C | ⭐ Star
+
+#12 JiaFeiMiao-K-Cat /DiscImageStudio
+   🔗 https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+   📝 N/A
+   💻 C# | ⭐ Star
+
+#13 MichaelCade /90DaysOfDevOps
+   🔗 https://github.com/MichaelCade/90DaysOfDevOps
+   📝 This repository started out as a learning in public project for myself and has n...
+   💻 Shell | ⭐ Star
+
+#14 D4Vinci /Scrapling
+   🔗 https://github.com/D4Vinci/Scrapling
+   📝 🕷️ The BEST Web Scraping framework that handles everything from a single request...
+   💻 Python | ⭐ Star
+
+#15 Thysrael /Horizon
+   🔗 https://github.com/Thysrael/Horizon
+   📝 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese...
+   💻 Python | ⭐ Star
+
+#16 scenario-labs /skills
+   🔗 https://github.com/scenario-labs/skills
+   📝 Get production-ready images, video, audio, and 3D from any AI agent: skills that...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
