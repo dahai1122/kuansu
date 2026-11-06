@@ -15296,3 +15296,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-06 05:20:43
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 NVIDIA /auto-ontology
+   🔗 https://github.com/NVIDIA/auto-ontology
+   📝 Auto Ontology is a Python framework for building semantic, graph-based reasoning...
+   💻 Python | ⭐ Star
+
+#2 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#3 garrytan /gstack
+   🔗 https://github.com/garrytan/gstack
+   📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...
+   💻 TypeScript | ⭐ Star
+
+#4 Usagi-org /ai-goofish-monitor
+   🔗 https://github.com/Usagi-org/ai-goofish-monitor
+   📝 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+   💻 Python | ⭐ Star
+
+#5 D4Vinci /Scrapling
+   🔗 https://github.com/D4Vinci/Scrapling
+   📝 🕷️ The BEST Web Scraping framework that handles everything from a single request...
+   💻 Python | ⭐ Star
+
+#6 vercel-labs /agent-desktop
+   🔗 https://github.com/vercel-labs/agent-desktop
+   📝 Computer use CLI for AI agents
+   💻 Rust | ⭐ Star
+
+#7 max-sixty /worktrunk
+   🔗 https://github.com/max-sixty/worktrunk
+   📝 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w...
+   💻 Rust | ⭐ Star
+
+#8 lz4 /lz4
+   🔗 https://github.com/lz4/lz4
+   📝 Extremely Fast Compression algorithm
+   💻 C | ⭐ Star
+
+#9 google /skills
+   🔗 https://github.com/google/skills
+   📝 Agent Skills for Google products and technologies
+   💻 Python | ⭐ Star
+
+#10 vercel-labs /agent-browser
+   🔗 https://github.com/vercel-labs/agent-browser
+   📝 Browser automation CLI for AI agents
+   💻 Rust | ⭐ Star
+
+#11 scenario-labs /skills
+   🔗 https://github.com/scenario-labs/skills
+   📝 Get production-ready images, video, audio, and 3D from any AI agent: skills that...
+   💻 Python | ⭐ Star
+
+#12 ConardLi /garden-skills
+   🔗 https://github.com/ConardLi/garden-skills
+   📝 ConardLi's open-source Skills collection, featuring web design, knowledge retrie...
+   💻 JavaScript | ⭐ Star
+
+#13 microsoft /VibeVoice
+   🔗 https://github.com/microsoft/VibeVoice
+   📝 Open-Source Frontier Voice AI
+   💻 Python | ⭐ Star
+
+#14 floci-io /floci
+   🔗 https://github.com/floci-io/floci
+   📝 Light, fluffy, and always free - The AWS Local Emulator alternative
+   💻 Java | ⭐ Star
+
+#15 JiaFeiMiao-K-Cat /DiscImageStudio
+   🔗 https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+   📝 N/A
+   💻 C# | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
