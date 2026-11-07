@@ -15378,3 +15378,95 @@
    💻 C# | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-07 04:50:15
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 17 個倉庫:
+
+#1 zed-industries /zed
+   🔗 https://github.com/zed-industries/zed
+   📝 Code at the speed of thought – Zed is a high-performance, multiplayer code edito...
+   💻 Rust | ⭐ Star
+
+#2 NVIDIA /auto-ontology
+   🔗 https://github.com/NVIDIA/auto-ontology
+   📝 Auto Ontology is a Python framework for building semantic, graph-based reasoning...
+   💻 Python | ⭐ Star
+
+#3 rails /rails
+   🔗 https://github.com/rails/rails
+   📝 Ruby on Rails
+   💻 Ruby | ⭐ Star
+
+#4 mpv-player /mpv
+   🔗 https://github.com/mpv-player/mpv
+   📝 🎥 Command line media player
+   💻 C | ⭐ Star
+
+#5 rust-lang /rust
+   🔗 https://github.com/rust-lang/rust
+   📝 Empowering everyone to build reliable and efficient software.
+   💻 Rust | ⭐ Star
+
+#6 react /react
+   🔗 https://github.com/react/react
+   📝 The library for web and native user interfaces.
+   💻 JavaScript | ⭐ Star
+
+#7 angular /angular
+   🔗 https://github.com/angular/angular
+   📝 Deliver web apps with confidence 🚀
+   💻 TypeScript | ⭐ Star
+
+#8 symfony /symfony
+   🔗 https://github.com/symfony/symfony
+   📝 The Symfony PHP framework
+   💻 PHP | ⭐ Star
+
+#9 prometheus /prometheus
+   🔗 https://github.com/prometheus/prometheus
+   📝 The Prometheus monitoring system and time series database.
+   💻 Go | ⭐ Star
+
+#10 google /skills
+   🔗 https://github.com/google/skills
+   📝 Agent Skills for Google products and technologies
+   💻 Python | ⭐ Star
+
+#11 microsoft /vscode
+   🔗 https://github.com/microsoft/vscode
+   📝 Visual Studio Code
+   💻 TypeScript | ⭐ Star
+
+#12 nushell /nushell
+   🔗 https://github.com/nushell/nushell
+   📝 A new type of shell
+   💻 Rust | ⭐ Star
+
+#13 etcd-io /etcd
+   🔗 https://github.com/etcd-io/etcd
+   📝 Distributed reliable key-value store for the most critical data of a distributed...
+   💻 Go | ⭐ Star
+
+#14 openssl /openssl
+   🔗 https://github.com/openssl/openssl
+   📝 General purpose TLS and crypto library
+   💻 C | ⭐ Star
+
+#15 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#16 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#17 astral-sh /ruff
+   🔗 https://github.com/astral-sh/ruff
+   📝 An extremely fast Python linter and code formatter, written in Rust.
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
