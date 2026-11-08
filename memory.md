@@ -15470,3 +15470,85 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-08 04:41:21
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 vercel-labs /agent-browser
+   🔗 https://github.com/vercel-labs/agent-browser
+   📝 Browser automation CLI for AI agents
+   💻 Rust | ⭐ Star
+
+#2 cloudflare /security-audit-skill
+   🔗 https://github.com/cloudflare/security-audit-skill
+   📝 A coding-agent skill for multi-phase security audits with independently verified...
+   💻 JavaScript | ⭐ Star
+
+#3 google /skills
+   🔗 https://github.com/google/skills
+   📝 Agent Skills for Google products and technologies
+   💻 Python | ⭐ Star
+
+#4 mattpocock /skills
+   🔗 https://github.com/mattpocock/skills
+   📝 Skills for Real Engineers. Straight from my .agents directory.
+   💻 Shell | ⭐ Star
+
+#5 anthropics /skills
+   🔗 https://github.com/anthropics/skills
+   📝 Public repository for Agent Skills
+   💻 Python | ⭐ Star
+
+#6 meta /astryx
+   🔗 https://github.com/meta/astryx
+   📝 An open source design system that's fully customizable and agent ready
+   💻 TypeScript | ⭐ Star
+
+#7 prometheus /prometheus
+   🔗 https://github.com/prometheus/prometheus
+   📝 The Prometheus monitoring system and time series database.
+   💻 Go | ⭐ Star
+
+#8 sherlock-project /sherlock
+   🔗 https://github.com/sherlock-project/sherlock
+   📝 Hunt down social media accounts by username across social networks
+   💻 Python | ⭐ Star
+
+#9 milind-soni /OpenMausBot
+   🔗 https://github.com/milind-soni/OpenMausBot
+   📝 Open-source Grok Bot alternative with a virtual machine that bots can use
+   💻 TypeScript | ⭐ Star
+
+#10 astral-sh /ruff
+   🔗 https://github.com/astral-sh/ruff
+   📝 An extremely fast Python linter and code formatter, written in Rust.
+   💻 Rust | ⭐ Star
+
+#11 tailwindlabs /tailwindcss
+   🔗 https://github.com/tailwindlabs/tailwindcss
+   📝 A utility-first CSS framework for rapid UI development.
+   💻 TypeScript | ⭐ Star
+
+#12 mbillow /localthings
+   🔗 https://github.com/mbillow/localthings
+   📝 Control your Samsung appliances from Home Assistant over your home network, with...
+   💻 Python | ⭐ Star
+
+#13 zed-industries /zed
+   🔗 https://github.com/zed-industries/zed
+   📝 Code at the speed of thought – Zed is a high-performance, multiplayer code edito...
+   💻 Rust | ⭐ Star
+
+#14 ranxianglei /billion-context
+   🔗 https://github.com/ranxianglei/billion-context
+   📝 A context-compression plugin for month-long single sessions (billions of tokens)...
+   💻 TypeScript | ⭐ Star
+
+#15 dsx-ai-factory /nvke
+   🔗 https://github.com/dsx-ai-factory/nvke
+   📝 NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare m...
+   💻 Go | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
