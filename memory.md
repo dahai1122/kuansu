@@ -15733,3 +15733,60 @@
    💻 Shell | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-12 05:55:36
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 10 個倉庫:
+
+#1 meta /astryx
+   🔗 https://github.com/meta/astryx
+   📝 An open source design system that's fully customizable and agent ready
+   💻 TypeScript | ⭐ Star
+
+#2 ZhuLinsen /daily_stock_analysis
+   🔗 https://github.com/ZhuLinsen/daily_stock_analysis
+   📝 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock...
+   💻 Python | ⭐ Star
+
+#3 GoogleChrome /modern-web-guidance-src
+   🔗 https://github.com/GoogleChrome/modern-web-guidance-src
+   📝 N/A
+   💻 TypeScript | ⭐ Star
+
+#4 shadcn /improve
+   🔗 https://github.com/shadcn/improve
+   📝 Use your most capable model to audit your codebase and write plans for cheaper m...
+   💻 N/A | ⭐ Star
+
+#5 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#6 vercel-labs /agent-browser
+   🔗 https://github.com/vercel-labs/agent-browser
+   📝 Browser automation CLI for AI agents
+   💻 Rust | ⭐ Star
+
+#7 we-promise /sure
+   🔗 https://github.com/we-promise/sure
+   📝 The personal finance app for everyone (by everyone)
+   💻 Ruby | ⭐ Star
+
+#8 homeassistant-ai /ha-mcp
+   🔗 https://github.com/homeassistant-ai/ha-mcp
+   📝 Configure and automate Home Assistant with Claude, ChatGPT, and other AI assista...
+   💻 Python | ⭐ Star
+
+#9 openai /codex-security
+   🔗 https://github.com/openai/codex-security
+   📝 OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi...
+   💻 TypeScript | ⭐ Star
+
+#10 TheAlgorithms /Java
+   🔗 https://github.com/TheAlgorithms/Java
+   📝 All Algorithms implemented in Java
+   💻 Java | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
