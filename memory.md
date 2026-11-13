@@ -15790,3 +15790,75 @@
    💻 Java | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-13 05:18:13
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 13 個倉庫:
+
+#1 GoogleChrome /modern-web-guidance-src
+   🔗 https://github.com/GoogleChrome/modern-web-guidance-src
+   📝 Keep your coding agent up to date with the latest web best practices
+   💻 TypeScript | ⭐ Star
+
+#2 openai /codex-security
+   🔗 https://github.com/openai/codex-security
+   📝 OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi...
+   💻 TypeScript | ⭐ Star
+
+#3 nvm-sh /nvm
+   🔗 https://github.com/nvm-sh/nvm
+   📝 Node Version Manager - POSIX-compliant bash script to manage multiple active nod...
+   💻 Shell | ⭐ Star
+
+#4 pookjw /HermesEnabler
+   🔗 https://github.com/pookjw/HermesEnabler
+   📝 Enable Hermès Watch Faces on any Apple Watch devices
+   💻 Objective-C | ⭐ Star
+
+#5 we-promise /sure
+   🔗 https://github.com/we-promise/sure
+   📝 The personal finance app for everyone (by everyone)
+   💻 Ruby | ⭐ Star
+
+#6 QwenLM /qwen-code
+   🔗 https://github.com/QwenLM/qwen-code
+   📝 An open-source AI coding agent that lives in your terminal.
+   💻 TypeScript | ⭐ Star
+
+#7 ashhart /TensorFold
+   🔗 https://github.com/ashhart/TensorFold
+   📝 LLM Inference Engine for Metal, CUDA and Vulkan.
+   💻 Zig | ⭐ Star
+
+#8 nodejs /node
+   🔗 https://github.com/nodejs/node
+   📝 Node.js JavaScript runtime ✨🐢🚀✨
+   💻 JavaScript | ⭐ Star
+
+#9 addyosmani /agent-skills
+   🔗 https://github.com/addyosmani/agent-skills
+   📝 Production-grade engineering skills for AI coding agents.
+   💻 JavaScript | ⭐ Star
+
+#10 meta /astryx
+   🔗 https://github.com/meta/astryx
+   📝 An open source design system that's fully customizable and agent ready
+   💻 TypeScript | ⭐ Star
+
+#11 CopilotKit /OpenBot
+   🔗 https://github.com/CopilotKit/OpenBot
+   📝 Open-source AI coworkers that each get a computer of their own: a browser, files...
+   💻 TypeScript | ⭐ Star
+
+#12 Alishahryar1 /free-claude-code
+   🔗 https://github.com/Alishahryar1/free-claude-code
+   📝 Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harne...
+   💻 Python | ⭐ Star
+
+#13 ggml-org /llama.cpp
+   🔗 https://github.com/ggml-org/llama.cpp
+   📝 LLM inference in C/C++
+   💻 C++ | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
