@@ -15862,3 +15862,70 @@
    💻 C++ | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-14 05:07:40
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 12 個倉庫:
+
+#1 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c...
+   💻 Go | ⭐ Star
+
+#2 GoogleChrome /modern-web-guidance-src
+   🔗 https://github.com/GoogleChrome/modern-web-guidance-src
+   📝 Keep your coding agent up to date with the latest web best practices
+   💻 TypeScript | ⭐ Star
+
+#3 openai /codex-security
+   🔗 https://github.com/openai/codex-security
+   📝 OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi...
+   💻 TypeScript | ⭐ Star
+
+#4 ZhuLinsen /daily_stock_analysis
+   🔗 https://github.com/ZhuLinsen/daily_stock_analysis
+   📝 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock...
+   💻 Python | ⭐ Star
+
+#5 we-promise /sure
+   🔗 https://github.com/we-promise/sure
+   📝 The personal finance app for everyone (by everyone)
+   💻 Ruby | ⭐ Star
+
+#6 backnotprop /plannotator
+   🔗 https://github.com/backnotprop/plannotator
+   📝 The workspace to stay in the loop and on top of agents - shape, decide, plan, an...
+   💻 TypeScript | ⭐ Star
+
+#7 louislam /uptime-kuma
+   🔗 https://github.com/louislam/uptime-kuma
+   📝 A fancy self-hosted monitoring tool
+   💻 JavaScript | ⭐ Star
+
+#8 block /buzz
+   🔗 https://github.com/block/buzz
+   📝 A hive mind communication platform
+   💻 Rust | ⭐ Star
+
+#9 tradermonty /claude-trading-skills
+   🔗 https://github.com/tradermonty/claude-trading-skills
+   📝 Claude Code skills for equity investors and traders — market analysis, technical...
+   💻 Python | ⭐ Star
+
+#10 tailscale /tailcat
+   🔗 https://github.com/tailscale/tailcat
+   📝 like netcat, but over Tailscale's data plane, without Tailscale's control plane
+   💻 Go | ⭐ Star
+
+#11 Likely7 /Veyra-NRVideo
+   🔗 https://github.com/Likely7/Veyra-NRVideo
+   📝 Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and captu...
+   💻 C++ | ⭐ Star
+
+#12 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
