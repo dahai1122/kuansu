@@ -15929,3 +15929,85 @@
    💻 TypeScript | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-15 04:59:49
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 backnotprop /plannotator
+   🔗 https://github.com/backnotprop/plannotator
+   📝 The workspace to stay in the loop and on top of agents - shape, decide, plan, an...
+   💻 TypeScript | ⭐ Star
+
+#2 GoogleChrome /modern-web-guidance-src
+   🔗 https://github.com/GoogleChrome/modern-web-guidance-src
+   📝 Keep your coding agent up to date with the latest web best practices
+   💻 TypeScript | ⭐ Star
+
+#3 tradermonty /claude-trading-skills
+   🔗 https://github.com/tradermonty/claude-trading-skills
+   📝 Claude Code skills for equity investors and traders — market analysis, technical...
+   💻 Python | ⭐ Star
+
+#4 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#5 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c...
+   💻 Go | ⭐ Star
+
+#6 QwenLM /qwen-code
+   🔗 https://github.com/QwenLM/qwen-code
+   📝 An open-source AI coding agent that lives in your terminal.
+   💻 TypeScript | ⭐ Star
+
+#7 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 Build your own AI office with Univer Office SDK. Bring editing, calculation, col...
+   💻 TypeScript | ⭐ Star
+
+#8 ag-ui-protocol /ag-ui
+   🔗 https://github.com/ag-ui-protocol/ag-ui
+   📝 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati...
+   💻 TypeScript | ⭐ Star
+
+#9 ashhart /TensorFold
+   🔗 https://github.com/ashhart/TensorFold
+   📝 LLM Inference Engine for Metal, CUDA and Vulkan.
+   💻 Zig | ⭐ Star
+
+#10 JuliusBrussee /caveman
+   🔗 https://github.com/JuliusBrussee/caveman
+   📝 🪨 why use many token when few token do trick. Viral skill + proxy for coding age...
+   💻 Go | ⭐ Star
+
+#11 louislam /uptime-kuma
+   🔗 https://github.com/louislam/uptime-kuma
+   📝 A fancy self-hosted monitoring tool
+   💻 JavaScript | ⭐ Star
+
+#12 we-promise /sure
+   🔗 https://github.com/we-promise/sure
+   📝 The personal finance app for everyone (by everyone)
+   💻 Ruby | ⭐ Star
+
+#13 Tencent /LoopForge
+   🔗 https://github.com/Tencent/LoopForge
+   📝 Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an...
+   💻 Go | ⭐ Star
+
+#14 Likely7 /Veyra-NRVideo
+   🔗 https://github.com/Likely7/Veyra-NRVideo
+   📝 Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and captu...
+   💻 C++ | ⭐ Star
+
+#15 martin-olivier /airgorah
+   🔗 https://github.com/martin-olivier/airgorah
+   📝 A WiFi security auditing software
+   💻 Rust | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
