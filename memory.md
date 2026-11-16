@@ -16011,3 +16011,70 @@
    💻 Rust | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-16 04:58:18
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 12 個倉庫:
+
+#1 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 Build your own AI office with Univer Office SDK. Bring editing, calculation, col...
+   💻 TypeScript | ⭐ Star
+
+#2 ag-ui-protocol /ag-ui
+   🔗 https://github.com/ag-ui-protocol/ag-ui
+   📝 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati...
+   💻 TypeScript | ⭐ Star
+
+#3 google-labs-code /stitch-skills
+   🔗 https://github.com/google-labs-code/stitch-skills
+   📝 A library of Agent Skills designed to work with the Stitch MCP server. Each skil...
+   💻 TypeScript | ⭐ Star
+
+#4 backnotprop /plannotator
+   🔗 https://github.com/backnotprop/plannotator
+   📝 The workspace to stay in the loop and on top of agents - shape, decide, plan, an...
+   💻 TypeScript | ⭐ Star
+
+#5 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#6 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c...
+   💻 Go | ⭐ Star
+
+#7 Tencent /LoopForge
+   🔗 https://github.com/Tencent/LoopForge
+   📝 Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an...
+   💻 Go | ⭐ Star
+
+#8 ggml-org /ggml
+   🔗 https://github.com/ggml-org/ggml
+   📝 Tensor library for machine learning
+   💻 C++ | ⭐ Star
+
+#9 elementalsouls /Claude-BugHunter
+   🔗 https://github.com/elementalsouls/Claude-BugHunter
+   📝 A Claude Code skill bundle for bug hunting and external red-team work - 82 skill...
+   💻 Python | ⭐ Star
+
+#10 GoogleChrome /modern-web-guidance-src
+   🔗 https://github.com/GoogleChrome/modern-web-guidance-src
+   📝 Keep your coding agent up to date with the latest web best practices
+   💻 TypeScript | ⭐ Star
+
+#11 tradermonty /claude-trading-skills
+   🔗 https://github.com/tradermonty/claude-trading-skills
+   📝 Claude Code skills for equity investors and traders — market analysis, technical...
+   💻 Python | ⭐ Star
+
+#12 NVIDIA /SkillEvaluator
+   🔗 https://github.com/NVIDIA/SkillEvaluator
+   📝 Multi-tier framework for evaluating AI agent skills with quality gates, semantic...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
