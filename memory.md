@@ -16078,3 +16078,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-17 06:46:17
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 ag-ui-protocol /ag-ui
+   🔗 https://github.com/ag-ui-protocol/ag-ui
+   📝 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati...
+   💻 TypeScript | ⭐ Star
+
+#2 backnotprop /plannotator
+   🔗 https://github.com/backnotprop/plannotator
+   📝 The workspace to stay in the loop and on top of agents - shape, decide, plan, an...
+   💻 TypeScript | ⭐ Star
+
+#3 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 Build your own AI office with Univer Office SDK. Bring editing, calculation, col...
+   💻 TypeScript | ⭐ Star
+
+#4 tradermonty /claude-trading-skills
+   🔗 https://github.com/tradermonty/claude-trading-skills
+   📝 Claude Code skills for equity investors and traders — market analysis, technical...
+   💻 Python | ⭐ Star
+
+#5 elementalsouls /Claude-BugHunter
+   🔗 https://github.com/elementalsouls/Claude-BugHunter
+   📝 A Claude Code skill bundle for bug hunting and external red-team work - 82 skill...
+   💻 Python | ⭐ Star
+
+#6 getarcaneapp /arcane
+   🔗 https://github.com/getarcaneapp/arcane
+   📝 Modern Docker Management, Designed for Everyone
+   💻 Go | ⭐ Star
+
+#7 DeanChensj /jiangshan-map
+   🔗 https://github.com/DeanChensj/jiangshan-map
+   📝 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China a...
+   💻 JavaScript | ⭐ Star
+
+#8 google-labs-code /stitch-skills
+   🔗 https://github.com/google-labs-code/stitch-skills
+   📝 A library of Agent Skills designed to work with the Stitch MCP server. Each skil...
+   💻 TypeScript | ⭐ Star
+
+#9 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#10 NVIDIA /SkillEvaluator
+   🔗 https://github.com/NVIDIA/SkillEvaluator
+   📝 Multi-tier framework for evaluating AI agent skills and plugins with quality gat...
+   💻 Python | ⭐ Star
+
+#11 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c...
+   💻 Go | ⭐ Star
+
+#12 google-research /paper-orchestra
+   🔗 https://github.com/google-research/paper-orchestra
+   📝 PaperOrchestra is a multi-agent framework for automated AI research paper writin...
+   💻 Python | ⭐ Star
+
+#13 ChromeDevTools /chrome-devtools-mcp
+   🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+   📝 Chrome DevTools for coding agents
+   💻 TypeScript | ⭐ Star
+
+#14 sveltejs /svelte
+   🔗 https://github.com/sveltejs/svelte
+   📝 web development for the rest of us
+   💻 JavaScript | ⭐ Star
+
+#15 kajisho5 /ffmpeg-skill
+   🔗 https://github.com/kajisho5/ffmpeg-skill
+   📝 Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
