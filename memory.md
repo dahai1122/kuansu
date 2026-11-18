@@ -16160,3 +16160,85 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-18 06:04:03
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 15 個倉庫:
+
+#1 elementalsouls /Claude-BugHunter
+   🔗 https://github.com/elementalsouls/Claude-BugHunter
+   📝 A Claude Code skill bundle for bug hunting and external red-team work - 82 skill...
+   💻 Python | ⭐ Star
+
+#2 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#3 alibaba /open-code-review
+   🔗 https://github.com/alibaba/open-code-review
+   📝 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c...
+   💻 Go | ⭐ Star
+
+#4 Tencent /LoopForge
+   🔗 https://github.com/Tencent/LoopForge
+   📝 Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an...
+   💻 Go | ⭐ Star
+
+#5 dream-num /univer
+   🔗 https://github.com/dream-num/univer
+   📝 Build your own AI office with Univer Office SDK. Bring editing, calculation, col...
+   💻 TypeScript | ⭐ Star
+
+#6 getarcaneapp /arcane
+   🔗 https://github.com/getarcaneapp/arcane
+   📝 Modern Docker Management, Designed for Everyone
+   💻 Go | ⭐ Star
+
+#7 google-labs-code /stitch-skills
+   🔗 https://github.com/google-labs-code/stitch-skills
+   📝 A library of Agent Skills designed to work with the Stitch MCP server. Each skil...
+   💻 TypeScript | ⭐ Star
+
+#8 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#9 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#10 ag-ui-protocol /ag-ui
+   🔗 https://github.com/ag-ui-protocol/ag-ui
+   📝 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati...
+   💻 TypeScript | ⭐ Star
+
+#11 backnotprop /plannotator
+   🔗 https://github.com/backnotprop/plannotator
+   📝 The workspace to stay in the loop and on top of agents - shape, decide, plan, an...
+   💻 TypeScript | ⭐ Star
+
+#12 sveltejs /svelte
+   🔗 https://github.com/sveltejs/svelte
+   📝 web development for the rest of us
+   💻 JavaScript | ⭐ Star
+
+#13 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#14 jingyaogong /minimind
+   🔗 https://github.com/jingyaogong/minimind
+   📝 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+   💻 Python | ⭐ Star
+
+#15 google-research /paper-orchestra
+   🔗 https://github.com/google-research/paper-orchestra
+   📝 PaperOrchestra is a multi-agent framework for automated AI research paper writin...
+   💻 Python | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
