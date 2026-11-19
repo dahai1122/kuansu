@@ -16242,3 +16242,105 @@
    💻 Python | ⭐ Star
 
 ✅ 數據已保存到 trending_data.json
+🚀 GitHub Trending Fetcher
+📅 時間: 2026-11-19 06:05:35
+--------------------------------------------------------------------------------
+
+✅ 成功獲取 19 個倉庫:
+
+#1 cursor /plugins
+   🔗 https://github.com/cursor/plugins
+   📝 Cursor plugin specification and official plugins
+   💻 TypeScript | ⭐ Star
+
+#2 HKUDS /CLI-Anything
+   🔗 https://github.com/HKUDS/CLI-Anything
+   📝 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything....
+   💻 Python | ⭐ Star
+
+#3 mvanhorn /last30days-skill
+   🔗 https://github.com/mvanhorn/last30days-skill
+   📝 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...
+   💻 Python | ⭐ Star
+
+#4 getarcaneapp /arcane
+   🔗 https://github.com/getarcaneapp/arcane
+   📝 Modern Docker Management, Designed for Everyone
+   💻 Go | ⭐ Star
+
+#5 NVIDIA /SkillEvaluator
+   🔗 https://github.com/NVIDIA/SkillEvaluator
+   📝 Multi-tier framework for evaluating AI agent skills and plugins with quality gat...
+   💻 Python | ⭐ Star
+
+#6 nvm-sh /nvm
+   🔗 https://github.com/nvm-sh/nvm
+   📝 Node Version Manager - POSIX-compliant bash script to manage multiple active nod...
+   💻 Shell | ⭐ Star
+
+#7 astral-sh /uv
+   🔗 https://github.com/astral-sh/uv
+   📝 An extremely fast Python package and project manager, written in Rust.
+   💻 Rust | ⭐ Star
+
+#8 google-research /paper-orchestra
+   🔗 https://github.com/google-research/paper-orchestra
+   📝 PaperOrchestra is a multi-agent framework for automated AI research paper writin...
+   💻 Python | ⭐ Star
+
+#9 google-labs-code /stitch-skills
+   🔗 https://github.com/google-labs-code/stitch-skills
+   📝 A library of Agent Skills designed to work with the Stitch MCP server. Each skil...
+   💻 TypeScript | ⭐ Star
+
+#10 sveltejs /svelte
+   🔗 https://github.com/sveltejs/svelte
+   📝 web development for the rest of us
+   💻 JavaScript | ⭐ Star
+
+#11 jquery /jquery
+   🔗 https://github.com/jquery/jquery
+   📝 jQuery JavaScript Library
+   💻 JavaScript | ⭐ Star
+
+#12 appwrite /appwrite
+   🔗 https://github.com/appwrite/appwrite
+   📝 The open-source cloud for agents & devs. Including Auth, Databases, Storage, Fun...
+   💻 TypeScript | ⭐ Star
+
+#13 openvinotoolkit /openvino
+   🔗 https://github.com/openvinotoolkit/openvino
+   📝 OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+   💻 C++ | ⭐ Star
+
+#14 obra /superpowers
+   🔗 https://github.com/obra/superpowers
+   📝 An agentic skills framework & software development methodology that works.
+   💻 Shell | ⭐ Star
+
+#15 affaan-m /ECC
+   🔗 https://github.com/affaan-m/ECC
+   📝 The agent harness performance optimization system. Skills, instincts, memory, se...
+   💻 JavaScript | ⭐ Star
+
+#16 DeanChensj /jiangshan-map
+   🔗 https://github.com/DeanChensj/jiangshan-map
+   📝 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China a...
+   💻 JavaScript | ⭐ Star
+
+#17 n8n-io /n8n
+   🔗 https://github.com/n8n-io/n8n
+   📝 Fair-code workflow automation platform with native AI capabilities. Combine visu...
+   💻 TypeScript | ⭐ Star
+
+#18 solidjs /solid
+   🔗 https://github.com/solidjs/solid
+   📝 A declarative, efficient, and flexible JavaScript library for building user inte...
+   💻 TypeScript | ⭐ Star
+
+#19 punkpeye /awesome-mcp-servers
+   🔗 https://github.com/punkpeye/awesome-mcp-servers
+   📝 A collection of MCP servers.
+   💻 N/A | ⭐ Star
+
+✅ 數據已保存到 trending_data.json
